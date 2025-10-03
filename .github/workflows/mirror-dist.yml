@@ -1,0 +1,45 @@
+name: Mirror dist to gh-pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Snapshot main content
+        run: |
+          rm -rf _snapshot
+          mkdir _snapshot
+          shopt -s dotglob
+          cp -R * _snapshot/
+          rm -rf _snapshot/.git _snapshot/.github
+      - name: Switch to gh-pages and replace content
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          if git ls-remote --exit-code origin refs/heads/gh-pages; then
+            git fetch origin gh-pages
+            git checkout gh-pages
+            git rm -r . >/dev/null 2>&1 || true
+          else
+            git checkout --orphan gh-pages
+            rm -rf *
+          fi
+          cp -R _snapshot/* .
+          touch .nojekyll
+          echo "Mirrored from main at $(date -u +%Y-%m-%dT%H:%M:%SZ)" > mirror-info.txt
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to publish."; exit 0
+          fi
+          git commit -m "Mirror main to gh-pages (CI) $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin HEAD:gh-pages

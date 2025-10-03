@@ -1,0 +1,4216 @@
+[
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "Abaka CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "Abakrampa Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "Abass Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Moree",
+    "Facility": "Abokumano/Moree CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asebu (Abura-Asebu-Kwamankese)",
+    "Facility": "Abuenu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "Abura Dunkwa District Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "Aburaman Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Moree",
+    "Facility": "Aggrey Memorial Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asebu (Abura-Asebu-Kwamankese)",
+    "Facility": "Amosima CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asebu (Abura-Asebu-Kwamankese)",
+    "Facility": "Asebu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asebu (Abura-Asebu-Kwamankese)",
+    "Facility": "Asebu Ekroful CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Asomdwee CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Asuansi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Asuansi Rural Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Asutech Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Ayeldo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "Batanya CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Moree",
+    "Facility": "Brafoyaw CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "Enyinabrim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Gyabankrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Korado CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Kwadoegya CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Kwamankese CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Moree",
+    "Facility": "Moree Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Mpeseduadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Musunkwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "New Ebu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "New Odonase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "Nkwantanan CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Nyamedom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "Nyanfeku Ekroful CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Obohen CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Gyabankrom",
+    "Facility": "Obokor CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Okyiriku CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "Old Ebu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abakrampa",
+    "Facility": "Papagya CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asebu (Abura-Asebu-Kwamankese)",
+    "Facility": "Putubiw CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Moree",
+    "Facility": "Sorodofo/Abaasa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Asuansi",
+    "Facility": "Srafa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Abura-Asebu-Kwamankese",
+    "Sub-district": "Abura Dunkwa",
+    "Facility": "Tuakwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Asafo",
+    "Facility": "Angelina Memorial Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Asafo",
+    "Facility": "Asafo Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Asafo",
+    "Facility": "Brahabekum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Nsaba",
+    "Facility": "Duabone CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Mankrong",
+    "Facility": "Esusu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Mankrong",
+    "Facility": "Fante Bawjiase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Kwanyako",
+    "Facility": "Grace Mercy Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Mankrong",
+    "Facility": "Kenyanko CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Kwanyako",
+    "Facility": "Kokoado CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Asafo",
+    "Facility": "Kwansakrom/Swiss CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Kwanyako",
+    "Facility": "Kwanyako Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Nsaba",
+    "Facility": "Kwesi Paintsil CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Kwanyako",
+    "Facility": "Kwesitwikwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Mankrong",
+    "Facility": "Mankrong Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Duakwa/Mensakrom",
+    "Facility": "Mansofo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Duakwa/Mensakrom",
+    "Facility": "Mensakrom Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Duakwa/Mensakrom",
+    "Facility": "Namanwora CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Nsaba",
+    "Facility": "Ninta/Nampong CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Nsaba",
+    "Facility": "Nkran Ekura CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Nsaba",
+    "Facility": "Nsaba Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Mankrong",
+    "Facility": "Oboyambo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Nsaba",
+    "Facility": "Ofoase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Kwanyako",
+    "Facility": "Otwekwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Duakwa/Mensakrom",
+    "Facility": "Salvation Army Hospital, Agona-Duakwa",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Asafo",
+    "Facility": "Tawora/Nantifa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona East",
+    "Sub-district": "Duakwa/Mensakrom",
+    "Facility": "The Salvation Army Rehabilitation Centre, Duakwa",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Abodom",
+    "Facility": "Abigyakrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Abodom",
+    "Facility": "Abodom Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Otsenkrong",
+    "Facility": "Adukrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "Ahamadiyya Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Nyakrom",
+    "Facility": "Armah CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Bobikuma",
+    "Facility": "Bobikuma Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "Dergewa Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Bobikuma",
+    "Facility": "Kwaman CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "Nana Khadija CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Nkum",
+    "Facility": "Nkum Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Nkum",
+    "Facility": "Nsuasa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Nyakrom",
+    "Facility": "Nyakrom Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "Nyamendam CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Nkum",
+    "Facility": "Odom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "Otabilkrom Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Otsenkrong",
+    "Facility": "Otsenkrong CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "St Joseph Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Agona West",
+    "Sub-district": "Swedru",
+    "Facility": "Swedru Government Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Abaasa",
+    "Facility": "Abaasa Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Sunkwa",
+    "Facility": "Abaka CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Nkwantanum",
+    "Facility": "Ahomakormbua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Ajumako District Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Nkwantanum",
+    "Facility": "Akotogua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Ampiah-Ajumako CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Bisease",
+    "Facility": "Ayinasu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Baa Salvation Army Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Bisease",
+    "Facility": "Bisease Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Sunkwa",
+    "Facility": "Ekukrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Sunkwa",
+    "Facility": "Ekwamase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Abaasa",
+    "Facility": "Enyan Apaa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Nkwantanum",
+    "Facility": "Enyanmaim Community Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Essaman CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Sunkwa",
+    "Facility": "Etsii Fawomanye CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Bisease",
+    "Facility": "Kokoben CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Nkwantanum",
+    "Facility": "Kokwado CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Abaasa",
+    "Facility": "Kromaim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Kwanyako (Ajumako Enyan Esiam) Community Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Mama Thes Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Abaasa",
+    "Facility": "Mando Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Abaasa",
+    "Facility": "Nkojo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Nkwantanum",
+    "Facility": "Nkwantanum Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Sunkwa",
+    "Facility": "Nyamebekyere CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Abaasa",
+    "Facility": "Obontsir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Bisease",
+    "Facility": "Obrawugum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Nkwantanum",
+    "Facility": "Ofosu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Osedzi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Premier Care Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "Salvation Army Health Centre, Ajumako-Ochiso",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Sunkwa",
+    "Facility": "Sunkwa Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ajumako-Enyan-Essiam",
+    "Sub-district": "Ajumako",
+    "Facility": "UEW CLINIC",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Brakwa",
+    "Facility": "Afofosu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Anhwiam",
+    "Facility": "Amanbete CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Amanfopong",
+    "Facility": "Amanfopong CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Bedum",
+    "Facility": "Amoanda CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Anhwiam",
+    "Facility": "Anhwiam CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Brakwa",
+    "Facility": "Asarekwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Asempaneye CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Asikuma Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Bedum",
+    "Facility": "Ato Dauda CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Bedum",
+    "Facility": "Ayipey CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "BOSOMASE CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Baako CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Bedum",
+    "Facility": "Bedum Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Benin CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Brakwa",
+    "Facility": "Brakwa Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Odoben",
+    "Facility": "Domeabra CHPS Zone",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Anhwiam",
+    "Facility": "Edumenu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Brakwa",
+    "Facility": "Eduosia CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Anhwiam",
+    "Facility": "Essumangwira CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Amanfopong",
+    "Facility": "Fosuansa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Jamra CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Jamra Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Kawanopado CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Brakwa",
+    "Facility": "Kokoso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Odoben",
+    "Facility": "Kuntanase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Amanfopong",
+    "Facility": "Mante CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Odoben",
+    "Facility": "Nankese CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Odoben",
+    "Facility": "Nkwanta-Nando CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Bedum",
+    "Facility": "Nwomaso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Odoben",
+    "Facility": "Odoben Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Anhwiam",
+    "Facility": "Ohianhyeda CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Our Lady of Grace Catholic Hospital, Breman Asikuma",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Anhwiam",
+    "Facility": "Sowotuom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Asikuma (Asikuma-Odoben-Brakwa)",
+    "Facility": "Supunso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Asikuma-Odoben-Brakwa",
+    "Sub-district": "Odoben",
+    "Facility": "Tweredua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Akoti",
+    "Facility": "Akoti Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Awisem",
+    "Facility": "Akwanhyiam CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Awisem",
+    "Facility": "Assin Awisem Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "Assin Foso Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "Cecilia & Sammy Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "DAMS Family Clinic and Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "Dompim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "Joy Emmanuel Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Nyankomasi",
+    "Facility": "Juaso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Nyankomasi",
+    "Facility": "Nyankomasi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "Our Lady of Fatima Clinic, Fosu Odumasi",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Foso",
+    "Facility": "St. Francis Xavier Catholic Hospital, Assin Foso",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin Foso",
+    "Sub-district": "Akoti",
+    "Facility": "Wurakese Camp CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Kushea",
+    "Facility": "Achiano CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akropong Odumase",
+    "Facility": "Akropong -Odumase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Basofi",
+    "Facility": "Amoakrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akropong Odumase",
+    "Facility": "Amoaning CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Basofi",
+    "Facility": "Anhweinsu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akropong Odumase",
+    "Facility": "Asibrim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akonfudi",
+    "Facility": "Assin Akonfudi Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Bereku",
+    "Facility": "Assin Bereku Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akonfudi",
+    "Facility": "Assin Endwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Kushea",
+    "Facility": "Assin Kushea Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Bereku",
+    "Facility": "Atentan CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Bediadua",
+    "Facility": "Atwereboanda CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akropong Odumase",
+    "Facility": "Aworabo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Basofi",
+    "Facility": "Basofi Ningo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Bediadua",
+    "Facility": "Bediadua Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Bereku",
+    "Facility": "Dansame CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Basofi",
+    "Facility": "Gangan CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Akonfudi",
+    "Facility": "Gold Coast Camp CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Praso (Assin North)",
+    "Facility": "Presbyterian Hospital, Assin Praso",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin North",
+    "Sub-district": "Bediadua",
+    "Facility": "Sienchem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Ongwa",
+    "Facility": "Aboabo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Abodweseso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Achiase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Ongwa",
+    "Facility": "Adiembra CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Anyinabrim (Assin South)",
+    "Facility": "Akrofuom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Anyinabrim (Assin South)",
+    "Facility": "Amanbete CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Jakai",
+    "Facility": "Amoabeng CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Andoe CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Assin Adadientem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Anyinabrim (Assin South)",
+    "Facility": "Assin Anyinabrim Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nsuta (Assin)",
+    "Facility": "Assin Appiahkrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nsuta (Assin)",
+    "Facility": "Assin Dominase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nsuta (Assin)",
+    "Facility": "Assin Edubiase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Jakai",
+    "Facility": "Assin Jakai Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nyankumasi Ahenkro",
+    "Facility": "Assin Juabeng CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nyankumasi Ahenkro",
+    "Facility": "Assin Kumasi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Assin Manso Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Assin Tebir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Bankyease CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Anyinabrim (Assin South)",
+    "Facility": "Bepokokoo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nyankumasi Ahenkro",
+    "Facility": "Bosomadwe CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nsuta (Assin)",
+    "Facility": "Homaho CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Jakai",
+    "Facility": "Kruwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Jakai",
+    "Facility": "Mesormagor CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nyankumasi Ahenkro",
+    "Facility": "Ngreasi Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Ongwa",
+    "Facility": "Nuanua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Jakai",
+    "Facility": "Nyamebebu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nyankumasi Ahenkro",
+    "Facility": "Nyankumasi Ahenkro Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Ochiso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Ongwa",
+    "Facility": "Ongwa Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Nsuta (Assin)",
+    "Facility": "Presbyterian Health Centre,  Assin Nsuta",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Assin South",
+    "Sub-district": "Manso (Assin South)",
+    "Facility": "Wekia Maternity Home and Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Adawukwao CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Awutu",
+    "Facility": "Ahentia CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bontrase",
+    "Facility": "Akrabong CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Awutu",
+    "Facility": "Akrampa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Awutu",
+    "Facility": "Awutu Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Ayensuaku CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Ayiresu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Bawjiase Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Bewuenum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Senya Breku",
+    "Facility": "Bonsuoku CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bontrase",
+    "Facility": "Bontrase Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Awutu",
+    "Facility": "Chochoe CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Awutu",
+    "Facility": "Christys Martenity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Fausty's Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Fianko CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Senya Breku",
+    "Facility": "Kokoado CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Mangoase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Margo Marternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Mayenda CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bontrase",
+    "Facility": "Mfadwen CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Obrachire CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Ofadaa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Okwampa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Papaase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Papaase Community Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Prime Care Clinic & Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Papaase (Awutu Senya)",
+    "Facility": "Providence Clinic & Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Senya Breku",
+    "Facility": "Senya Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya",
+    "Sub-district": "Bawjiase",
+    "Facility": "Tawiakwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "Adom Estate Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Opeikuma",
+    "Facility": "Amporful Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Amuzukope CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Bethel Community Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "Chrisrick Care and Maternity Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Comprehensive Care Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Odupong Kpehe",
+    "Facility": "Divine Sanitas Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Odupong Kpehe",
+    "Facility": "Fine Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Opeikuma",
+    "Facility": "Florence Community Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "Gada Health Center",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Odupong Kpehe",
+    "Facility": "Holy Family Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Infant Jesus Catholic Clinic,Ofaakor - Kasoa",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Odupong Kpehe",
+    "Facility": "Justab Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Odupong Kpehe",
+    "Facility": "Kasoa Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Kpormetey CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Opeikuma",
+    "Facility": "Krispol City CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Lamptey Mills CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Mighty-Crag Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "Modern Care Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa Main",
+    "Facility": "Mother and Child Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa North",
+    "Facility": "New Market Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "Odupong SHS Infirmary",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "Ofaakor CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Opeikuma",
+    "Facility": "Opeikuma CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "Sanford Health - Ghana",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Opeikuma",
+    "Facility": "Shalom City Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa Main",
+    "Facility": "Siloam Mission Hospital, Kasoa",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Akwelley",
+    "Facility": "St Joe's Specialist Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Awutu Senya East",
+    "Sub-district": "Kasoa Main",
+    "Facility": "Wesley Clinic Annex",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Efutu",
+    "Facility": "ANDO CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "AUGUSCO Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Academy Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Adisadel College Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Adisadel Urban Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "Aged Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "Akotokyir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "Amamoma CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Baiden Ghartey Memorial Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Bishop Ackon Memorial Christian Eye Centre, Cape",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Brimso Sanford CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "Cape Coast Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "Cape Coast Metropolitan Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Cape Coast Teaching Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Cape Coast Technical University Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "Cape Deaf Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Efutu",
+    "Facility": "DEHIA CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "DIS Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "DUAKOR/ABAKAM CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Dentmax Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Efutu",
+    "Facility": "EFUTU MAMPONG CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Efutu",
+    "Facility": "Efutu Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Efutu",
+    "Facility": "Efutu SHS Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "Ekon Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Essuakyir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "Ewim Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Eyifua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "GNC Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "Holy Child Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Kakumdu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Krofufrodu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "Kwaprow Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "Mfantsipim School Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Mpeasem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "Nkanfoa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "Ola College Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "Regional Police Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "Sanford World Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Cape Coast Central",
+    "Facility": "Siwdu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Ewim",
+    "Facility": "The Saint Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "UPSHS Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "UCC",
+    "Facility": "University Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Cape Coast",
+    "Sub-district": "Adisadel",
+    "Facility": "WGHS Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba West",
+    "Facility": "Akosua Village CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Kojo Beedu North - Low cost",
+    "Facility": "Ansaful CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba East",
+    "Facility": "Coast For Christ Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Essuekyir-Gyahadze",
+    "Facility": "DR. KWAME PRAH CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Essuekyir-Gyahadze",
+    "Facility": "Essuekyir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba East",
+    "Facility": "George Kwame Quansah Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Essuekyir-Gyahadze",
+    "Facility": "Gyahadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Essuekyir-Gyahadze",
+    "Facility": "Gyangyanadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Essuekyir-Gyahadze",
+    "Facility": "Hon. Nii Ephraim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba East",
+    "Facility": "Hon. Samuel Owusu Agyei Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Kojo Beedu North - Low cost",
+    "Facility": "Klimovic Memorial Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Kojo Beedu North - Low cost",
+    "Facility": "New Winneba CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba West",
+    "Facility": "Otoo Memorial Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba East",
+    "Facility": "Papa-Kow Demtse CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Kojo Beedu North - Low cost",
+    "Facility": "Trauma and Specialist Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Kojo Beedu North - Low cost",
+    "Facility": "University Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba West",
+    "Facility": "Winneba Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba East",
+    "Facility": "Winneba Municipal Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Efutu",
+    "Sub-district": "Winneba East",
+    "Facility": "Zongo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Abor CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Akwakrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Akwansa Kokodo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Asaafa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Ebiram CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Ebuakwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Edumafa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Otuam",
+    "Facility": "Egyankwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Ekrawfol CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Ekumpoano CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Essuehyia Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Eyisam CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "God's Gift Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Otuam",
+    "Facility": "Immuna CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Nanabeng CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Narkwa Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Essuehyia",
+    "Facility": "Otabanadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Otuam",
+    "Facility": "Otuam Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Otuam",
+    "Facility": "Srafa Kokodo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Suprudo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Ekumfi",
+    "Sub-district": "Narkwa",
+    "Facility": "Twa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Ekwamkrom",
+    "Facility": "Abasa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Aboso (Gomoa Central)",
+    "Facility": "Aboso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Asebu (Gomoa Central)",
+    "Facility": "Asebu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Aboso (Gomoa Central)",
+    "Facility": "Ayerekrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Aboso (Gomoa Central)",
+    "Facility": "Dahom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Ekwamkrom",
+    "Facility": "Ekwamkrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Obuasi",
+    "Facility": "Esikuma CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Ekwamkrom",
+    "Facility": "Gomoa Aboyin Health Center",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Obuasi",
+    "Facility": "Lome CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Ekwamkrom",
+    "Facility": "Mangoase Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Ekwamkrom",
+    "Facility": "Manso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Asebu (Gomoa Central)",
+    "Facility": "Mpota CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Ekwamkrom",
+    "Facility": "Nsuaem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa Central",
+    "Sub-district": "Obuasi",
+    "Facility": "Obuasi Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Potsin",
+    "Facility": "Adzentem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Akotsi Junction CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Akramang CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "Amakum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduatta",
+    "Facility": "Buduatta Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduatta",
+    "Facility": "Dabanyi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Dampaase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduatta",
+    "Facility": "Dasum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduatta",
+    "Facility": "Dominase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Ebenezer Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Elda Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Fetteh CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Fetteh Kakraba CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "God's Will Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Gracelyn Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Hope Christian Hospital, Gomoa Fetteh",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "J.B Brew Clinic Ltd",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "Jikwel Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Kweikrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Millenium City Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Nadom Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "Nasha Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Nkwantanang CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Nyanyano Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduatta",
+    "Facility": "Odumase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "Oduraa Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Ojobi Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Potsin",
+    "Facility": "Okyereko Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Potsin",
+    "Facility": "Panfokrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "Perfect Care Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Potsin",
+    "Facility": "Potsin Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Sandy City Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "St. Gregory Catholic Hospital, Buduburam",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Buduburam",
+    "Facility": "The Lord is My Shepherd Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Trust Good Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Nyanyano",
+    "Facility": "Ultra Care Fertility Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa East",
+    "Sub-district": "Ojobi",
+    "Facility": "Yahweh Rapha Health and Training Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Abaasa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Onyadze",
+    "Facility": "Abonko CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Onyadze",
+    "Facility": "Abrekum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Akropong CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Alata/Asafo No.1 CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Ankamu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Dago",
+    "Facility": "Anteadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Apam RCH Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Brofo",
+    "Facility": "Asempayin CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Dago",
+    "Facility": "Assin CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Boatyard CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Brofo",
+    "Facility": "Brofo Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Dago",
+    "Facility": "Dago Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Dawurampong Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Debiso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Denkyira CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Enyeme CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Eshiem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Fomena CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Godfrey Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Kokofu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Kumasi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Brofo",
+    "Facility": "Kyiren CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Onyadze",
+    "Facility": "Mankoadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Onyadze",
+    "Facility": "Mprumem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Mumford",
+    "Facility": "Mumford CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Mumford",
+    "Facility": "Mumford Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Brofo",
+    "Facility": "Ngyiresi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Nkoransa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Onyadze",
+    "Facility": "Noguchi Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "Nsuekyir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Dago",
+    "Facility": "Obiri CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Oguaa Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Osedzie Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Brofo",
+    "Facility": "Sampa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Apam",
+    "Facility": "St. Luke Catholic Hospital, Apam",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Oguaa",
+    "Facility": "Tarkwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Gomoa West",
+    "Sub-district": "Osedze",
+    "Facility": "Wassa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Kissi",
+    "Facility": "Abeyee CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Abrem Essiam CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Komenda",
+    "Facility": "Aburansa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Agona Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Elmina",
+    "Facility": "Ampenyi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Ankaful",
+    "Facility": "Ankaful Gen Leprosy Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Ankaful",
+    "Facility": "Ankaful Psychiatry Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Elmina",
+    "Facility": "Ankwanda CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Kissi",
+    "Facility": "Antseambua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Ankaful",
+    "Facility": "Atonkwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Bando Han Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Benyadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Berase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Kissi",
+    "Facility": "Besease CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Elmina",
+    "Facility": "Brenu Akyinim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Eguafo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Agona",
+    "Facility": "Egyeikrom Refugee Camp CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Elmina",
+    "Facility": "Elmina Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Elmina",
+    "Facility": "Essuekyir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Komenda",
+    "Facility": "Kafodzidzi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Kissi",
+    "Facility": "Kissi Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Kissi",
+    "Facility": "Kokoado CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Komenda",
+    "Facility": "Komenda Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Komenda",
+    "Facility": "Nsadwir CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Komenda-Edna-Eguafo-Abirem",
+    "Sub-district": "Elmina",
+    "Facility": "Raheem Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Abandze/Kormantse",
+    "Facility": "Abandze Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Akatakyiwa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Dominase (Mfantsiman)",
+    "Facility": "Akobima CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Saltpond",
+    "Facility": "Ankaful CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Anomabo",
+    "Facility": "Anomabo Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Asafora CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Baobab Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Biriwa Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Dominase (Mfantsiman)",
+    "Facility": "Dominase Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Dominase (Mfantsiman)",
+    "Facility": "Duadze CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Eguase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Anomabo",
+    "Facility": "Ekurabadzi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Mankessim",
+    "Facility": "Fynnba Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Saltpond",
+    "Facility": "Hini CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "John Leonard Health Services",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Kobina Ansah CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Abandze/Kormantse",
+    "Facility": "Kormantse Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Saltpond",
+    "Facility": "Kuntu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Dominase (Mfantsiman)",
+    "Facility": "Kyeakor CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Mankessim",
+    "Facility": "Mankessim Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Mankessim",
+    "Facility": "Mankessim Market CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Mankessim",
+    "Facility": "Mercy Women's Catholic Hospital, Mankessim",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Anomabo",
+    "Facility": "Nsanfo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Mankessim",
+    "Facility": "Peace Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Saltpond",
+    "Facility": "Saltpond Municipal Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Mankessim",
+    "Facility": "Sanford World Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Dominase (Mfantsiman)",
+    "Facility": "Taabosom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Anomabo",
+    "Facility": "Taido CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Mfantseman",
+    "Sub-district": "Biriwa",
+    "Facility": "Yamoransa Model Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Morkwa",
+    "Facility": "Aboabo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Nyinase",
+    "Facility": "Abodom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Morkwa",
+    "Facility": "Adade Kofi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Aklomaim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Wamaso",
+    "Facility": "Ayebeng CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Bimpong Egya",
+    "Facility": "Bimpong Egya Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Bimpong Egya",
+    "Facility": "Bimpongso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Bimpong Egya",
+    "Facility": "Denyase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Eduabeng CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Nyinase",
+    "Facility": "Kayeriku CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Morkwa",
+    "Facility": "Kotokye CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Mampong Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Morkwa",
+    "Facility": "Mbaabasa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Morkwa",
+    "Facility": "Morkwa Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Ntiamoah CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Nuamakrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Nyinase",
+    "Facility": "Nyinase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Nyinase",
+    "Facility": "Osenagya CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Morkwa",
+    "Facility": "Pentecost Community Clinic, Twifo Agona",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Praso Polyclinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "St Florence Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "TOPP Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Praso (Twifo Ati Morkwa)",
+    "Facility": "Twifo Ati Morkwa District Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo Ati Morkwa",
+    "Sub-district": "Wamaso",
+    "Facility": "Wamaso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Frami",
+    "Facility": "Ankaako CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Bobi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Jukwa",
+    "Facility": "Bremang CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Bukrusu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Frami",
+    "Facility": "Frami Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Hemang Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Jukwa",
+    "Facility": "Jukwa Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Jukwa",
+    "Facility": "Jukwa Watreso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Jukwa",
+    "Facility": "Krobo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Wawase (Twifo-Hemang Lower Denkyira)",
+    "Facility": "Kwamoano CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Frami",
+    "Facility": "Mfoum CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Jukwa",
+    "Facility": "Mmaniaye CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Nsutem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Nyamebekyere CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Frami",
+    "Facility": "Pentecost Clinic, Abrafo - Odumase",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Shed CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Hemang",
+    "Facility": "Tafredjoa CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Frami",
+    "Facility": "Twapease CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Twifo-Hemang Lower Denkyira",
+    "Sub-district": "Wawase (Twifo-Hemang Lower Denkyira)",
+    "Facility": "Wawase Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Imbraim",
+    "Facility": "Abudukrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Asikuma (Upper Denkyira East)",
+    "Facility": "Achiase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Oponso",
+    "Facility": "Agyempoma CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Amoafo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Asikuma (Upper Denkyira East)",
+    "Facility": "Asikuma CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Asmah Camp CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Oponso",
+    "Facility": "Atobiase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Babianiha CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Buabin CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Buabinso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Cecilia Maternity Home",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Pokukrom (Upper Denkyira East)",
+    "Facility": "Compound CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Denkyira Adwumaim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Denkyira Fosu CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Imbraim",
+    "Facility": "Denyase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Dunkwa Municipal Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Asikuma (Upper Denkyira East)",
+    "Facility": "Esaase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Great Redeemer Hospital",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Imbraim",
+    "Facility": "Imbraim CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Imbraim",
+    "Facility": "Kramokrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Kwame Prakrom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Kyekyewere Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Asikuma (Upper Denkyira East)",
+    "Facility": "Meretweso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Pokukrom (Upper Denkyira East)",
+    "Facility": "Mfantsiman CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Nkwanta CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Oponso",
+    "Facility": "Oponso Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Pokukrom (Upper Denkyira East)",
+    "Facility": "Pokukrom Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Praprababida CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Shalom Global Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Oponso",
+    "Facility": "Tegyamoso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Kyekyewere (Upper Denkyira East)",
+    "Facility": "Zion Camp CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira East",
+    "Sub-district": "Dunkwa",
+    "Facility": "Zongo CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Diaso",
+    "Facility": "Adonai Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Subin",
+    "Facility": "Akwaboso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Diaso",
+    "Facility": "Amenase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ntom",
+    "Facility": "Amoaman CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Subin",
+    "Facility": "Ampabena/Betenase CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Anhwiawia CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ntom",
+    "Facility": "Asuadei CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Besease CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ntom",
+    "Facility": "Bethlehem CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Diaso",
+    "Facility": "Denkyira Obuasi CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Diaso",
+    "Facility": "Diaso Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Donmorsh Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Fobinso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Gyaman CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Diaso",
+    "Facility": "Modaso Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Nkotumso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Nkroful Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ntom",
+    "Facility": "Nkronua CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ntom",
+    "Facility": "Ntom CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Subin",
+    "Facility": "Nyinawusu/Anhwiaso CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Pentecost Hospital, Ayanfuri",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Seventh Day Adventist Clinic, Dominase",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "St Andrews Anglican CHPS",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "St. Johns Community Clinic",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Subin",
+    "Facility": "Subin Health Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Supreme Medical Centre",
+    "Zone": "Central"
+  },
+  {
+    "Region": "Central",
+    "District": "Upper Denkyira West",
+    "Sub-district": "Ayanfuri",
+    "Facility": "Treposo CHPS",
+    "Zone": "Central"
+  }
+]

@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#DC2626">
+    <title>EQUIP Health Ghana</title>
+    <!-- Brand Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    
+    <style>
+        /* Base Reset and Variables */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            /* BRAND COLOR SYSTEM (Solid Only) */
+            --brand-red: #d42729; /* Alternative: #bb133e */
+            --brand-blue: #0157ae; /* Alternative deep navy: #002147 */
+            --brand-white: #ffffff;
+            --brand-black: #000000;
+
+            /* Semantic Alias Tokens */
+            --color-primary: var(--brand-red);
+            --color-secondary: var(--brand-blue);
+            --color-bg: var(--brand-white);
+            --color-text: var(--brand-black);
+            --color-surface: #f5f7fa;
+            --color-border: #e2e8f0;
+            --color-muted: #6b7280;
+
+            /* Component Specific */
+            --nav-bg: var(--brand-white);
+            --card-bg: var(--brand-white);
+            --modal-bg: var(--brand-white);
+
+            /* Effects */
+            --shadow: 0 4px 12px rgba(0,0,0,0.08);
+            --shadow-hover: 0 6px 18px rgba(0,0,0,0.12);
+        }
+
+        body {
+            font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: var(--color-bg);
+            color: var(--color-text);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* Glass Morphism Container */
+        .glass {
+            background: var(--card-bg);
+            border: 1px solid var(--color-border);
+            border-radius: 16px;
+            box-shadow: var(--shadow);
+        }
+
+        /* Navigation Bar - iOS/Android Native Style */
+        .navbar {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            padding: 12px 20px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(30px);
+            border-bottom: 1px solid var(--glass-border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar h1 {
+            font-family: 'EB Garamond', serif;
+            font-size: 22px;
+            font-weight: 600;
+            color: var(--color-primary);
+            letter-spacing: .5px;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+            color: var(--color-text);
+        }
+
+        /* Main Container */
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 0 16px;
+        }
+
+        /* Responsive adjustments for larger screens */
+        @media (min-width: 768px) {
+            .container:not(.form-container) {
+                max-width: 800px;
+            }
+        }
+
+        /* Screen Management */
+        .screen {
+            display: none;
+        }
+
+        .screen.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Button Styles - Native Mobile Feel */
+        .btn {
+            width: 100%;
+            padding: 14px 20px;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-primary {
+            background: var(--color-primary);
+            color: var(--brand-white);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        .btn-primary:active {
+            transform: scale(0.98);
+            box-shadow: 0 2px 8px rgba(220, 38, 38, 0.4);
+        }
+
+        .btn-secondary {
+            background: var(--color-secondary);
+            color: var(--brand-white);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--color-text);
+            border: 2px solid var(--color-text);
+        }
+
+        /* Input Fields - iOS/Android Native Style */
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: .5px;
+            color: var(--color-text);
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+            font-size: 16px;
+            background: rgba(255, 255, 255, 0.9);
+            transition: all 0.3s ease;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: var(--color-secondary);
+            box-shadow: 0 0 0 3px rgba(1, 87, 174, 0.15);
+        }
+
+        /* Card Component */
+        .card {
+            padding: 20px;
+            margin-bottom: 16px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border-radius: 16px;
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--shadow);
+            transition: all 0.3s ease;
+        }
+
+        .card:active {
+            transform: scale(0.98);
+            box-shadow: var(--shadow-hover);
+        }
+
+        .card-title {
+            font-family: 'EB Garamond', serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 6px;
+        }
+
+        .card-subtitle {
+            font-size: 14px;
+            color: #6B7280;
+            margin-bottom: 12px;
+        }
+
+        /* Tab Navigation */
+        .tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+            padding: 4px;
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 12px;
+        }
+        
+        /* Hide tabs and navbar when on login screen */
+        body:has(#loginScreen.active) .navbar,
+        body:has(#loginScreen.active) .tabs {
+            display: none;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            background: transparent;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--accent-black);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tab.active {
+            background: var(--brand-white);
+            color: var(--color-primary);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Table Styles */
+        .table-wrapper {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--glass-border);
+        }
+        th {
+            background-color: rgba(255, 255, 255, 0.5);
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        @media screen and (max-width: 768px) {
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            tr {
+                border: 1px solid var(--glass-border);
+                border-radius: 12px;
+                margin-bottom: 1rem;
+            }
+            td {
+                border: none;
+                border-bottom: 1px solid #eee;
+                position: relative;
+                padding-left: 50%;
+            }
+            td:before {
+                position: absolute;
+                top: 12px;
+                left: 15px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+                content: attr(data-label);
+                font-weight: 600;
+            }
+        }
+
+        /* List Items */
+        .list-item {
+            padding: 16px;
+            margin-bottom: 12px;
+            background: var(--glass-bg);
+            border-radius: 12px;
+            border: 1px solid var(--glass-border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .list-item:active {
+            transform: scale(0.98);
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            padding: 20px;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            background: var(--primary-white);
+            border-radius: 20px;
+            padding: 24px;
+            max-width: 500px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .modal-header {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: var(--accent-black);
+        }
+
+        /* Action Buttons Row */
+        .action-row {
+            display: flex;
+            gap: 12px;
+            margin-top: 16px;
+        }
+
+        .action-row .btn {
+            flex: 1;
+        }
+
+        /* Badge */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .badge-admin {
+            background: var(--color-primary);
+            color: var(--brand-white);
+        }
+
+        .badge-user {
+            background: var(--color-secondary);
+            color: var(--brand-white);
+        }
+
+        /* Form Type Selection */
+        .type-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .type-card {
+            padding: 16px;
+            text-align: center;
+            background: var(--glass-bg);
+            border: 2px solid transparent;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .type-card:hover {
+            border-color: var(--primary-red);
+            transform: translateY(-2px);
+        }
+
+        .type-card.selected {
+            border-color: var(--primary-red);
+            background: rgba(220, 38, 38, 0.1); /* Adjusted to red */
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6B7280;
+        }
+
+        .empty-state-icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+
+        /* Logo Styles */
+        .app-logo {
+            height: 50px;
+            width: auto;
+            object-fit: contain;
+        }
+
+        /* Card View Styles */
+        .view-toggle {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+            justify-content: flex-end;
+        }
+
+        .view-toggle-btn {
+            padding: 8px 12px;
+            border: 1px solid var(--glass-border);
+            background: rgba(255, 255, 255, 0.5);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .view-toggle-btn.active {
+            background: var(--primary-red);
+            color: white;
+        }
+
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        .card-item {
+            background: var(--glass-bg);
+            border-radius: 16px;
+            padding: 20px;
+            border: 1px solid var(--glass-border);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .card-item:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-hover);
+        }
+
+        .card-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--accent-black);
+            margin-bottom: 8px;
+        }
+
+        .card-description {
+            font-size: 14px;
+            color: #6B7280;
+            margin-bottom: 12px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-meta {
+            font-size: 12px;
+            color: #9CA3AF;
+            margin-bottom: 12px;
+        }
+
+        .card-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .btn-sm {
+            padding: 6px 12px;
+            font-size: 13px;
+            border-radius: 8px;
+        }
+
+        .list-view .cards-container {
+            display: block;
+        }
+
+        .list-view .card-item {
+            margin-bottom: 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px;
+        }
+
+        .list-view .card-item:hover {
+            transform: none;
+        }
+
+        .list-view .card-content {
+            flex: 1;
+        }
+
+        .list-view .card-description {
+            display: inline;
+            -webkit-line-clamp: unset;
+            line-clamp: unset;
+        }
+
+        /* Footer Styles */
+        .app-footer {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border-top: 1px solid var(--glass-border);
+            padding: 24px 20px;
+            text-align: center;
+            margin-top: 40px;
+            color: var(--accent-black);
+        }
+
+        .app-footer h4 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--primary-red);
+        }
+
+        .app-footer p {
+            font-size: 13px;
+            line-height: 1.6;
+            margin: 4px 0;
+            color: #6B7280;
+        }
+
+        /* Shorter Create Buttons */
+        .btn-create {
+            width: auto !important;
+            padding: 12px 20px !important;
+        }
+
+        /* Responsive Table for Large Devices */
+        @media (min-width: 768px) {
+            .table-wrapper {
+                overflow-x: auto;
+            }
+            
+            table {
+                font-size: 14px;
+            }
+            
+            th, td {
+                padding: 12px 16px;
+                white-space: nowrap;
+            }
+        }
+
+        /* Compact view for phones */
+        @media (max-width: 767px) {
+            table {
+                font-size: 12px;
+            }
+            
+            th, td {
+                padding: 8px 6px;
+                font-size: 12px;
+            }
+            
+            .card-item {
+                padding: 16px;
+            }
+            
+            .card-title {
+                font-size: 16px;
+            }
+            
+            .card-description {
+                font-size: 13px;
+            }
+        }
+
+        /* Horizontal orientation optimization */
+        @media (orientation: landscape) and (max-height: 600px) {
+            .navbar {
+                padding: 8px 20px;
+            }
+            
+            .app-logo {
+                height: 40px;
+            }
+            
+            .container {
+                margin: 10px auto;
+            }
+            
+            .glass {
+                padding: 16px !important;
+            }
+            
+            .modal-content {
+                max-height: 85vh;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="equip.png" alt="EQUIP Logo" class="app-logo">
+            <h1 id="navTitle">EQUIP HEALTH Ghana</h1>
+        </div>
+        <div class="user-info">
+            <span id="currentUser">Guest</span>
+            <button class="btn btn-outline" style="width: auto; padding: 6px 12px; font-size: 14px;" onclick="app.logout()">Logout</button>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Login Screen -->
+        <div id="loginScreen" class="screen active">
+            <div class="glass" style="padding: 32px; margin-top: 60px;">
+                <div style="text-align: center; margin-bottom: 24px;">
+                    <img src="equip.png" alt="EQUIP Logo" style="height: 80px; width: auto; margin-bottom: 16px;">
+                </div>
+                <h2 style="text-align: center; margin-bottom: 24px; color: var(--accent-black);">Welcome Back</h2>
+                
+                <div class="form-group">
+                    <label class="form-label">Username</label>
+                    <input type="text" id="loginUsername" class="form-input" placeholder="Enter username">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Password</label>
+                    <input type="password" id="loginPassword" class="form-input" placeholder="Enter password">
+                </div>
+
+                <button class="btn btn-primary" onclick="app.login()">Sign In</button>
+                
+                <p style="text-align: center; margin-top: 20px; color: #6B7280; font-size: 14px;">
+                    Default admin: admin / admin123
+                </p>
+            </div>
+        </div>
+
+        <!-- Main Navigation Tabs -->
+        <div class="tabs">
+            <button class="tab active" onclick="app.showScreen('registersScreen', event)">Registers</button>
+            <button class="tab" id="usersRolesTab" onclick="app.showScreen('usersAndRolesScreen', event)" style="display: none;">Users & Roles</button>
+            <button class="tab" id="reportsTab" onclick="app.showScreen('reportsScreen', event)">Reports</button>
+        </div>
+
+        <!-- Registers Screen (replaces Dashboard) -->
+        <div id="registersScreen" class="screen">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                <button class="btn btn-primary btn-create" id="createRegisterBtn" onclick="app.showCreateFormModal()" style="display: none;">
+                    <i class="bi bi-plus-circle"></i> Create Register
+                </button>
+                <div class="view-toggle">
+                    <button class="view-toggle-btn active" onclick="app.toggleView('forms', 'card')" id="formsCardView">
+                        <i class="bi bi-grid-3x3-gap"></i>
+                    </button>
+                    <button class="view-toggle-btn" onclick="app.toggleView('forms', 'list')" id="formsListView">
+                        <i class="bi bi-list-ul"></i>
+                    </button>
+                </div>
+            </div>
+            <div id="formsList" class="cards-container"></div>
+        </div>
+
+    <!-- Users & Roles Screen -->
+    <div id="usersAndRolesScreen" class="screen">
+            <div class="glass" style="padding: 24px; margin-bottom: 20px;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                    <h3>Users</h3>
+                    <div class="view-toggle">
+                        <button class="view-toggle-btn active" onclick="app.toggleView('users', 'card')" id="usersCardView">
+                            <i class="bi bi-grid-3x3-gap"></i>
+                        </button>
+                        <button class="view-toggle-btn" onclick="app.toggleView('users', 'list')" id="usersListView">
+                            <i class="bi bi-list-ul"></i>
+                        </button>
+                    </div>
+                </div>
+                <button class="btn btn-secondary btn-create" onclick="app.showCreateUserModal()">
+                    <i class="bi bi-person-plus"></i> Create User
+                </button>
+                <div id="usersList" class="cards-container"></div>
+            </div>
+            <div class="glass" style="padding: 24px;">
+                <h3 style="margin-bottom: 16px;">Roles</h3>
+                <button class="btn btn-secondary btn-create" onclick="app.showCreateRoleModal()">
+                    <i class="bi bi-shield-plus"></i> Create Role
+                </button>
+                <div id="rolesList" style="margin-top: 20px;"></div>
+            </div>
+        </div>
+
+        <!-- Form Builder Screen -->
+        <div id="formBuilderScreen" class="screen">
+            <div class="container">
+            <button class="btn btn-outline" onclick="app.backToDashboard()" style="margin-bottom: 16px;">
+                <i class="bi bi-arrow-left"></i> Back
+            </button>
+            
+            <div class="glass" style="padding: 24px; margin-bottom: 20px;">
+                <h3 style="margin-bottom: 16px;">Form Details</h3>
+                
+                <div class="form-group">
+                    <label class="form-label">Form Name</label>
+                    <input type="text" id="formName" class="form-input" placeholder="e.g., Patient Registration">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Description</label>
+                    <input type="text" id="formDescription" class="form-input" placeholder="Brief description">
+                </div>
+            </div>
+
+            <div class="glass" style="padding: 24px; margin-bottom: 20px;">
+                <h3 style="margin-bottom: 16px;">Form Fields</h3>
+                <div id="fieldsList"></div>
+                <button class="btn btn-secondary" onclick="app.showAddFieldModal()">
+                    <i class="bi bi-plus-circle"></i> Add Field
+                </button>
+            </div>
+
+            <button class="btn btn-primary" onclick="app.saveForm()">Save Form</button>
+            </div>
+        </div>
+
+        <!-- Data Entry Screen -->
+        <div id="dataEntryScreen" class="screen">
+            <div class="container form-container">
+            <button class="btn btn-outline" onclick="app.backToDashboard()" style="margin-bottom: 16px;">
+                <i class="bi bi-arrow-left"></i> Back
+            </button>
+            
+            <div class="glass" style="padding: 24px;">
+                <h3 id="entryFormTitle" style="margin-bottom: 20px;"></h3>
+                <form id="dataEntryForm"></form>
+                <button class="btn btn-primary" onclick="app.submitRecord()" style="margin-top: 20px;">Submit</button>
+            </div>
+            </div>
+        </div>
+
+        <!-- Records List Screen -->
+        <div id="recordsListScreen" class="screen">
+            <button class="btn btn-outline" onclick="app.backToRegisters()" style="margin-bottom: 16px;">
+                <i class="bi bi-arrow-left"></i> Back to Registers
+            </button>
+            <div class="glass" style="padding: 24px;">
+                <h3 id="recordsListTitle" style="margin-bottom: 20px;"></h3>
+                <div class="action-row" style="margin-bottom: 20px;">
+                    <button class="btn btn-primary" onclick="app.openDataEntry()">
+                        <i class="bi bi-plus-circle"></i> Add New Record
+                    </button>
+                    <button class="btn btn-outline" onclick="app.importRegisterData()">Import</button>
+                    <button class="btn btn-outline" onclick="app.exportRegisterData()">Export</button>
+                </div>
+                <div id="recordsTableContainer" class="table-wrapper">
+                    <table id="recordsTable">
+                        <thead></thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <div id="recordsEmptyState" style="display: none;"></div>
+            </div>
+        </div>
+
+        <!-- Reports Screen -->
+        <div id="reportsScreen" class="screen">
+            <div class="glass" style="padding:24px;">
+                <h3 style="margin-bottom:8px;">Reports</h3>
+                
+                <!-- Reports Home: list existing reports and actions -->
+                <div id="reportsHomeSection">
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-top:8px;">
+                        <div style="font-size:13px; color:#64748b;">Manage and run saved reports</div>
+                        <button class="btn btn-primary" style="width:auto;" onclick="ReportsModule.startCreateNew()">Create New Report</button>
+                    </div>
+                    <div id="savedReportsContainer" style="margin-top:14px;"></div>
+                </div>
+
+                <!-- Report Editor: create or edit a report definition -->
+                <div id="reportEditorSection" style="display:none;">
+                    <button class="btn btn-outline" style="width:auto; margin-bottom:12px;" onclick="ReportsModule.goHome()"><i class="bi bi-arrow-left"></i> Back to Reports</button>
+                    <h4 id="reportEditorTitle" style="margin-bottom:12px;">Create Report</h4>
+                    <div style="display:flex; flex-wrap:wrap; gap:12px;">
+                        <div style="flex:1; min-width:200px;">
+                            <label class="form-label">Register</label>
+                            <select id="reportRegister" class="form-input" onchange="ReportsModule.onRegisterChange()"></select>
+                        </div>
+                    </div>
+                    <div style="margin-top:16px;">
+                        <label class="form-label" style="margin-bottom:4px;">Fields (click or drag into expression)</label>
+                        <div id="reportFieldPalette" style="display:flex; flex-wrap:wrap; gap:6px; background:#F1F5F9; padding:8px; border-radius:6px; min-height:48px;"></div>
+                    </div>
+                    <div style="font-size:11px; color:#64748b; margin-top:6px;">Click or drag a field; build expressions like ${Field Label} = "Value". Values previewed in parentheses.</div>
+                    <div id="metricsConfig" style="margin-top:18px;" ondragover="ReportsModule.allowDrop(event)" ondrop="ReportsModule.handleExpressionDrop(event)"></div>
+                    <div style="margin-top:18px; display:flex; gap:8px; flex-wrap:wrap;">
+                        <button class="btn btn-primary btn-sm" style="width:auto;" onclick="ReportsModule.saveReport()">Save Report</button>
+                        <button class="btn btn-outline btn-sm" style="width:auto;" onclick="ReportsModule.goHome()">Cancel</button>
+                    </div>
+                </div>
+
+                <!-- Report Viewer: run a selected saved report -->
+                <div id="reportViewerSection" style="display:none;">
+                    <button class="btn btn-outline" style="width:auto; margin-bottom:12px;" onclick="ReportsModule.goHome()"><i class="bi bi-arrow-left"></i> Back to Reports</button>
+                    <h4 id="reportViewerTitle" style="margin-bottom:8px;">View Report</h4>
+                    <div id="fiscalSummary" class="report-view-only" style="font-size:12px; color:#6B7280; margin-top:4px;"></div>
+                    <div class="report-view-only" style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+                        <div style="flex:1; min-width:180px;">
+                            <label class="form-label">Reference Date</label>
+                            <input type="date" id="reportWeekStart" class="form-input" />
+                            <div style="font-size:11px; color:#6B7280; margin-top:2px;">End: <span id="reportWeekEndLabel"></span></div>
+                        </div>
+                        <div style="flex:1; min-width:160px; display:flex; align-items:flex-end; gap:10px;">
+                            <button class="btn btn-primary" style="width:auto;" onclick="ReportsModule.runReport()">Run</button>
+                            <button class="btn btn-outline" style="width:auto;" onclick="ReportsModule.resetViewer()">Reset</button>
+                        </div>
+                    </div>
+                    <div class="report-view-only" style="display:flex; flex-wrap:wrap; gap:12px; margin-top:14px;">
+                        <div style="min-width:160px; flex:1;">
+                            <label class="form-label">Region</label>
+                            <select id="reportRegion" class="form-input"></select>
+                        </div>
+                        <div style="min-width:160px; flex:1;">
+                            <label class="form-label">Zone</label>
+                            <select id="reportZone" class="form-input"></select>
+                        </div>
+                        <div style="min-width:160px; flex:1;">
+                            <label class="form-label">District</label>
+                            <select id="reportDistrict" class="form-input"></select>
+                        </div>
+                        <div style="min-width:200px; flex:1;">
+                            <label class="form-label">Facility</label>
+                            <select id="reportFacility" class="form-input"></select>
+                        </div>
+                    </div>
+                    <div id="reportResults" class="report-view-only" style="margin-top:30px;"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Record Detail/Edit Screen -->
+        <div id="recordDetailScreen" class="screen">
+            <button class="btn btn-outline" onclick="app.backToRecordsList()" style="margin-bottom: 16px;">
+                <i class="bi bi-arrow-left"></i> Back to Records
+            </button>
+            <div class="glass" style="padding: 24px;">
+                <h3 id="recordDetailTitle" style="margin-bottom: 20px;">Edit Record</h3>
+                <form id="recordDetailForm"></form>
+                <button class="btn btn-primary" onclick="app.updateRecord()" style="margin-top: 20px;">Update Record</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Create Form -->
+    <div id="createFormModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Create New Form</div>
+            <p style="margin-bottom: 20px; color: #6B7280;">Start building your custom register form</p>
+            <button class="btn btn-primary" onclick="app.startFormBuilder()">Start Building</button>
+            <button class="btn btn-secondary" onclick="app.showImportExcelModal()" style="margin-top: 12px;">
+                <i class="bi bi-file-earmark-excel"></i> Import from Excel Template
+            </button>
+            <button class="btn btn-outline" onclick="app.closeModal('createFormModal')" style="margin-top: 12px;">Cancel</button>
+        </div>
+    </div>
+
+    <!-- Modal: Import Excel Template -->
+    <div id="importExcelModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Import Excel Template</div>
+            <p style="margin-bottom: 20px; color: #6B7280;">Upload an Excel file with Metadata and Fields sheets</p>
+            
+            <div class="form-group">
+                <label class="form-label">Select Excel File</label>
+                <input type="file" id="excelFileInput" accept=".xlsx,.xls" class="form-input" />
+            </div>
+            
+            <div style="margin: 16px 0; padding: 12px; background: rgba(37, 99, 235, 0.1); border-radius: 8px; font-size: 14px;">
+                <i class="bi bi-info-circle"></i> Need help? Check the <a href="EXCEL_TEMPLATE_GUIDE.md" target="_blank" style="color: var(--accent-blue); text-decoration: underline;">Excel Template Guide</a>
+            </div>
+            
+            <button class="btn btn-primary" onclick="app.importExcelTemplate()">Import & Create Register</button>
+            <!-- HTC Template download removed per requirement -->
+            <button class="btn btn-outline" onclick="app.closeModal('importExcelModal')" style="margin-top: 12px;">Cancel</button>
+        </div>
+    </div>
+
+    <!-- Modal: Add Field -->
+    <div id="addFieldModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Add Form Field</div>
+            
+            <div class="form-group">
+                <label class="form-label">Field Label</label>
+                <input type="text" id="fieldLabel" class="form-input" placeholder="e.g., Patient Name">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Field Type</label>
+                <select id="fieldType" class="form-input">
+                    <option value="text">Text</option>
+                    <option value="integer">Integer</option>
+                    <option value="decimal">Decimal</option>
+                    <option value="date">Date</option>
+                    <option value="time">Time</option>
+                    <option value="datetime">Date & Time</option>
+                    <option value="select_one">Select One</option>
+                    <option value="yes_no">Yes / No</option>
+                    <option value="cso">CSO</option>
+                    <option value="select_multiple">Select Multiple</option>
+                    <option value="geopoint">GPS Location</option>
+                    <option value="image">Image</option>
+                    <option value="barcode">Barcode</option>
+                    <option value="note">Note/Label</option>
+                    <option value="calculate">Calculate</option>
+                    <option value="facility_referral">Facility Referral</option>
+                    <option value="cso_referral">CSO Referral</option>
+                </select>
+            </div>
+
+            <div class="form-group" id="choicesGroup" style="display: none;">
+                <label class="form-label">Choices (comma-separated)</label>
+                <input type="text" id="fieldChoices" class="form-input" placeholder="Option 1, Option 2, Option 3">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">
+                    <input type="checkbox" id="fieldRequired"> Required Field
+                </label>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Hint / Help Text</label>
+                <input type="text" id="fieldHint" class="form-input" placeholder="Optional helper text">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Relevance (Skip Logic Expression)</label>
+                <input type="text" id="fieldRelevance" class="form-input" placeholder='e.g. ${hiv_test_performed} = "Yes"'>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Constraint (Validation Expression)</label>
+                <input type="text" id="fieldConstraint" class="form-input" placeholder='e.g. ${age} >= 0 && ${age} <= 120'>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Constraint Message</label>
+                <input type="text" id="fieldConstraintMessage" class="form-input" placeholder="Message if constraint fails">
+            </div>
+
+            <input type="hidden" id="editingFieldId" value="">
+
+            <div class="action-row">
+                <button class="btn btn-primary" id="addFieldConfirmBtn" onclick="app.addField()">Add Field</button>
+                <button class="btn btn-primary" id="updateFieldConfirmBtn" onclick="app.updateField()" style="display:none;">Update Field</button>
+                <button class="btn btn-outline" onclick="app.closeModal('addFieldModal')">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Create Role -->
+    <div id="createRoleModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Create New Role</div>
+            <div class="form-group">
+                <label class="form-label">Role Name</label>
+                <input type="text" id="newRoleName" class="form-input" placeholder="e.g., Regional Supervisor">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Maximum Scope Level</label>
+                <select id="newRoleMaxScope" class="form-input">
+                    <option value="none">Global (No geographic restriction)</option>
+                    <option value="region">Region</option>
+                    <option value="zone">Zone</option>
+                    <option value="district">District</option>
+                    <option value="subdistrict">Sub-district</option>
+                    <option value="facility" selected>Facility (Most granular)</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Role Capabilities</label>
+                <div style="border:1px solid var(--color-border); padding:12px; border-radius:8px; background:var(--color-surface);">
+                    <label style="display:flex;align-items:center;gap:8px; margin-bottom:8px;">
+                        <input type="checkbox" id="newRoleAllowCSO" checked> Can be assigned CSOs
+                    </label>
+                    <label style="display:flex;align-items:center;gap:8px; margin-bottom:8px;">
+                        <input type="checkbox" id="newRoleDefaultCanManageRegisters"> Default: Can manage registers
+                    </label>
+                    <label style="display:flex;align-items:center;gap:8px;">
+                        <input type="checkbox" id="newRoleDefaultCanManageUsers"> Default: Can manage users & roles
+                    </label>
+                </div>
+            </div>
+            <div class="action-row">
+                <button class="btn btn-secondary" onclick="app.createRole()">Create Role</button>
+                <button class="btn btn-outline" onclick="app.closeModal('createRoleModal')">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Create User -->
+    <div id="createUserModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Add New User</div>
+            
+            <div class="form-group">
+                <label class="form-label">Username</label>
+                <input type="text" id="newUsername" class="form-input">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Password</label>
+                <input type="password" id="newPassword" class="form-input">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Role</label>
+                <select id="newUserRole" class="form-input"></select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Region</label>
+                <select id="newUserRegion" class="form-input" onchange="app.handleScopeChange('new', 'region')">
+                    <option value="">-- All Regions --</option>
+                </select>
+            </div>
+            <div class="form-group" id="newUserZoneGroup" style="display: none;">
+                <label class="form-label">Zone</label>
+                <select id="newUserZone" class="form-input" onchange="app.handleScopeChange('new', 'zone')">
+                    <option value="">-- All Zones --</option>
+                </select>
+            </div>
+            <div class="form-group" id="newUserDistrictGroup" style="display: none;">
+                <label class="form-label">District</label>
+                <select id="newUserDistrict" class="form-input" onchange="app.handleScopeChange('new', 'district')">
+                    <option value="">-- All Districts --</option>
+                </select>
+            </div>
+            <div class="form-group" id="newUserSubDistrictGroup" style="display: none;">
+                <label class="form-label">Sub-district</label>
+                <select id="newUserSubDistrict" class="form-input" onchange="app.handleScopeChange('new', 'subdistrict')">
+                    <option value="">-- All Sub-districts --</option>
+                </select>
+            </div>
+            <div class="form-group" id="newUserFacilityGroup" style="display: none;">
+                <label class="form-label">Facility</label>
+                <select id="newUserFacility" class="form-input" onchange="app.handleScopeChange('new', 'facility')">
+                    <option value="">-- All Facilities --</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">
+                    <i class="bi bi-clipboard-data"></i> Assigned Registers
+                </label>
+                <div style="font-size: 13px; color: #666; margin-bottom: 8px;">
+                    Select which registers this user can access (leave empty for all)
+                </div>
+                <div id="newUserRegisters" style="max-height: 150px; overflow-y: auto; border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px; background: rgba(255,255,255,0.05);">
+                    <!-- Will be populated dynamically -->
+                </div>
+            </div>
+
+            <div class="form-group" id="newUserCSOsGroup">
+                <label class="form-label">
+                    <i class="bi bi-building"></i> Assigned CSOs
+                </label>
+                <div style="font-size: 13px; color: #666; margin-bottom: 8px;">
+                    Select CSOs based on selected district (leave empty for all)
+                </div>
+                <div id="newUserCSOs" style="max-height: 150px; overflow-y: auto; border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px; background: rgba(255,255,255,0.05);">
+                    <div style="padding: 10px; text-align: center; color: #999;">
+                        <i class="bi bi-info-circle"></i> Select a district first to see available CSOs
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">
+                    <i class="bi bi-key"></i> Module Permissions
+                </label>
+                <div style="font-size: 13px; color: #666; margin-bottom: 8px;">
+                    Grant permissions to create/edit registers and manage users
+                </div>
+                <div style="border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px; background: rgba(255,255,255,0.05);">
+                    <div style="margin-bottom: 8px;">
+                        <label style="display: flex; align-items: center; cursor: pointer; padding: 6px; border-radius: 4px; transition: background 0.2s;" 
+                               onmouseover="this.style.background='rgba(255,255,255,0.05)'" 
+                               onmouseout="this.style.background='transparent'">
+                            <input type="checkbox" 
+                                   id="newUserCanManageRegisters" 
+                                   style="margin-right: 8px; cursor: pointer;">
+                            <span><i class="bi bi-clipboard-data"></i> Can Create/Edit Registers</span>
+                        </label>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <label style="display: flex; align-items: center; cursor: pointer; padding: 6px; border-radius: 4px; transition: background 0.2s;" 
+                               onmouseover="this.style.background='rgba(255,255,255,0.05)'" 
+                               onmouseout="this.style.background='transparent'">
+                            <input type="checkbox" 
+                                   id="newUserCanManageUsers" 
+                                   style="margin-right: 8px; cursor: pointer;">
+                            <span><i class="bi bi-people"></i> Can Manage Users & Roles</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="action-row">
+                <button class="btn btn-secondary" onclick="app.createUser()">Create User</button>
+                <button class="btn btn-outline" onclick="app.closeModal('createUserModal')">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Edit User -->
+    <div id="editUserModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Edit User</div>
+            <input type="hidden" id="editUserId">
+            
+            <div class="form-group">
+                <label class="form-label">Username</label>
+                <input type="text" id="editUsername" class="form-input" readonly>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">New Password (leave blank to keep current)</label>
+                <input type="password" id="editPassword" class="form-input">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Role</label>
+                <select id="editUserRole" class="form-input"></select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Region</label>
+                <select id="editUserRegion" class="form-input" onchange="app.handleScopeChange('edit', 'region')">
+                    <option value="">-- All Regions --</option>
+                </select>
+            </div>
+            <div class="form-group" id="editUserZoneGroup" style="display: none;">
+                <label class="form-label">Zone</label>
+                <select id="editUserZone" class="form-input" onchange="app.handleScopeChange('edit', 'zone')">
+                    <option value="">-- All Zones --</option>
+                </select>
+            </div>
+            <div class="form-group" id="editUserDistrictGroup" style="display: none;">
+                <label class="form-label">District</label>
+                <select id="editUserDistrict" class="form-input" onchange="app.handleScopeChange('edit', 'district')">
+                    <option value="">-- All Districts --</option>
+                </select>
+            </div>
+            <div class="form-group" id="editUserSubDistrictGroup" style="display: none;">
+                <label class="form-label">Sub-district</label>
+                <select id="editUserSubDistrict" class="form-input" onchange="app.handleScopeChange('edit', 'subdistrict')">
+                    <option value="">-- All Sub-districts --</option>
+                </select>
+            </div>
+            <div class="form-group" id="editUserFacilityGroup" style="display: none;">
+                <label class="form-label">Facility</label>
+                <select id="editUserFacility" class="form-input" onchange="app.handleScopeChange('edit', 'facility')">
+                    <option value="">-- All Facilities --</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">
+                    <i class="bi bi-clipboard-data"></i> Assigned Registers
+                </label>
+                <div style="font-size: 13px; color: #666; margin-bottom: 8px;">
+                    Select which registers this user can access (leave empty for all)
+                </div>
+                <div id="editUserRegisters" style="max-height: 150px; overflow-y: auto; border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px; background: rgba(255,255,255,0.05);">
+                    <!-- Will be populated dynamically -->
+                </div>
+            </div>
+
+            <div class="form-group" id="editUserCSOsGroup">
+                <label class="form-label">
+                    <i class="bi bi-building"></i> Assigned CSOs
+                </label>
+                <div style="font-size: 13px; color: #666; margin-bottom: 8px;">
+                    Select CSOs based on selected district (leave empty for all)
+                </div>
+                <div id="editUserCSOs" style="max-height: 150px; overflow-y: auto; border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px; background: rgba(255,255,255,0.05);">
+                    <div style="padding: 10px; text-align: center; color: #999;">
+                        <i class="bi bi-info-circle"></i> Select a district first to see available CSOs
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">
+                    <i class="bi bi-key"></i> Module Permissions
+                </label>
+                <div style="font-size: 13px; color: #666; margin-bottom: 8px;">
+                    Grant permissions to create/edit registers and manage users
+                </div>
+                <div style="border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px; background: rgba(255,255,255,0.05);">
+                    <div style="margin-bottom: 8px;">
+                        <label style="display: flex; align-items: center; cursor: pointer; padding: 6px; border-radius: 4px; transition: background 0.2s;" 
+                               onmouseover="this.style.background='rgba(255,255,255,0.05)'" 
+                               onmouseout="this.style.background='transparent'">
+                            <input type="checkbox" 
+                                   id="editUserCanManageRegisters" 
+                                   style="margin-right: 8px; cursor: pointer;">
+                            <span><i class="bi bi-clipboard-data"></i> Can Create/Edit Registers</span>
+                        </label>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <label style="display: flex; align-items: center; cursor: pointer; padding: 6px; border-radius: 4px; transition: background 0.2s;" 
+                               onmouseover="this.style.background='rgba(255,255,255,0.05)'" 
+                               onmouseout="this.style.background='transparent'">
+                            <input type="checkbox" 
+                                   id="editUserCanManageUsers" 
+                                   style="margin-right: 8px; cursor: pointer;">
+                            <span><i class="bi bi-people"></i> Can Manage Users & Roles</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="action-row">
+                <button class="btn btn-secondary" onclick="app.saveUserChanges()">Save Changes</button>
+                <button class="btn btn-outline" onclick="app.closeModal('editUserModal')">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Share Data -->
+    <div id="shareModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">Data Sharing</div>
+            <button class="btn btn-primary" onclick="app.exportData()">Export Data</button>
+            <button class="btn btn-outline" onclick="app.importData()" style="margin-top: 12px;">Import Data</button>
+            <div style="margin:16px 0; border-top:1px solid var(--glass-border); padding-top:16px; font-size:14px; color:#6B7280;">Encrypted Backup (Recommended for device-to-device sharing)</div>
+            <button class="btn btn-secondary" onclick="app.exportEncryptedBackup()">Export Encrypted Backup</button>
+            <button class="btn btn-outline" onclick="app.importEncryptedBackup()" style="margin-top:12px;">Import & Merge Encrypted Backup</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <h4>EQUIP Health Ghana</h4>
+        <p>#2 Oak Avenue, Adjiringanor, Accra</p>
+        <p>P. O. Box CT6165, Cantonments, Accra</p>
+    </footer>
+
+
+    <!-- Bootstrap JS (optional, for enhanced functionality) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- SheetJS library for Excel import -->
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
+        <!-- Register Templates -->
+    <!-- User Management Module -->
+    <script src="users.js"></script>
+    <!-- Forms / Registers Module -->
+    <script src="forms.js"></script>
+    <!-- Data Portability Module -->
+    <script src="data-portability.js"></script>
+    <!-- Reports Module -->
+    <script src="report.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>
+</body>
+</html>

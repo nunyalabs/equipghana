@@ -1,0 +1,2851 @@
+[
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "7 Mrs Military Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao East",
+    "Facility": "ALCO Unit Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Sopa-Torda",
+    "Facility": "Ablornu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Abolorve Nolorpi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Duga",
+    "Facility": "Abui Tsita CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Abutia",
+    "Facility": "Abutia Agorve Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Abutia",
+    "Facility": "Abutia Kloe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Abutia",
+    "Facility": "Abutia Norvisi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Wute",
+    "Facility": "Adaheta CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Helekpe",
+    "Facility": "Adaklu Kordiabe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Kpoviadzi Avedo",
+    "Facility": "Adakpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Adalekpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Weta",
+    "Facility": "Adelakoekope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Adenyime CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Adidome District Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Adidome Zongo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Fugo",
+    "Facility": "Adina Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Adisec Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Adutor Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Weta",
+    "Facility": "Adzoatsi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Kpeve Adzokoe",
+    "Facility": "Adzokoe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Dorfor-Adidome-Volo",
+    "Facility": "Afaode CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Afegame",
+    "Facility": "Afegame CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Keta",
+    "Facility": "Afiadeyingba Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Afife",
+    "Facility": "Afife Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Fugo",
+    "Facility": "Agavedze Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Agbakope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Peki",
+    "Facility": "Agbate CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpeme",
+    "Facility": "Agbedrafor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Agbenorxoe",
+    "Facility": "Agbenorxoe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Afegame",
+    "Facility": "Agbesia CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dordoekope",
+    "Facility": "Agbeve CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Agbogbome CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Wego",
+    "Facility": "Agbozume Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Agormor",
+    "Facility": "Agormor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Agorta-Gamenu",
+    "Facility": "Agorta CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Shime",
+    "Facility": "Agortoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anloga (Anloga)",
+    "Facility": "Agorve CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Ahunda",
+    "Facility": "Ahunda Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Akame CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Akatsi District Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Akatsi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Hokpeta",
+    "Facility": "Akoefe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Yingor",
+    "Facility": "Akome CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Penyi",
+    "Facility": "Akpatoeme/Zukpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Shime",
+    "Facility": "Akplorfudzi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Sarakope",
+    "Facility": "Akpokope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Akporkploe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Sokode",
+    "Facility": "Akrofu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpedo",
+    "Facility": "Akuave CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Afegame",
+    "Facility": "Akwettey CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Fodzoku-Torgorme",
+    "Facility": "Alabonu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Alavanyo",
+    "Facility": "Alavanyo Dzogbedze CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Alavanyo",
+    "Facility": "Alavanyo Wudidi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "Ameco Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "Amedzofe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Amevor (Zone 2) CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Waya",
+    "Facility": "Amuzudeve CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Waya",
+    "Facility": "Anfoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Anfoega",
+    "Facility": "Anfoega Catholic Hospital, Anfoega",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Anfoega",
+    "Facility": "Anfoesec CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Weto-Hedzefe",
+    "Facility": "Anfoeta CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anloga (Anloga)",
+    "Facility": "Anloga Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Anoenu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Anyako Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anyanui",
+    "Facility": "Anyanui Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Tsito",
+    "Facility": "Anyrawase CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Asadame Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Gefia",
+    "Facility": "Asafotsi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Kpedze",
+    "Facility": "Ashanti Kpoeta CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave Afiadenyigbe",
+    "Facility": "Ashiagborvi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Atiavi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpedo",
+    "Facility": "Atidzive CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Atikpui CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Tadzewu",
+    "Facility": "Ative CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Wego",
+    "Facility": "Atoklokope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anyanui",
+    "Facility": "Atorkor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Atsekpui CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Battor",
+    "Facility": "Atsiekpoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave Afiadenyigbe",
+    "Facility": "Ave-afiadenyigba Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave - Dakpa",
+    "Facility": "Ave-dakpa Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave Dzalele",
+    "Facility": "Ave-dzalele Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave Afiadenyigbe",
+    "Facility": "Ave-xevi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Kpoviadzi Avedo",
+    "Facility": "Avedo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Avedotoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Avee CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Avenu",
+    "Facility": "Avega Gornu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao East",
+    "Facility": "Avegato Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Aveme",
+    "Facility": "Aveme Danyigba Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpedo",
+    "Facility": "Avenorpedo Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpeme",
+    "Facility": "Avenorpeme Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Tsito",
+    "Facility": "Avenui CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Torkor",
+    "Facility": "Avetikope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Avenu",
+    "Facility": "Avevi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Battor",
+    "Facility": "Aveyime Central CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave Dzalele",
+    "Facility": "Avoryikorpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Awadiokome (Island) CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Awate",
+    "Facility": "Awate Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Tsito",
+    "Facility": "Awudome SHS Clinic  ",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Ayimagonu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Sovie-Kudzra",
+    "Facility": "Aziave CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Kpando",
+    "Facility": "BEHECO CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Bake Gbolefe (Zone 1) CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Battor",
+    "Facility": "Battor Catholic Hospital, Battor",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Aveme",
+    "Facility": "Beme CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dorkploame",
+    "Facility": "Besakope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "Biakpa CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Biodum Maternity Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Fugo",
+    "Facility": "Blekusu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Bodzakope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Botoku",
+    "Facility": "Botoku Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Awate",
+    "Facility": "Bume CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "CEDER Medical Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao West",
+    "Facility": "Central Aflao Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Dabala Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Agbenorxoe",
+    "Facility": "Dafor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpedo",
+    "Facility": "Dagbamate Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Dagbeneva Clinic Ltd ",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Dalive CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Wumenu",
+    "Facility": "Dave Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Tsito",
+    "Facility": "Dededo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Battor",
+    "Facility": "Dedukope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Dekpoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Devego",
+    "Facility": "Dekpor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Deme Aviefe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Fugo",
+    "Facility": "Denu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Devego",
+    "Facility": "Devego Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Yingor",
+    "Facility": "Dodome Awuiasu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Yingor",
+    "Facility": "Dodome Teleafenu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Dodorkope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Wego",
+    "Facility": "Dogbekope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dordoekope",
+    "Facility": "Dordoekope Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Dorfor-Adidome-Volo",
+    "Facility": "Dorfor-adidome Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dorkploame",
+    "Facility": "Dorkploame CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Dornomadi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Afego",
+    "Facility": "Dove Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Ziope",
+    "Facility": "Dramave CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Dzake",
+    "Facility": "Dzake Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dordoekope",
+    "Facility": "Dzebetato-Tadze CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Tegbi",
+    "Facility": "Dziedzorve CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpeme",
+    "Facility": "Dzigbene-Lofotsume CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anyanui",
+    "Facility": "Dzita CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Dzodze",
+    "Facility": "Dzodze Ghana Mission Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpedo",
+    "Facility": "Dzogadze CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Agorta-Gamenu",
+    "Facility": "Dzogborve CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Yingor",
+    "Facility": "Dzologbogame Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Yingor",
+    "Facility": "Dzolokpuita Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Tongor",
+    "Facility": "E. P. Church Clinic, Dzemeni",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "E. P. Church Clinic, Hatorgodo",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "E.P. Church Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Weta",
+    "Facility": "E.P. Church International Mission Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Waya",
+    "Facility": "EP Church Clinic, Adaklu Waya",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Weta",
+    "Facility": "Ehie Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Have",
+    "Facility": "Emli Bazeh CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Emmanuel Med Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave Afiadenyigbe",
+    "Facility": "Ettekorpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Evangelical Presbyterian Clinic, Ho",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Mepe",
+    "Facility": "Fakpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dordoekope",
+    "Facility": "Fame Clinic, Akplale",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Agbenorxoe",
+    "Facility": "Fesi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Fiave (zone 2) CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Fiave (zone 3) CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Fiekpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Agumatsa",
+    "Facility": "Fodome Ahor Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Agumatsa",
+    "Facility": "Fodome Helu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Agumatsa",
+    "Facility": "Fodome Woe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Fodzoku-Torgorme",
+    "Facility": "Fodzoku Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Gefia",
+    "Facility": "Fr. Cuniberto Clinic, Lume.",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "Fume Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Gbi Urban",
+    "Facility": "GBI Akplamafu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "GBI-Kodzofe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Gbefi-Gadza",
+    "Facility": "Gadza Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Gakli CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Shime",
+    "Facility": "Galo-sota Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Agorta-Gamenu",
+    "Facility": "Gamenu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "Gbadzeme CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Gbefi-Gadza",
+    "Facility": "Gbefi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Gbi Abansi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Gbi Urban",
+    "Facility": "Gbi Kpoeta CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Gbi Urban",
+    "Facility": "Gbi-wegbe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Agumatsa",
+    "Facility": "Gbledi Gbogame Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Gefia",
+    "Facility": "Gefia Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anyanui",
+    "Facility": "Genui CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Glidzi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Glitame CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "Godly Shepherd Maternity Home",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Gonu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Wute",
+    "Facility": "Gornikorpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Peki",
+    "Facility": "Govco Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Weto",
+    "Facility": "Goviefe Agodome Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Weto",
+    "Facility": "Goviefe Todzi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpeme",
+    "Facility": "Gui CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "HEPSS School Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Wumenu",
+    "Facility": "Have CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Have",
+    "Facility": "Have Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Helekpe",
+    "Facility": "Helekpe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Hikpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Weto-Hedzefe",
+    "Facility": "Hlefi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Ahunda",
+    "Facility": "Hlihave CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Ho Municipal Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Ho Polyclinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Ho Teaching Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Ho Technical University Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Hokpeta",
+    "Facility": "Hodzo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Hofedo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Hoggar Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Hohoe (RCH) Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Hohoe Adabraka Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Hohoe Central Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Hohoe Dagbave CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Kpedze",
+    "Facility": "Honuta CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Hope (Ho) Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Battor",
+    "Facility": "Horme Kpekpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Hornam Medical Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Hoviefe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Vakpo",
+    "Facility": "Jordanu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Keta",
+    "Facility": "Joseph Cramers New Look Optical Catholic Centre, Dzelukope",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Juapong Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Kafui Maternity Home",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Duga",
+    "Facility": "Kaira/Ahor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Dzodze",
+    "Facility": "Kasu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Keta",
+    "Facility": "Kedzi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Keta",
+    "Facility": "Keta Municipal Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Weta",
+    "Facility": "Ketu North Municipal Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao West",
+    "Facility": "Ketu South District Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Keyime",
+    "Facility": "Keyime CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Keyime",
+    "Facility": "Keyime Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Kings Hand Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Abutia",
+    "Facility": "Kissiflui CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Kitikpa Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Klave / Hoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Klefe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Devego",
+    "Facility": "Klenormadi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Klikor Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Kluma CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anyanui",
+    "Facility": "Kodzi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Wumenu",
+    "Facility": "Kodzobi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Keyime",
+    "Facility": "Kortrala CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Duga",
+    "Facility": "Kpalime Duga Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Kpando",
+    "Facility": "Kpando Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Kpando",
+    "Facility": "Kpando Market CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Sovie-Kudzra",
+    "Facility": "Kpantec CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Kpando",
+    "Facility": "Kpasec CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Vakpo",
+    "Facility": "Kpebe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Ave - Dakpa",
+    "Facility": "Kpeduhoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Kpedze",
+    "Facility": "Kpedze Polyclinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Kpedze",
+    "Facility": "Kpedze SHS Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Hokpeta",
+    "Facility": "Kpenoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Kpetoe",
+    "Facility": "Kpetoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Kpetoe",
+    "Facility": "Kpetoe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Ahunda",
+    "Facility": "Kpetsu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Weto",
+    "Facility": "Kpeve Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Kpeve Adzokoe",
+    "Facility": "Kpeve Newtown CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Weto",
+    "Facility": "Kpeve Tornu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Wute",
+    "Facility": "Kpodzivi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Afego",
+    "Facility": "Kpogadzi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Tongor",
+    "Facility": "Kpogbonikope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Kpoglu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sotewu",
+    "Facility": "Kpotame Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Kpoviadzi Avedo",
+    "Facility": "Kpoviadzi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Sovie-Kudzra",
+    "Facility": "Kudzra Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Tadzewu",
+    "Facility": "Kutsinu/Wuti CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Larve CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Lebene Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Leklebi",
+    "Facility": "Leklebi Duga Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Leklebi",
+    "Facility": "Leklebi Kame Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Liati",
+    "Facility": "Liati Soba Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Ve",
+    "Facility": "Liati Teikrom CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Liati",
+    "Facility": "Liati Wote CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Live CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Livega CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Tongor",
+    "Facility": "Living Oasis Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Logba Tafi",
+    "Facility": "Logba Alakpeti CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Logba Tafi",
+    "Facility": "Logba Tota Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Logba Tafi",
+    "Facility": "Logba Vuinta Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Sokode",
+    "Facility": "Lokoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Klikor",
+    "Facility": "Lotakor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Lume CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Kpedze",
+    "Facility": "Luvudo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi Sasekpe",
+    "Facility": "Mafi Gidikpoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Mafi Yingor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "Mafi-Anfoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Mafi-Kumase Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi Sasekpe",
+    "Facility": "Mafi-Sasekpe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Kpoviadzi Avedo",
+    "Facility": "Mafi-Tove CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Mafi-agoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Kpando",
+    "Facility": "Margaret Marquart Catholic Hospital, Kpando",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Dzodze",
+    "Facility": "Mass Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Sokode",
+    "Facility": "Mater Ecclesiae Catholic Hospital, Sokode Gbogame",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Matse Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Matse Zone 2 CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Mawoekpor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Mepe",
+    "Facility": "Mekpe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Merciful Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Ho Central",
+    "Facility": "Miracle Life Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Adidome",
+    "Facility": "New Bakpa Health Center",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao West",
+    "Facility": "New Hope Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Kpetoe",
+    "Facility": "New Light Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Some Wego",
+    "Facility": "Nogokpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Helekpe",
+    "Facility": "Nutifafa Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Have",
+    "Facility": "Nyagbo Gagbefe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Have",
+    "Facility": "Nyagbo Odumase CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Have",
+    "Facility": "Nyagbo Sroe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Battor",
+    "Facility": "Nyatikpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Nyive Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Kpetoe",
+    "Facility": "Obemla CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Tadzewu",
+    "Facility": "Ohawu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "PPAG Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Peki",
+    "Facility": "Peki Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Peki",
+    "Facility": "Peki Wudome CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Penyi",
+    "Facility": "Penyi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "Podoe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "Richard Novati Catholic Hospital, Sogakope",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Dzodze",
+    "Facility": "Sabu-Dav Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Sacred Heart Catholic Hospital, Weme - Abor",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Have",
+    "Facility": "Sadzikofe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Sopa-Torda",
+    "Facility": "Salvation Army Health Centre, Adaklu-Sofa",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Dzake",
+    "Facility": "Sanga CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Sarakope",
+    "Facility": "Sarakope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "Sasekope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Sasieme CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Yingor",
+    "Facility": "Saviefe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "Sepe Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Mafi-Kumase",
+    "Facility": "Seva CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Seva CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Shia Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Ziope",
+    "Facility": "Silandre CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "Sogakope District Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "Sogakope North CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sogakope",
+    "Facility": "Sogasco School Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Sokode",
+    "Facility": "Sokode Bagble / Ando CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Sokode",
+    "Facility": "Sokode Gborgame/ Etoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sotewu",
+    "Facility": "Sokpoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Sokutime CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Afife",
+    "Facility": "Sovie CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Sovie-Kudzra",
+    "Facility": "Sovie Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Wute",
+    "Facility": "Sremanu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Kpando",
+    "Facility": "St Patrick (kpando) Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Akatsi",
+    "Facility": "St Paul (Akatsi) Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Tegbi",
+    "Facility": "St Raphael Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Juapong-podoe",
+    "Facility": "St. Anne's Catholic Polyclinic, Tagadzi",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Dzodze",
+    "Facility": "St. Anthony's Catholic Hospital, Dzodze",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "St. Catherine School Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anloga (Anloga)",
+    "Facility": "St. Francis -Anloga Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Anyanui",
+    "Facility": "St. Francis -Anyanui Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Liati",
+    "Facility": "St. George's Catholic Clinic, Liati",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Tadzewu",
+    "Facility": "Tadzewu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Logba Tafi",
+    "Facility": "Tafi Abuife CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Logba Tafi",
+    "Facility": "Tafi Agome CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Logba Tafi",
+    "Facility": "Tafi Atome CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Hokpeta",
+    "Facility": "Takla CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Tanyigbe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Taviefe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Sotewu",
+    "Facility": "Tefle Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Tegbi",
+    "Facility": "Tegbi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Kpeve Adzokoe",
+    "Facility": "Todome CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Norvisi",
+    "Facility": "Tokokoe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Awate",
+    "Facility": "Tokorme CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Waya",
+    "Facility": "Torda CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Fodzoku-Torgorme",
+    "Facility": "Torgorme Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Kpando",
+    "Sub-district": "Torkor",
+    "Facility": "Torkor Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Tongu",
+    "Sub-district": "Dabala-Adutor",
+    "Facility": "Tosukpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Shime",
+    "Facility": "Tregui Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Anloga",
+    "Sub-district": "Shime",
+    "Facility": "Trekume CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Tongor",
+    "Facility": "Tsanakpe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Duga",
+    "Facility": "Tsatee CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "Tsiame CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Tsito",
+    "Facility": "Tsibu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Tsito",
+    "Facility": "Tsito Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Dzake",
+    "Facility": "Tsiyinu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Botoku",
+    "Facility": "Tsoxor CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Helekpe",
+    "Facility": "Tsrefe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Botoku",
+    "Facility": "Tsrukpe Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Kpeve Adzokoe",
+    "Facility": "Tsyokpokope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Aveme",
+    "Facility": "Tsyome Sabadu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Afife",
+    "Facility": "Tysinu/Agorvega CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Vakpo",
+    "Facility": "Vakpo Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho West",
+    "Sub-district": "Avatime",
+    "Facility": "Vane Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Ve",
+    "Facility": "Ve - Hove Lormnava Nyive CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Ve",
+    "Facility": "Ve Golokwati Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Ve",
+    "Facility": "Ve-Hoeme (Ve-GHAD) Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Ve",
+    "Facility": "Ve-koloenu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Dorfor-Adidome-Volo",
+    "Facility": "Volo Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Hohoe",
+    "Facility": "Volta Regional Hospital",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Keta",
+    "Sub-district": "Anyako",
+    "Facility": "WELSPAN Health Limited Clinic",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Anfoega",
+    "Facility": "Wademaxe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Waya",
+    "Facility": "Waya Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "South Dayi",
+    "Sub-district": "Kpeve Adzokoe",
+    "Facility": "Wegbe Kpalime Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Weta",
+    "Facility": "Weta Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Agumatsa",
+    "Facility": "Wli Central Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Hohoe",
+    "Sub-district": "Agumatsa",
+    "Facility": "Wli Todzi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Afadjato South",
+    "Sub-district": "Weto",
+    "Facility": "Woadze CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Tongu",
+    "Sub-district": "Mepe",
+    "Facility": "Workpoe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Wudoaba CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Central Tongu",
+    "Sub-district": "Kpoviadzi Avedo",
+    "Facility": "Wudukpo CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Keyime",
+    "Facility": "Wudzedeke CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Adaklu",
+    "Sub-district": "Wumenu",
+    "Facility": "Wumenu Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "North Dayi",
+    "Sub-district": "Vakpo",
+    "Facility": "Wusuta Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Wute",
+    "Facility": "Wute Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi South",
+    "Sub-district": "Avenorpeme",
+    "Facility": "Xavi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu North",
+    "Sub-district": "Devego",
+    "Facility": "Xipe CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ketu South",
+    "Sub-district": "Aflao Wego",
+    "Facility": "Yame-Wute-Lante CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Ziope",
+    "Facility": "Yevi CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Akatsi North",
+    "Sub-district": "Agormor",
+    "Facility": "Zemu CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Ho",
+    "Sub-district": "Dutasor",
+    "Facility": "Ziavi Health Centre",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Ziope",
+    "Facility": "Ziope CHPS",
+    "Zone": "Volta"
+  },
+  {
+    "Region": "Volta",
+    "District": "Agortime-Ziope",
+    "Sub-district": "Ziope",
+    "Facility": "Ziope Health Centre",
+    "Zone": "Volta"
+  }
+]

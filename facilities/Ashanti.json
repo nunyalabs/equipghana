@@ -1,0 +1,5035 @@
+[
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "A1 Hospiatal, Aputuogya",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Adiembra-Santasi",
+    "Facility": "A1 Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Tano-Takyiman",
+    "Facility": "AAMUSTED Clinic,Tanoso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Kwabrafoso",
+    "Facility": "AGA Health Foundation Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kokofu",
+    "Facility": "ASAMANG CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "ASUBOA Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Zongo",
+    "Facility": "Abena Serwaah Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Dominase (Bekwai)",
+    "Facility": "Abenkyiman Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Barekese",
+    "Facility": "Abira CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Abiram CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Aboabo (Adansi Asokwa)",
+    "Facility": "Aboabo Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Aboabogya",
+    "Facility": "Aboabogya Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Tontokrom",
+    "Facility": "Aboaboso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Aboaso",
+    "Facility": "Aboaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Kwamang",
+    "Facility": "Abodease Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Abofour",
+    "Facility": "Abofour Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Kuntanase",
+    "Facility": "Abono CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Betiako",
+    "Facility": "Abonsuaso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Aboabogya",
+    "Facility": "Aborah Sika Catholic Clinic, Wawase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Manso Nkwanta",
+    "Facility": "Abore Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuaem",
+    "Facility": "Abosamso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Kumawu",
+    "Facility": "Abotanso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Abountem CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Dichemso",
+    "Facility": "Abrafi Memorial Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Abuakwa",
+    "Facility": "Abuakwa Government Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fiankoma",
+    "Facility": "Abuakwaa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Abuohia Tophill Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Keniago",
+    "Facility": "Abuoso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Asokore Mampong",
+    "Facility": "Academy Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Ntobroso",
+    "Facility": "Achiase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Achiase (Juaben)",
+    "Facility": "Achiase Health Centre (Ejisu Juaben)",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Kunka",
+    "Facility": "Adaase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Adagya CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Adako-Jachie Abankro CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Amponyase",
+    "Facility": "Adamso / Fenaso Nkwanta CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Bekwai",
+    "Facility": "Adankraja CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Adankwame Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Adankwame-Esaso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "New Nsuta",
+    "Facility": "Adansi Bonah Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Wioso (Adansi North)",
+    "Facility": "Adansi Kyekyewere CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Fomena",
+    "Facility": "Adansi North District Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Adidwan",
+    "Facility": "Adidwan Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Ahodwo-Danyame",
+    "Facility": "Adiebeba Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Adimposo II CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Wioso (Adansi North)",
+    "Facility": "Adomanu (Adansi North) CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "Adomfe CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Amponyase",
+    "Facility": "Adubensaso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Aboabogya",
+    "Facility": "Adubinsu Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Sabronum",
+    "Facility": "Adukrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Adum Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Kodie",
+    "Facility": "Aduman CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Adumasa CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "Adunku CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Adutwam CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Aboabogya",
+    "Facility": "Adwumakaase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Afari",
+    "Facility": "Afari Community Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Nyamebekyere",
+    "Facility": "Aframso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Birem",
+    "Facility": "Aframso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Afrancho Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Onwe",
+    "Facility": "Agape Medical Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Agona (Sekyere South)",
+    "Facility": "Agona Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Agric-Nzema",
+    "Facility": "Agyarko Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Ahenema Kokoben Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Ahenkro",
+    "Facility": "Ahenkro Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Asokore (Sekyere East)",
+    "Facility": "Ahensan CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Fomena",
+    "Facility": "Ahinsan CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Asokore (Sekyere East)",
+    "Facility": "Ahmadiya (Sekyere East) Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anwomaso",
+    "Facility": "Ahmadiyya Homeopatic Acupunture and Herbal Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kokofu",
+    "Facility": "Ahmadiyya Muslim Hospital, Bekwai",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Bekwai",
+    "Facility": "Ahwene Memorial Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Asokore (Sekyere East)",
+    "Facility": "Ahwerewa CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Pokukrom (Ahafo Ano South East)",
+    "Facility": "Ahwerewam CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Bekwai",
+    "Facility": "Ahwiaa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Gyereso",
+    "Facility": "Ahyiresu CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "Ahyiresu CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Jacobu",
+    "Facility": "Aketechieso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Asokore (Sekyere East)",
+    "Facility": "Akokoaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Kuntanase",
+    "Facility": "Akokofe CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kortwia",
+    "Facility": "Akoma Memorial SDA Hospital, Kortwia-Abodom",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Foase",
+    "Facility": "Akoma Specialist Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Bira Onwam",
+    "Facility": "Akrofonso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Akrofuom (Adansi Akrofuom)",
+    "Facility": "Akrofuom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Akrokerri",
+    "Facility": "Akrokerri Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Oyoko (Sekyere Kumawu)",
+    "Facility": "Akrokyere CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Akropong Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Boamang",
+    "Facility": "Akua Abakoma Catholic Medical Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Agric-Nzema",
+    "Facility": "Akuaba Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Akumadan",
+    "Facility": "Akumadan Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "Akutreso",
+    "Facility": "Akutreso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Amantenaman",
+    "Facility": "Akutuase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Tepa",
+    "Facility": "Akwasiase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Tontokrom",
+    "Facility": "Akyekyerekrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Akrofuom (Adansi Akrofuom)",
+    "Facility": "Alata CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "All Souls Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Abrepo-Ohwim",
+    "Facility": "Ama Dansowaa Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Ama Nyame Memorial Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Anyinasuso (Ahafo Ano North)",
+    "Facility": "Ama Tettehkrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Obogu",
+    "Facility": "Amanfrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Abrepo-Ohwim",
+    "Facility": "Amanfrom Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Amantenaman",
+    "Facility": "Amantena CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Dichemso",
+    "Facility": "Amoah Agyemang Memorail Medical & Diagnostic Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "Amoah Memorial Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Amoaman Achiase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Amoaman CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Amoamang CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Bekwai",
+    "Facility": "Amoamo Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuaem",
+    "Facility": "Amomorso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Bantama-Bohyen",
+    "Facility": "Ampabame Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Ampento CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Kyekyewere (Afigya Kwabre North)",
+    "Facility": "Amponsakrom CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Amponsakrom",
+    "Facility": "Amponsakrom CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Amponyase",
+    "Facility": "Ampunyase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Tepa",
+    "Facility": "Anane Aya Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Ananekrom",
+    "Facility": "Ananekrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Gyereso",
+    "Facility": "Anansu CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Anglican Eye Clinic, Jachie",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Gyereso",
+    "Facility": "Anglican Health Centre, Tano-Odumase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Anhwiaso",
+    "Facility": "Anhwiaso (Adansi Asokwa) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Animwaa Clinic Annex",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Ayeduase",
+    "Facility": "Aninwaah Medical Centre (Emena Hospital)",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Wioso (Ahafo Ano South West)",
+    "Facility": "Anitemfe CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Agroyesum",
+    "Facility": "Ankam Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Aboabo (Adansi Asokwa)",
+    "Facility": "Anomabo CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Tarkwa Maakro",
+    "Facility": "Anomangye Specialty Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuta (Bosome Freho)",
+    "Facility": "Anomawobi CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Antoakrom",
+    "Facility": "Antoakrom Community Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Antoakrom",
+    "Facility": "Antoakrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Asiwa",
+    "Facility": "Anumso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Nyinahin",
+    "Facility": "Anwiafutu Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Anwiam Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Aboabo (Asokore Mampong)",
+    "Facility": "Anwiam Hospital Annex",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Anwiam Hospital LTD – Kejetia Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anwomaso",
+    "Facility": "Anwomaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Anhwiaso",
+    "Facility": "Anwona CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Asiwa",
+    "Facility": "Anyanso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Tarkwa Maakro",
+    "Facility": "Anyimens Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Anyinam (Obuasi)",
+    "Facility": "Anyinam Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Anyinasuso (Ahafo Ano North)",
+    "Facility": "Anyinasuso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Anyinofi",
+    "Facility": "Anyinofi Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Apatrapa- Nyankerenease",
+    "Facility": "Apatrapa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Agogo (Ashanti)",
+    "Facility": "Apetenyinase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Apewu CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Tweapease",
+    "Facility": "Apitisu Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Sabronum",
+    "Facility": "Aponaponso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Apromase Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Aputuogya RCH Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Kofiase",
+    "Facility": "Asaam Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Sepe Timpom",
+    "Facility": "Asabi Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Ahodwo-Danyame",
+    "Facility": "Asafo Agyei Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Asakraka (Atwima Nwabiagya)",
+    "Facility": "Asakrakra Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Asamang Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Aseda Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Oyoko (Sekyere Kumawu)",
+    "Facility": "Asekyerewa CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Amakom",
+    "Facility": "Asisiriwa Mim CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Asiwa",
+    "Facility": "Asiwa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Asokore Mampong",
+    "Facility": "Asokore Mampong Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Asokwa (Asokwa)",
+    "Facility": "Asokwa Children's Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Asokwa (Adansi Asokwa)",
+    "Facility": "Asokwa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Asonomaso",
+    "Facility": "Asonomaso Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Abofour",
+    "Facility": "Asuboi CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Asubuasu",
+    "Facility": "Asubuasu Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Manfo",
+    "Facility": "Asuhyiae CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Asuofua Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Asuoyeboa",
+    "Facility": "Asuoyeboah Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "Ataase",
+    "Facility": "Ataase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Adiembra-Santasi",
+    "Facility": "Atasomanso Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Atimatim",
+    "Facility": "Atimatim Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Jacobu",
+    "Facility": "Atobiase (Amansie Central) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Adidwan",
+    "Facility": "Atonsuagya CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "Ataase",
+    "Facility": "Atwereboana CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Abuakwa",
+    "Facility": "Atwima Maakro Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Drobonso",
+    "Facility": "Auntie Riek Health",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Ahinsan",
+    "Facility": "Awurade Adom Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Ayeduase",
+    "Facility": "Ayeduase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Suame",
+    "Facility": "Ayiwa Memorial Maternity",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "Ayush Memorial Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "BREKU CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Babaso",
+    "Facility": "Babaso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Bafuwaa Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Banka",
+    "Facility": "Banka Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Bira Onwam",
+    "Facility": "Banko Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Asakraka (Atwima Nwabiagya)",
+    "Facility": "Bankyease CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Ofoase",
+    "Facility": "Banso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Abuakwa",
+    "Facility": "Baptist Medical Centre, Abuakwa",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Barekese",
+    "Facility": "Barekese Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Barekese",
+    "Facility": "Barekuma CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Wioso (Ahafo Ano South West)",
+    "Facility": "Barniekrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Bayerebon",
+    "Facility": "Bayerebon Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Bekwai",
+    "Facility": "Bekwai Municipal Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "Bekwaimin CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Anyinasu",
+    "Facility": "Bemi CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Kofiase",
+    "Facility": "Benim Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Dompoase (Adansi North)",
+    "Facility": "Benito Menni Catholic Hospital, Domposase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Beposo Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Betiako",
+    "Facility": "Betiako Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Biemso",
+    "Facility": "Biemso No. 2 CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Birem",
+    "Facility": "Birem Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Bremang",
+    "Facility": "Blessed Child Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Bluegate Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Tepa",
+    "Facility": "Boagyaa No1 CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Aboabo (Asokore Mampong)",
+    "Facility": "Boakye Dankwa Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Boamang",
+    "Facility": "Boamang Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Jamasi",
+    "Facility": "Boanim Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Dwease-Praaso",
+    "Facility": "Boatengkrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Bekwai",
+    "Facility": "Bodoma CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Woraso",
+    "Facility": "Bodomase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Sabronum",
+    "Facility": "Bokruwa CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Bira Onwam",
+    "Facility": "Bomeng CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Bomfa",
+    "Facility": "Bomfa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "Bompata Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "KNUST",
+    "Facility": "Bomso Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Adiembra-Santasi",
+    "Facility": "Bondok Healthcare Services",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Bonsua",
+    "Facility": "Bonsua Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Agogo (Ashanti)",
+    "Facility": "Bontodiase Zongo CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Kasei",
+    "Facility": "Bonyon CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Adidwan",
+    "Facility": "Bosomkyekye CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Agogo (Ashanti)",
+    "Facility": "Brantuokrom CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Bremang",
+    "Facility": "Breathe Easy Sleep Better Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Asokwa (Adansi Asokwa)",
+    "Facility": "Brofoyedru East CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Brofoyedru",
+    "Facility": "Brofoyedru Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Tutuka",
+    "Facility": "Bryant Mission Hospital, Obuasi-Adansi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Adidwan",
+    "Facility": "Bunuso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Buokrom-Moshie",
+    "Facility": "Buokrom Community Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Bremang",
+    "Facility": "By Grace Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Kotokuom",
+    "Facility": "CHC Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Afari",
+    "Facility": "Calvary Charismatic Baptist Medical Centre, Atwima",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Asuofua",
+    "Facility": "Cedar Crest Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Gyenase",
+    "Facility": "Central Charismatic Baptist Medical Centre, Gyinase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "New Nsuta",
+    "Facility": "Central Market Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Tutuka",
+    "Facility": "Chase Optical Eye Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Aboaso",
+    "Facility": "Christ Our Hope Maternity",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Christ Soteria Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Ahinsan",
+    "Facility": "Christ The King Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Mampong (Ashanti)",
+    "Facility": "Christaa Clinic, Mampong",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "KNUST",
+    "Facility": "Church of Christ Mission Clinic, Bomso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Kobreso",
+    "Facility": "Church of God Clinic & Maternity Home, Asempanaye",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Pokukrom (Ahafo Ano South East)",
+    "Facility": "Church of God Clinic , Ahwerewam",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Onwe",
+    "Facility": "Church of God Hospital,  Essienimpong",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin South",
+    "Facility": "City Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Manhyia -Ash Town",
+    "Facility": "Clinic Ash Town",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin South",
+    "Facility": "Cocoa Clinic (Kumasi)",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "Constant Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Abrepo-Ohwim",
+    "Facility": "County Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Dabaa",
+    "Facility": "Dabaa Hope Hospital, Dabaa",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Oyoko (Sekyere Kumawu)",
+    "Facility": "Dadeasa SDA Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Oyoko (Sekyere Kumawu)",
+    "Facility": "Dadiase Amangoase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Drobonso",
+    "Facility": "Dagomba CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Dakopon Hospital Kwamo",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuaem",
+    "Facility": "Danso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Darko Community Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Kobreso",
+    "Facility": "Darso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Tontokrom",
+    "Facility": "Datano CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Dawia",
+    "Facility": "Dawia Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Sreso",
+    "Facility": "Debra CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Tutuka",
+    "Facility": "Diawuoso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Kwadaso Central",
+    "Facility": "Discovery Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Agona (Sekyere South)",
+    "Facility": "Divine Favour Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Effiduase",
+    "Facility": "Divine Grace (Sekyere East) Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "Divine Mercy Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Divine Netcare Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Kenyase",
+    "Facility": "Doly J. Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Kona",
+    "Facility": "Domeabra Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Juansa",
+    "Facility": "Domeabra Newtown CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Dompa CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Antoakrom",
+    "Facility": "Donosec Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Dorla Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Sekyedumase",
+    "Facility": "Drobong CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Duase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Dunkura Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Dwease-Praaso",
+    "Facility": "Dwease Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Ofoase",
+    "Facility": "Dwendwenase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Edubia Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Effiduase",
+    "Facility": "Effiduase Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Ejisu Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Ejura",
+    "Facility": "Ejura Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Epaphras Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Episcopal Divine Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Kotokuom",
+    "Facility": "Erica Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Ernest Medical Centre Ltd",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Esaase Bontefufuo Community Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Pokukrom (Ahafo Ano South East)",
+    "Facility": "Essienkyem CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Essuowin Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Eye Adom Clinic (Brofoyedru)",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Tutuka",
+    "Facility": "F. Colman AME Zion Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Kodie",
+    "Facility": "Family Care Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Family City Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Family Hospital Ejisu",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Adiembra-Santasi",
+    "Facility": "Fankyenebra Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fena Hia",
+    "Facility": "Fenaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Tebeso",
+    "Facility": "Fereso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "Feyiase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fiankoma",
+    "Facility": "Fiankoma Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Konongo",
+    "Facility": "First Klass Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anloga (Oforikrom)",
+    "Facility": "Florence Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Foase",
+    "Facility": "Foase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Fomena",
+    "Facility": "Fomena T. I. Ahmadiyya SHS Infirmary",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "New Edubiase",
+    "Facility": "Fountain Enclave Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Tebeso",
+    "Facility": "Freboye CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Asokwa (Asokwa)",
+    "Facility": "Fredatony Executive Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Bomfa",
+    "Facility": "Friends of Norway Christian Medical Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Nkawie",
+    "Facility": "Frimpong Boateng Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Fumesua Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Fumso",
+    "Facility": "Fumso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Aboabo (Adansi Asokwa)",
+    "Facility": "Fumso Ketewa CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Funsua",
+    "Facility": "Funsua Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Tontokrom",
+    "Facility": "Future View Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "GODCOM Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Garry Marvin Memorial Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Kodie",
+    "Facility": "Gladys Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Global Evangelical Mission Hospital, Apromase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Kronum Aboahia",
+    "Facility": "Gods Glory Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Gods Grace Maternity",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "Good News Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Grace Krapeanam Maternity Home Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Ayeduase",
+    "Facility": "Graceland Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Antoakrom",
+    "Facility": "Graceside Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Patriensa",
+    "Facility": "Graham Memorial Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Akrofuom (Adansi Akrofuom)",
+    "Facility": "Grumesa CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kortwia",
+    "Facility": "Gyasikrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Gyereso",
+    "Facility": "Gyereso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Tebeso",
+    "Facility": "Gyimakyi/Anhwiaso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Ahinsan",
+    "Facility": "HART Adventist Hospital, Ahinsan",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Funsua",
+    "Facility": "Hamidu Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Kronum Aboahia",
+    "Facility": "Happy Day Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Kronum Aboahia",
+    "Facility": "Happyday Maternity Annex",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Healthy Care Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Hemang – Ampatia CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Hiakose CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Kasei",
+    "Facility": "Hiawoanwu CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Afari",
+    "Facility": "Hiawu - Besease CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fena Hia",
+    "Facility": "Hiayeya CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Ahenbronum",
+    "Facility": "Holy Rosary Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Holy Trinity Clinic, Akwasiso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Nyamebekyere",
+    "Facility": "Homako CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Brofoyedru",
+    "Facility": "Hope Hill Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Agric-Nzema",
+    "Facility": "HopeXchange Catholic Medical Centre, Santasi Kumasi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Odumase",
+    "Facility": "Hopecare Specialist Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Abofour",
+    "Facility": "House of Hope Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Zongo",
+    "Facility": "Humble Excellence Maternity and Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Bomfa",
+    "Facility": "Huttel Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fena Hia",
+    "Facility": "Huu CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "Ataase",
+    "Facility": "Hwidiem CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Dabaa",
+    "Facility": "JILF Health Services",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Jachie Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Saakrom",
+    "Facility": "Jaliat Medical Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Jamasi",
+    "Facility": "Jamasi Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Akumadan",
+    "Facility": "Janie Speaks A.M.E Zion Hospital, Afrancho",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Jaylex Eye Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Kwamang",
+    "Facility": "Jeduako Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Jeninso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Woraso",
+    "Facility": "Jesus Care Voluntary Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Jetiase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Jacobu",
+    "Facility": "Johil Amansie Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Bremang",
+    "Facility": "Jomo Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Joy (kwabre) Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Juaben",
+    "Facility": "Juaben Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Juaben",
+    "Facility": "Juaben Mmorontua Dumakwai CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Juansa",
+    "Facility": "Juansa Government Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Juansa",
+    "Facility": "Juansa North Mentukwa CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Juaso",
+    "Facility": "Juaso District Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Judicial Service Clinic (Kumasi)",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin South",
+    "Facility": "KMA Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "KNUST",
+    "Facility": "KNUST Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Odumase",
+    "Facility": "KOSS Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Juaso",
+    "Facility": "KUROFA EAST CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Ahinsan",
+    "Facility": "Kaase Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Kantanka Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Asonomaso",
+    "Facility": "Kasaam CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Betiako",
+    "Facility": "Katapei CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Ahodwo-Danyame",
+    "Facility": "Kean Health Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Buokrom-Moshie",
+    "Facility": "Keffam Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Keniago",
+    "Facility": "Keniago Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kortwia",
+    "Facility": "Kensere CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anwomaso",
+    "Facility": "Kentinkrono CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Kenyase",
+    "Facility": "Kenyase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Kobeng",
+    "Facility": "Kobeng /Seidi Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Kobreso",
+    "Facility": "Kobreso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Sekyedumase",
+    "Facility": "Kobriti CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Kodie",
+    "Facility": "Kodie Akrowa Community Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Kofiase",
+    "Facility": "Kofiase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fiankoma",
+    "Facility": "Kofihwikrom CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Koforidua Antwi's Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Abofour",
+    "Facility": "Koforidua CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Banka",
+    "Facility": "Kokoben CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kokofu",
+    "Facility": "Kokofu General Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Komeso",
+    "Facility": "Komeso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Kona",
+    "Facility": "Kona Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "Konkori Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Konongo",
+    "Facility": "Konongo - Odumasi Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Konongo",
+    "Facility": "Konongo Extension(Amefa)/kyekyewere CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Anhwiaso",
+    "Facility": "Konsimua CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Tebeso",
+    "Facility": "Korchikrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Kotokuom",
+    "Facility": "Kotokuom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Manfo",
+    "Facility": "Krakosua CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Dwease-Praaso",
+    "Facility": "Kramokrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Krobo",
+    "Facility": "Krobo (mampong) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Krofofrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Tarkwa Maakro",
+    "Facility": "Kropo Charity Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Amponyase",
+    "Facility": "Kubi CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Abrepo-Ohwim",
+    "Facility": "Kumaning Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Asokore Mampong",
+    "Facility": "Kumasi Academy Clinic, Asokore",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anwomaso",
+    "Facility": "Kumasi Comfort Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Bremang",
+    "Facility": "Kumasi Medical Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Kumasi Police Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Kumasi South",
+    "Facility": "Kumasi South Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Kumpese CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Kunka",
+    "Facility": "Kunka Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mankranso",
+    "Facility": "Kunsu Camp CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mankranso",
+    "Facility": "Kunsu Dotiem CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mankranso",
+    "Facility": "Kunsu Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Kuntanase",
+    "Facility": "Kuntanase Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Onwe",
+    "Facility": "Kurotia Korase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Ahenkro",
+    "Facility": "Kwamang (afigya Kwabre) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Kwamang",
+    "Facility": "Kwamang Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "Kwanwoma Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Abofour",
+    "Facility": "Kwapanin CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Onwe",
+    "Facility": "Kwaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Kyebi CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Patriensa",
+    "Facility": "Kyekyebiase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Kyekyewere (Afigya Kwabre North)",
+    "Facility": "Kyekyewere (afigya Kwabre) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Komeso",
+    "Facility": "Kyempo CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Kyenkyenkura",
+    "Facility": "Kyenkyenkura CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Kuwait",
+    "Facility": "Lady Julia Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Buokrom-Moshie",
+    "Facility": "Lady of Grace Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Konongo",
+    "Facility": "Lifeland Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Living Waters Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "M & A Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Maame Rose Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Kuwait",
+    "Facility": "Maame Serwaa Maternity",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Tepa",
+    "Facility": "Mabang Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Madonna Catholic Clinic,  Besease",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Abuakwa",
+    "Facility": "Madonna Health Services",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Suame",
+    "Facility": "Magazine Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Ahodwo-Danyame",
+    "Facility": "Magazine Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Mama Tina's Maternity Home, Kwamo",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Brahabebome",
+    "Facility": "Mampamhwe CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Mampong (Ashanti)",
+    "Facility": "Mampong Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Mamponteng Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Mampong (Ashanti)",
+    "Facility": "Mamtech CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Manfo",
+    "Facility": "Manfo Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Manhyia -Ash Town",
+    "Facility": "Manhyia Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mankranso",
+    "Facility": "Mankranso Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Mansah Memorial Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Edubia",
+    "Facility": "Manso Nkran CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Manso Nkwanta",
+    "Facility": "Manso Nkwanta Government Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mankranso",
+    "Facility": "Maranatha (ahafo Ano South) Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Asuoyeboa",
+    "Facility": "Maranatha Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Jacobu",
+    "Facility": "Marben (amansie Central) Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Manhyia -Ash Town",
+    "Facility": "Marboah Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Mary Mother of God Mat Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Patasi-Suntreso",
+    "Facility": "Mater Dei Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Maternal and Child Health Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Ahinsan",
+    "Facility": "Maud's Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Meduma Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "New Edubiase",
+    "Facility": "Menang CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Akrofuom (Adansi Akrofuom)",
+    "Facility": "Mensonso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Asokore Mampong",
+    "Facility": "Mesewam Presbyterian Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Ahenema Kokobeng",
+    "Facility": "Methodist Clinic, Bebu - Anyiaem",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Ankaase",
+    "Facility": "Methodist Faith Healing Hospital, Ankaase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Foase",
+    "Facility": "Methodist Hospital, Aburaso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Kodie",
+    "Facility": "Methodist Hospital, Apagya",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Amakom",
+    "Facility": "Methodist Medical Centre, Amakom",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Amakom",
+    "Facility": "Methodist Medical Centre, Brodekwano",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Kuntanase",
+    "Facility": "Methodist Medical Centre, Nyameani",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Nyanfa",
+    "Facility": "Methodist Medical Centre, Senchi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Zongo",
+    "Facility": "Methodist Medical Centre, Tafo",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Bantama-Bohyen",
+    "Facility": "Metro Health Clinic (KumasI)",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Michmit Clinic and Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin North",
+    "Facility": "Mikaddo Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fena Hia",
+    "Facility": "Mile 14 Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fena Hia",
+    "Facility": "Mile 18 Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Adukrom (Asokore Mampong)",
+    "Facility": "Mma Sufi Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Kenyase",
+    "Facility": "Mommie Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Juaso",
+    "Facility": "Morso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Buokrom-Moshie",
+    "Facility": "Moshie Zongo Health centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Mother of God Catholic Health Centre, Esaase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Mount Sinai Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mpasaso",
+    "Facility": "Mpasaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Mpasaso",
+    "Facility": "Mpasaso-Dotiem CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Mpatuom East CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Ankaase",
+    "Facility": "Mpobi Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Antoakrom",
+    "Facility": "Mpraniase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Mampong (Ashanti)",
+    "Facility": "Mprim CHPS C",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "Muramura CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Banka",
+    "Facility": "Muronam Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Ahenbronum",
+    "Facility": "Muti Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Aboabo (Asokore Mampong)",
+    "Facility": "My Paradise Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Dominase (Bekwai)",
+    "Facility": "NTINANKO Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Subriso",
+    "Facility": "NUMASUA CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Nyinahin",
+    "Facility": "Nagodey Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Dabaa",
+    "Facility": "Najet Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Biemso",
+    "Facility": "Nana Afua Kobi Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Ahinsan",
+    "Facility": "Nana Ama Serwaah Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Tebeso",
+    "Facility": "Nancy Powels CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "New Nsuta",
+    "Facility": "Neighbourhood Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "New Aduampong CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "New Edubiase",
+    "Facility": "New Edubiase Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Bomfa",
+    "Facility": "New Koforidua CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anloga (Oforikrom)",
+    "Facility": "New Life Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Zongo",
+    "Facility": "Nizon Memorial Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Nkawie",
+    "Facility": "Nkawie Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Nkawie",
+    "Facility": "Nkawie-Toase Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Nkenkaasu",
+    "Facility": "Nkenkaasu Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Ntobroso",
+    "Facility": "Nkroma CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Kwamang",
+    "Facility": "Nkujua CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Kobreso",
+    "Facility": "Nkwankwaa Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Mponua",
+    "Facility": "Nkwankwaanua Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Nkwantakese",
+    "Facility": "Nkwanta - Kese Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Krobo",
+    "Facility": "Nkwanta CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Juaben",
+    "Facility": "Nkyerepoaso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Bompata",
+    "Facility": "Nnadieso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Keniago",
+    "Facility": "Nnipankyeremia CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Babaso",
+    "Facility": "Nokwreasa 2 CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Zongo",
+    "Facility": "Noorur-Rahman Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuaem",
+    "Facility": "Nsuaem (Bosome Freho) CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuta (Bosome Freho)",
+    "Facility": "Nsuta (Bosome Freho) CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Nsuta Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Nsuaem",
+    "Facility": "Nsutem CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Kunka",
+    "Facility": "Ntonsua CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Effiduase",
+    "Facility": "Ntumkumso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Numereso",
+    "Facility": "Numereso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Agric-Nzema",
+    "Facility": "Nwamase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trabuom",
+    "Facility": "Nweneso No. 2 Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Asokwa (Adansi Asokwa)",
+    "Facility": "Nyamekrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Aboabo (Adansi Asokwa)",
+    "Facility": "Nyankomase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Nyinahin",
+    "Facility": "Nyinahin Community Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Nyinahin",
+    "Facility": "Nyinahin Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Amantenaman",
+    "Facility": "Nyinamponase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Krobo",
+    "Facility": "Nyinampong CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anwomaso",
+    "Facility": "Nykon Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Adiembra-Santasi",
+    "Facility": "Oak Specialist Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Patriensa",
+    "Facility": "Obenimase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Obogu",
+    "Facility": "Obogu Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "Ataase",
+    "Facility": "Obonsu CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Gauso",
+    "Facility": "Obuasi Diagnostic Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Gauso",
+    "Facility": "Obuasi Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Agroyesum",
+    "Facility": "Odaho CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Odumase",
+    "Facility": "Odumase Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Tutuka",
+    "Facility": "Odumasi Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Keniago",
+    "Facility": "Offinho Asamang CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Offinso Central",
+    "Facility": "Offinso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Ofoase",
+    "Facility": "Ofoase Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Nyanfa",
+    "Facility": "Okaikrom (Sekyere East) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Oku",
+    "Facility": "Oku Catholic Clinic,Oku",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Nhyiaeso",
+    "Facility": "Omar Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Onwe",
+    "Facility": "Onwe Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Essuowin",
+    "Facility": "Onyame Akwan Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Nhyiaeso",
+    "Facility": "Oppong Brown Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Asuoyeboa",
+    "Facility": "Orion Health Care Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Osei Tutu SHS Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Numereso",
+    "Facility": "Oseikrom CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kokofu",
+    "Facility": "Otumfour Osei Tutu II Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Asokore (Sekyere East)",
+    "Facility": "Owuramso CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Adukrom (Asokore Mampong)",
+    "Facility": "Owusuaa Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "Oyoko CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Oyoko (Sekyere Kumawu)",
+    "Facility": "Oyoko Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Suame",
+    "Facility": "PPAG Suame",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Paradyse Hospital Ejisu",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Agogo (Ashanti)",
+    "Facility": "Pataban-Onyemso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Konongo",
+    "Facility": "Patience Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Patriensa",
+    "Facility": "Patriensa Ahenbronum Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Juansa",
+    "Facility": "Pekyerekye CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Achiase (Juaben)",
+    "Facility": "Peminase Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Kuntanase",
+    "Facility": "Piase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Buokrom-Moshie",
+    "Facility": "Pima Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Kuntanase",
+    "Facility": "Pipie CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Aboabo (Adansi Asokwa)",
+    "Facility": "Pipiiso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Asokwa (Asokwa)",
+    "Facility": "Poku Transport Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Pokukrom (Ahafo Ano South East)",
+    "Facility": "Pokuase CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Pokukrom (Ahafo Ano South East)",
+    "Facility": "Pokukrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Jamasi",
+    "Facility": "Pope John Paul II Catholic Medical Centre, Jamasi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Ahenbronum",
+    "Facility": "Power House Hospital, Old Tafo",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim Central",
+    "Sub-district": "Dwease-Praaso",
+    "Facility": "Praaso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Central",
+    "Sub-district": "Nsuta (Sekyere Central)",
+    "Facility": "Presbyterian Clinic, Abasua",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Agogo (Ashanti)",
+    "Facility": "Presbyterian Hospital, Agogo",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Ahodwo-Danyame",
+    "Facility": "Prima Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "Prime Rose Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "Anloga (Oforikrom)",
+    "Facility": "Queen Victoria Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Kuwait",
+    "Facility": "Queens (Kumasi) Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Kumawu",
+    "Facility": "Rahama Health Care",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Rev. Walker Mission Hospital,Fumesua-Kokobra",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Dunkura",
+    "Facility": "Richard Fowler Catholic Clinic,  Dejanso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Gauso",
+    "Facility": "Ridge (obuasi) Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Riva Swiss Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Wioso (Adansi North)",
+    "Facility": "Ronico Maternity Limited",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Obogu",
+    "Facility": "Roses Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Royal Gate Family Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "Royal Lawuzy Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Saakrom",
+    "Facility": "Saakrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Sabronum",
+    "Facility": "Sabronum Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Wiamoase",
+    "Facility": "Sacred Heart Catholic Health Centre,  Bepoase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Manhyia -Ash Town",
+    "Facility": "Safo Adu Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Wiamoase",
+    "Facility": "Salvation Army Hospital, Wiamoase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Anyinasuso (Offinso)",
+    "Facility": "Samproso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "Anyinam (Obuasi)",
+    "Facility": "Sanso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Asokwa (Asokwa)",
+    "Facility": "Saqs Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Dominase (Bekwai)",
+    "Facility": "Sarfokrom Health Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Ejisu",
+    "Facility": "Saviour Church Clinic, Bonwire",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kortwia",
+    "Facility": "Saviour Church Clinic, Subriso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Sekyedumase",
+    "Facility": "Sekyedumase Government Polyclinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Bira Onwam",
+    "Facility": "Sekyere Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Kumawu",
+    "Facility": "Sekyere Kumawu District Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Anyinofi",
+    "Facility": "Seneso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya",
+    "Sub-district": "Afari",
+    "Facility": "Sepaase God is Able Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Buokrom-Moshie",
+    "Facility": "Sepe Buokrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Sepe Timpom",
+    "Facility": "Sepe-Dote Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Anyinasuso (Offinso)",
+    "Facility": "Seventh Day Adventist Clinic, Anyinasuso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Yonso",
+    "Facility": "Seventh Day Adventist Clinic, Apaah",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Amakom",
+    "Facility": "Seventh Day Adventist Clinic, Konkoma",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Bomfa",
+    "Facility": "Seventh Day Adventist Clinic, Nobewam",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Agona (Sekyere South)",
+    "Facility": "Seventh Day Adventist Hospital, Asamang",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Bremang",
+    "Facility": "Seventh Day Adventist Hospital, Breman",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Dominase (Bekwai)",
+    "Facility": "Seventh Day Adventist Hospital, Dominase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Kwadaso Central",
+    "Facility": "Seventh Day Adventist Hospital, Kwadaso-Kumasi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Anyinasuso (Offinso)",
+    "Facility": "Seventh Day Adventist Hospital, Namong",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Brahabebome",
+    "Facility": "Seventh Day Adventist Hospital, Obuasi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Wiamoase",
+    "Facility": "Seventh Day Adventist Hospital, Wiamoasi-Ashanti",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Sewua Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Asokore Mampong",
+    "Facility": "Sheikh Tawfiq Memoral Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Ahenbronum",
+    "Facility": "Siaw Larbi Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Kwadaso Central",
+    "Facility": "Siloam Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Brahabebome",
+    "Facility": "Siloam Mission Hospital, Obuasi ",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Mampong (Ashanti)",
+    "Facility": "Sister Phillipah Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Patasi-Suntreso",
+    "Facility": "South Patasi Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Akumadan",
+    "Facility": "Sraneso No.1 CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Sreso",
+    "Facility": "Sreso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Babaso",
+    "Facility": "Srichikura CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Atimatim",
+    "Facility": "St Theresas (afigya Kwabre) Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokwa",
+    "Sub-district": "Kuwait",
+    "Facility": "St. Anne's Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Onwe",
+    "Facility": "St. Anthony Ann Catholic Hospital, Donyina",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Anyinasu",
+    "Facility": "St. Anthony's Catholic Clinic,  Anyinasu",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Akrofuom (Adansi Akrofuom)",
+    "Facility": "St. Anthony's Catholic Clinic,  Sikaman",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Patasi-Suntreso",
+    "Facility": "St. Augustine Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Antoakrom",
+    "Facility": "St. De-Graft Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South East",
+    "Sub-district": "Biemso",
+    "Facility": "St. Edward Catholic Hospital, Dwinyama",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Nkwantakese",
+    "Facility": "St. FF Specialist Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asokore Mampong",
+    "Sub-district": "Aboabo (Asokore Mampong)",
+    "Facility": "St. Helena Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Ahenbronum",
+    "Facility": "St. John Homeopathic Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Wioso (Ahafo Ano South West)",
+    "Facility": "St. John's Catholic Clinic, Domeabra",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Asonomaso",
+    "Facility": "St. Joseph's Catholic Clinic, Abira",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi",
+    "Sub-district": "New Nsuta",
+    "Facility": "St. Jude Hospital, Obuasi",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Aboabo (Adansi Asokwa)",
+    "Facility": "St. Louis Catholic Health Centre, Bodwesango",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejura-Sekyedumase",
+    "Sub-district": "Kasei",
+    "Facility": "St. Luke  Hospital, Kasei, Ejura",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere East",
+    "Sub-district": "Mponua",
+    "Facility": "St. Luke's Catholic Health Centre, Seniagya",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Agroyesum",
+    "Facility": "St. Martin’s Catholic Hospital, Agroyesum",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "St. Mary Anglican Clinic, Apenkra",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Asiwa",
+    "Facility": "St. Mary's Catholic Clinic, Yapesa",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Pramso",
+    "Facility": "St. Michael's Catholic Hospital, Pramso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Offinso Central",
+    "Facility": "St. Patrick's Catholic Hospital, Offinso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Ntobroso",
+    "Facility": "St. Peter's Catholic Health Centre, Ntoboroso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Jacobu",
+    "Facility": "St. Peter's Catholic Hospital, Jacobu",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Fena Hia",
+    "Facility": "St. Thomas Catholic Health Centre, Hia",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Afram Plains",
+    "Sub-district": "Drobonso",
+    "Facility": "St. Vincent De Paul Catholic Clinic, Drobonso",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim South",
+    "Sub-district": "Juaso",
+    "Facility": "Stewards Hospital, Yawkwei",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Subriso",
+    "Facility": "Subriso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Numereso",
+    "Facility": "Sukuumu CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre South",
+    "Sub-district": "Afrancho",
+    "Facility": "Sulemana Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Bantama-Bohyen",
+    "Facility": "Suntreso Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Akropong (Atwima Nwabiagya North)",
+    "Facility": "Sunyani Road Church of Christ Mission Clinic LBG",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "Swiftcare Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Nhyiaeso",
+    "Facility": "Tafo Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Tano-Takyiman",
+    "Facility": "Takyiman Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere South",
+    "Sub-district": "Kona",
+    "Facility": "Tano-Odumase Ebeye Yie CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Juansa",
+    "Facility": "Tanoah Memorial Baptist Medical Centre, Opuniase",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso North",
+    "Sub-district": "Mankramso",
+    "Facility": "Tanokwaem CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Tano-Takyiman",
+    "Facility": "Tanoso Community Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Tarkwa Maakro",
+    "Facility": "Tarkwa Maakro Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosome Freho",
+    "Sub-district": "Tebeso",
+    "Facility": "Tebeso I CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Kumawu",
+    "Facility": "Temate-Nkwanta CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bekwai",
+    "Sub-district": "Kortwia",
+    "Facility": "Tenkwaamah Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Tepa",
+    "Facility": "Tepa Government Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Bosomtwe",
+    "Sub-district": "Jachie",
+    "Facility": "Tetrefu Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Afigya Kwabre North",
+    "Sub-district": "Tetrem",
+    "Facility": "Tetrem Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Dichemso",
+    "Facility": "Three Stones Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ejisu",
+    "Sub-district": "Krapa",
+    "Facility": "Tikrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Kwadaso Central",
+    "Facility": "Tiwaa Memorial Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Tontokrom",
+    "Facility": "Tontokrom Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "TopCare Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trabuom",
+    "Facility": "Traboum Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Subin South",
+    "Facility": "Travellers Trinity Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Trede",
+    "Facility": "Trede Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Pankrono",
+    "Facility": "Trinity Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Kenyase",
+    "Facility": "Truba CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Juaben",
+    "Facility": "True Faith Hospital, Bethel Juaben",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Offinso",
+    "Sub-district": "Offinso Central",
+    "Facility": "True Light Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Old Tafo",
+    "Sub-district": "Tafo Zongo",
+    "Facility": "True Vine Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Patasi-Suntreso",
+    "Facility": "Trust Care Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano North",
+    "Sub-district": "Manfo",
+    "Facility": "Twabidi Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie Central",
+    "Sub-district": "Tweapease",
+    "Facility": "Tweapease (amansie Central) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi South",
+    "Sub-district": "Akutreso",
+    "Facility": "Tweapease CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Foase",
+    "Facility": "Twedie CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Obuasi East",
+    "Sub-district": "Tutuka",
+    "Facility": "Twumwaa Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Mampong (Ashanti)",
+    "Facility": "University Clinic, Mampong",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Asokwa",
+    "Sub-district": "Asokwa (Adansi Asokwa)",
+    "Facility": "Vannesa Pokua Adjie Memorial Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Kenyase",
+    "Facility": "Vednan Medical Center",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "KNUST",
+    "Facility": "Victory (Kumasi) Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Mamponteng",
+    "Facility": "Victory Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Kotokuom",
+    "Facility": "Victory Maternity Home",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi Akrofuom",
+    "Sub-district": "Amponyase",
+    "Facility": "Wamase CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Kwadaso Central",
+    "Facility": "Washington Specialist Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie South",
+    "Sub-district": "Tontokrom",
+    "Facility": "Watreso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Apatrapa- Nyankerenease",
+    "Facility": "Well Point Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwadaso",
+    "Sub-district": "Agric-Nzema",
+    "Facility": "West End Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Oyoko (Sekyere Kumawu)",
+    "Facility": "Westphalian Medical Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Adansi North",
+    "Sub-district": "Wioso (Adansi North)",
+    "Facility": "Wioso (Adansi North) Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Amantenaman",
+    "Facility": "Wioso (Asante Akim North) CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Ahafo Ano South West",
+    "Sub-district": "Wioso (Ahafo Ano South West)",
+    "Facility": "Wioso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Suame",
+    "Sub-district": "Kronum Aboahia",
+    "Facility": "Wisdom (kumasi) Hospital",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kumasi",
+    "Sub-district": "Ahodwo-Danyame",
+    "Facility": "Wood Village Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Akim North",
+    "Sub-district": "Amantenaman",
+    "Facility": "Woranponso CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Sekyere Kumawu",
+    "Sub-district": "Woraso",
+    "Facility": "Woraso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Nwabiagya North",
+    "Sub-district": "Barekese",
+    "Facility": "Wurapong CHPS Compound",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Juaben",
+    "Sub-district": "Juaben",
+    "Facility": "Yaa Asantewaa Maternity",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Kwanwoma",
+    "Sub-district": "Foase",
+    "Facility": "Yabi CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Amansie West",
+    "Sub-district": "Manso Nkwanta",
+    "Facility": "Yawkrom CHPS",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Oforikrom",
+    "Sub-district": "KNUST",
+    "Facility": "Yentumi Boitey Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Atwima Mponua",
+    "Sub-district": "Gyereso",
+    "Facility": "Yenyawoso Health Centre",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Asante Mampong",
+    "Sub-district": "Yonso",
+    "Facility": "Yonso Clinic",
+    "Zone": "Ashanti"
+  },
+  {
+    "Region": "Ashanti",
+    "District": "Kwabre East",
+    "Sub-district": "Aboaso",
+    "Facility": "Zion Praise Hospital",
+    "Zone": "Ashanti"
+  }
+]

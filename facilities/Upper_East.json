@@ -1,0 +1,3110 @@
+[
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga South",
+    "Facility": "A-Rapha Medical Center",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Gambibgo",
+    "Facility": "AGANA CLINIC",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Namoo",
+    "Facility": "ALOOBO INTERNATIONAL HEALTH CENTRE LIMITED",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu West",
+    "Facility": "AYIRE CLINIC ANNEX",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Abitanga Medical health center",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Namoo",
+    "Facility": "Abokobisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tolla/Nungu",
+    "Facility": "Accra Site CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Chuchuliga",
+    "Facility": "Achanyeri-Goayie CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Chuchuliga",
+    "Facility": "Achanyeri/Jaata CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema East",
+    "Facility": "Achogeyire/Awusuyeri CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "Adaboya CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Plaza",
+    "Facility": "Afrikids Medical-Centre Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kandiga",
+    "Facility": "Agandaa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Sapelliga Googo",
+    "Facility": "Agatusi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu East",
+    "Facility": "Aguusi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Basyonde",
+    "Facility": "Akara CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Akolposiga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Pusiga",
+    "Facility": "Akunye Memorial Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kugri",
+    "Facility": "Aloko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Zaare",
+    "Facility": "Amiah Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Sirigu Busongo",
+    "Facility": "Amuntanga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Anafobisi Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu West",
+    "Facility": "Anateem CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Boya/Gbantongo",
+    "Facility": "Anglican Clinic, Yelwoko",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Aniisi/Kukparigu",
+    "Facility": "Aniisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "Apatanga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Mirigu Nabango",
+    "Facility": "Apiagumongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zongoire",
+    "Facility": "Apodapogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "Apuwongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Plaza",
+    "Facility": "Asakunde Memorial Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Asologo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Bazua",
+    "Facility": "Asugtaaba Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Atampintin CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Atampisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kandiga",
+    "Facility": "Ateyorum CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Atuba/Nafkolga",
+    "Facility": "Atuba Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Winkongo",
+    "Facility": "Awaredone CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Zorko",
+    "Facility": "Awiadone CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Datoku",
+    "Facility": "Awudu Kpaare Naabil Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Ayamfoya Memorial Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Ayelbia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Ayire Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Ayopia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo East",
+    "Facility": "Azaasi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Zaare",
+    "Facility": "Azembe Maternity Home",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Atuba/Nafkolga",
+    "Facility": "Azimbe Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Mirigu Nabango",
+    "Facility": "Azinzoka CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Boya/Gbantongo",
+    "Facility": "Azoongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu East",
+    "Facility": "Azorebisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Binduri Central",
+    "Facility": "Azum-Sapeliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tilli Widnaba",
+    "Facility": "Azupupuuga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Binaba",
+    "Facility": "Azuwera CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tongo",
+    "Facility": "Baare CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Fumbisi",
+    "Facility": "Baasa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Babile-Nyania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Doninga",
+    "Facility": "Bachongsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Baribari/Bador",
+    "Facility": "Bador CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Navio",
+    "Facility": "Badunu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kayoro",
+    "Facility": "Baliu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Balungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Pwalugu",
+    "Facility": "Balungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Balungu-Nabiisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Zawse/Bansi",
+    "Facility": "Bansi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Tempane",
+    "Facility": "Barboaka CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Baribari/Bador",
+    "Facility": "Baribari CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Basyonde",
+    "Facility": "Basyonde Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Batiu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Bazua",
+    "Facility": "Bazua Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tongo",
+    "Facility": "Belsa Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Pusiga",
+    "Facility": "Bengular CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "Beo Tanko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Winkongo",
+    "Facility": "Big Boss Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema East",
+    "Facility": "Bilinsa Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Binaba",
+    "Facility": "Binaba Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Binduri Central",
+    "Facility": "Binduri Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tanga Timonde",
+    "Facility": "Biringu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tolla/Nungu",
+    "Facility": "Biug Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Widana",
+    "Facility": "Blessing Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Nakolo",
+    "Facility": "Boania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Manga/Goore",
+    "Facility": "Bok Sapeliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Namoo",
+    "Facility": "Boko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga Central",
+    "Facility": "Bolgatanga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga Central",
+    "Facility": "Bolgatanga Police Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Bongo Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Bongo Soe Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Wuru",
+    "Facility": "Bonia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Boya/Gbantongo",
+    "Facility": "Boya CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Kuka West",
+    "Facility": "Bugre Corner Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Bugri",
+    "Facility": "Bugri Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Mognori",
+    "Facility": "Bugzunde CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Bugri",
+    "Facility": "Bulpielsi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Bulugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Sirigu Busongo",
+    "Facility": "Busungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Fumbisi",
+    "Facility": "Buterisa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Case Medical Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Channia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Uwasi",
+    "Facility": "Chansa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Chiana",
+    "Facility": "Chiana Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Wiaga",
+    "Facility": "Chiok CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Chuchuliga",
+    "Facility": "Chuchuliga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Chuchuliga",
+    "Facility": "Chuchuliga Yipaala CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Plaza",
+    "Facility": "Coronation Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Nakom Zuabuliga",
+    "Facility": "Dabia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatia",
+    "Facility": "Dabilla CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Katanga",
+    "Facility": "Dachio CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zongoire",
+    "Facility": "Dagunba CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Zanlerigu",
+    "Facility": "Daliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Pusiga",
+    "Facility": "Dan New Life Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Plaza",
+    "Facility": "Dapooretindongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Dasobligo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Datoku",
+    "Facility": "Datoku Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu West",
+    "Facility": "Dazongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Deborinsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Denugu",
+    "Facility": "Denugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Divine Favour Health Center",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo East",
+    "Facility": "Doba CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Doninga",
+    "Facility": "Doninga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sherigu",
+    "Facility": "Dorongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "Dua Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu West",
+    "Facility": "Dulugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Denugu",
+    "Facility": "Dusbuliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Denugu",
+    "Facility": "Duuri CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Duusi/Gbani",
+    "Facility": "Duusi Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Plaza",
+    "Facility": "Eastside Life Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Everjoy Medical Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Tempane",
+    "Facility": "Fame Clinic, Benwoko",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Worikambo",
+    "Facility": "Farfar CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Wiaga",
+    "Facility": "Farinsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Basyonde",
+    "Facility": "Faruk FK Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Feo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Fumbisi",
+    "Facility": "Fumbisi Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Vunania/Kapania",
+    "Facility": "Gaani CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Duusi/Gbani",
+    "Facility": "Gaare CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Gagbiri",
+    "Facility": "Gagbiri CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Sapelliga Googo",
+    "Facility": "Galaka CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Gambibgo",
+    "Facility": "Gambibgo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Zorko",
+    "Facility": "Gamborogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Zanlerigu",
+    "Facility": "Gane Asoge CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Gbedema",
+    "Facility": "Garibiensa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Duusi/Gbani",
+    "Facility": "Gbani CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Boya/Gbantongo",
+    "Facility": "Gbantango Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatua",
+    "Facility": "Gbanterago CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Gbedema",
+    "Facility": "Gbedema CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Gbedema",
+    "Facility": "Gbedema Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Wiesi",
+    "Facility": "Gbedemblisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Pusiga",
+    "Facility": "Gbewaa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Mognori",
+    "Facility": "Gentiga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Wuru",
+    "Facility": "Gia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo East",
+    "Facility": "Gingabnia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Uwasi",
+    "Facility": "Gobsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo Central",
+    "Facility": "Gongnia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Mirigu Nabango",
+    "Facility": "Gonum CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Sapelliga Googo",
+    "Facility": "Googo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Manga/Goore",
+    "Facility": "Goore Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Gorogo",
+    "Facility": "Gorogo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Gorug Nagbouk CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Valley Zone",
+    "Facility": "Gowrie CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tanga Timonde",
+    "Facility": "Gozeisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Manyoro",
+    "Facility": "Gumongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Zanlerigu",
+    "Facility": "Gundug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Nangodi",
+    "Facility": "Gunwagre CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Sirigu Busongo",
+    "Facility": "Gunwoko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Immaculate Conception of Mary Catholic Health Centre, Kongo",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Vunania/Kapania",
+    "Facility": "JANANIA CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Gbedema",
+    "Facility": "Jagsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Kanjarga",
+    "Facility": "Jiningsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Binaba",
+    "Facility": "KUSANABA SHS CLINIC",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Binduri Central",
+    "Facility": "Kaadi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kandiga",
+    "Facility": "Kaasi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Kabre CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kayoro",
+    "Facility": "Kadania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Zorko",
+    "Facility": "Kadare CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Kadema",
+    "Facility": "Kadema Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Kajelo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Kalbeo",
+    "Facility": "Kalbeo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Kalibiisa/Fiisa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema East",
+    "Facility": "Kalijiisa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Chiana",
+    "Facility": "Kalvio CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Chiana",
+    "Facility": "Kalvio-Gugoro CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Boya/Gbantongo",
+    "Facility": "Kamega CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Chiana",
+    "Facility": "Kanania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Kandema CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Kanjarga",
+    "Facility": "Kanjarga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla North",
+    "Facility": "Kansoongu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Vunania/Kapania",
+    "Facility": "Kapania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kandiga",
+    "Facility": "Kasena Nankana East Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Fumbisi",
+    "Facility": "Kasiesa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo East",
+    "Facility": "Kassena Nankana CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Katanga",
+    "Facility": "Katanga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Katiu Nankong",
+    "Facility": "Katiu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kayoro",
+    "Facility": "Kayoro Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Kobdema Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Kobore CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla North",
+    "Facility": "Kobougo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatia",
+    "Facility": "Kolmasug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Kologo",
+    "Facility": "Kologo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Wiaga",
+    "Facility": "Kom CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Basyonde",
+    "Facility": "Kongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Kongo Daborin CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Kpikpira",
+    "Facility": "Konkomadan CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Binaba",
+    "Facility": "Kopella CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Wuru",
+    "Facility": "Korania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema East",
+    "Facility": "Kori CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Sakote",
+    "Facility": "Kotintabig CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Kpaliwega CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Boya/Gbantongo",
+    "Facility": "Kpalsako CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Zawse/Bansi",
+    "Facility": "Kpalugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Zawse/Bansi",
+    "Facility": "Kpalugu_2 CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Sakote",
+    "Facility": "Kparikpii CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Namolgo/Kpatia",
+    "Facility": "Kpatia (Talensi Nabdam) CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatia",
+    "Facility": "Kpatia (garu Tampane) CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatua",
+    "Facility": "Kpatua CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Kpikpira",
+    "Facility": "Kpenkpanyoung CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Kadema",
+    "Facility": "Kpikpaluk CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Kpikpira",
+    "Facility": "Kpikpira CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Kuboko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Gagbiri",
+    "Facility": "Kugasheigu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Sakote",
+    "Facility": "Kugri CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kugri",
+    "Facility": "Kugri CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo East",
+    "Facility": "Kugwania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Kuitamsi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Kuitamsi Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Kuka East",
+    "Facility": "Kuka CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Aniisi/Kukparigu",
+    "Facility": "Kukparigu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu West",
+    "Facility": "Kulbia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Nakolo",
+    "Facility": "Kuliya CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Bazua",
+    "Facility": "Kuloko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Datoku",
+    "Facility": "Kulpeliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Kulungungu Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu West",
+    "Facility": "Kumbosco CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Valley Zone",
+    "Facility": "Kunkua CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga North",
+    "Facility": "Kunkwa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Gbedema",
+    "Facility": "Kunkwak CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Widana",
+    "Facility": "Kuose CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kandiga",
+    "Facility": "Kurugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Lamboya CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Sarabogo",
+    "Facility": "Latega CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Logre Putin CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kandiga",
+    "Facility": "Longo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Tempane",
+    "Facility": "Lord Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Kanjarga",
+    "Facility": "Luisa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Central",
+    "Facility": "Lungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo Central",
+    "Facility": "MOHAMMED MEDICAL CENTRE",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga North",
+    "Facility": "Madina CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Manga/Goore",
+    "Facility": "Manga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Manyoro",
+    "Facility": "Manyoro CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Sirigu Busongo",
+    "Facility": "Martyrs of Uganda Catholic Health Centre, Sirigu",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Kuka East",
+    "Facility": "Megogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatia",
+    "Facility": "Meliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Zanlerigu",
+    "Facility": "Miboug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "South Natinga",
+    "Facility": "Millennium Laafi Doog",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Mirigu Nabango",
+    "Facility": "Mirigu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "South Natinga",
+    "Facility": "Missiga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Mognori",
+    "Facility": "Mognori Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Kanjarga",
+    "Facility": "Musidema CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Kadema",
+    "Facility": "Mutiensa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Naaba Akparibilla Medical Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Fumbisi",
+    "Facility": "Naadema CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Kologo",
+    "Facility": "Naaga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Woriyanga",
+    "Facility": "Naba Suguru Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Mirigu Nabango",
+    "Facility": "Nabango CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Atuba/Nafkolga",
+    "Facility": "Nafkolga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Basyonde",
+    "Facility": "Nagani CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Nakom Zuabuliga",
+    "Facility": "Nakom H/C",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Katiu Nankong",
+    "Facility": "Nakong CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Kpikpira",
+    "Facility": "Nambina CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Chuchuliga",
+    "Facility": "Namonsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Namoo",
+    "Facility": "Namoo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Nangodi",
+    "Facility": "Nangodi Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Nania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Chuchuliga",
+    "Facility": "Nanjupiung CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Manga/Goore",
+    "Facility": "Narango CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Manyoro",
+    "Facility": "Natugnia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Navio",
+    "Facility": "Navio CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo Central",
+    "Facility": "Navrongo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo East",
+    "Facility": "Nayagnia CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Namoo",
+    "Facility": "Nayorigo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu East",
+    "Facility": "New Joy Medical Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Kpikpira",
+    "Facility": "Ninsum CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kpatua",
+    "Facility": "Nomboko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tolla/Nungu",
+    "Facility": "Nungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Chiana",
+    "Facility": "Nyangania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Pungu",
+    "Facility": "Nyangua CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Valley Zone",
+    "Facility": "Nyariga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga North",
+    "Facility": "Nyariga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Sakote",
+    "Facility": "Nyogbare Ndanboug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sherigu",
+    "Facility": "Nyokorko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Nangodi",
+    "Facility": "Nyorboko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "PAGA CENTRAL CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Paga Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pelungu",
+    "Facility": "Pelungu Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Binaba",
+    "Facility": "Peri-Kusanaba CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Nakom Zuabuliga",
+    "Facility": "Pialoko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Kugri",
+    "Facility": "Pialugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Wuru",
+    "Facility": "Pindaa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Fumbisi",
+    "Facility": "Pintengsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Pitanga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Zaare",
+    "Facility": "Presby Clinic - Zaare",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Widana",
+    "Facility": "Presbyterian  Health Centre, Widana",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tolla/Nungu",
+    "Facility": "Presbyterian CHPS Compound, Tolla",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Namolgo/Kpatia",
+    "Facility": "Presbyterian Clinic, Namolgo",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Garu",
+    "Facility": "Presbyterian Health Centre, Garu",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Siniensi",
+    "Facility": "Presbyterian Health Centre, Siniensi",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Kpikpira",
+    "Facility": "Presbyterian Health Centre, Sumaduri",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Woriyanga",
+    "Facility": "Presbyterian Health Centre, Woriyanga",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "South Natinga",
+    "Facility": "Presbyterian Hospital, Bawku",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Zaare",
+    "Facility": "Presbyterian Psychariatic Hospital, Bolgatanga",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga North",
+    "Facility": "Presbyterian Regional Eye Clinic, Bolgatanga",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sherigu",
+    "Facility": "Pumpongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Pungu",
+    "Facility": "Pungu North CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Pungu",
+    "Facility": "Pungu South CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Pungu",
+    "Facility": "Punyoro CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Pusiga",
+    "Facility": "Pusiga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Shia",
+    "Facility": "Pusu-Namogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Pwalugu",
+    "Facility": "Pwalugu Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Quality (bawku) Medical Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Garu",
+    "Facility": "Quality Medical Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Tempane",
+    "Facility": "Rabito Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Zaare",
+    "Facility": "Regional Hospital, Bolgatanga",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Katiu Nankong",
+    "Facility": "Saa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo Central",
+    "Facility": "Saboro CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Navio",
+    "Facility": "Sakaa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu",
+    "Facility": "Sakarabisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Sakote",
+    "Facility": "Sakote CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Binduri Central",
+    "Facility": "Sakpare CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tongo",
+    "Facility": "Sakpare/Tengre CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Salifu Memorial Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Sapelliga Googo",
+    "Facility": "Salpiiga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Soe",
+    "Facility": "Sanabisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Sandema Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Sanwaasa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Sapelliga Googo",
+    "Facility": "Sapelliga Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Sarabogo",
+    "Facility": "Sarabogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Songo",
+    "Facility": "Senebaga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Shia",
+    "Facility": "Sepaat CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Namolgo/Kpatia",
+    "Facility": "Sheaga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sherigu",
+    "Facility": "Sherigu Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Shia",
+    "Facility": "Shia Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Denugu",
+    "Facility": "Siisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Namoo",
+    "Facility": "Sikabisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Kadema",
+    "Facility": "Sinyansa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Zaare",
+    "Facility": "Soe CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga South",
+    "Facility": "Sokabisi Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Nangodi",
+    "Facility": "Soliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Songo",
+    "Facility": "Songo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla North",
+    "Facility": "Soogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Gagbiri",
+    "Facility": "St  Peter the Rock Catholic Health Centre, Kugzua",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "St. Clement  Catholic Health Centre,  Kissigo",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Nakolo",
+    "Facility": "St. Joseph Catholic Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Wiaga",
+    "Facility": "St. Lucas Catholic Hospital, Wiaga",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Kologo",
+    "Facility": "St. Martin’s Catholic Clinic, Biu [Navrongo]",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Zorko",
+    "Facility": "St. Theresa’s Catholic Health Centre, Zorko",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Nakolo",
+    "Facility": "St.Francis of Assisi Catholic Health Centre , Nakolo",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Worikambo",
+    "Facility": "Suamvus CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu East",
+    "Facility": "Sumbrungu Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Sandema West",
+    "Facility": "Suwarinsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tongo",
+    "Facility": "Talensi District Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tanga Timonde",
+    "Facility": "Tanga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Gagbiri",
+    "Facility": "Tariganga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tilli Widnaba",
+    "Facility": "Tarikom CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Navio",
+    "Facility": "Tazika CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Tempane",
+    "Facility": "Tempane Health Center",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pelungu",
+    "Facility": "Tengre CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Tensungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Gorogo",
+    "Facility": "Tenzuug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla North",
+    "Facility": "Teshie CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Aniisi/Kukparigu",
+    "Facility": "Tetauko CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Bazua",
+    "Facility": "The Glory Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tilli Widnaba",
+    "Facility": "Tilli Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tanga Timonde",
+    "Facility": "Timonde Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Widana",
+    "Facility": "Tindanatinga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga Central",
+    "Facility": "Tindomolgo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pelungu",
+    "Facility": "Tindongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Kalbeo",
+    "Facility": "Tindonsobligo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tanga Timonde",
+    "Facility": "Tonde CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tongo",
+    "Facility": "Tongo Beo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu",
+    "Facility": "Ultima Platz Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "North Natinga",
+    "Facility": "Urban (bawku) Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Urban West Health Centre (Bawku)",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Uwasi",
+    "Facility": "Uwasi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Valley Zone",
+    "Facility": "Vea Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Chiana",
+    "Facility": "Villa Regina Catholic Health Centre, Gwenia",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku Municipal",
+    "Sub-district": "Urban West",
+    "Facility": "Vineyard Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Vunania/Kapania",
+    "Facility": "Vunania CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Wiaga",
+    "Facility": "Wablinsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Songo",
+    "Facility": "Wadugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Bongo Beo",
+    "Facility": "Wagliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Gorogo",
+    "Facility": "Wakii CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Denugu",
+    "Facility": "Wakuan CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Navrongo Central",
+    "Facility": "War Memorial Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tilli Widnaba",
+    "Facility": "Weari CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Garu",
+    "Facility": "Werichengo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Tilli Widnaba",
+    "Facility": "Widnaba Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Wiesi",
+    "Facility": "Wiesi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Winkongo",
+    "Facility": "Winkongo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Paga Central",
+    "Facility": "Wisdom (Kassena Nankana West) Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kayoro",
+    "Facility": "Wombio CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Sakote",
+    "Facility": "Woog CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Worikambo",
+    "Facility": "Worikambo Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Sirigu Busongo",
+    "Facility": "Wugingo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Doninga",
+    "Facility": "Wupiensa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana West",
+    "Sub-district": "Kayoro",
+    "Facility": "Wuru CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Wuru",
+    "Facility": "Wuru CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Tempane",
+    "Sub-district": "Tempane",
+    "Facility": "Yabrago CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Namolgo/Kpatia",
+    "Facility": "Yagzore CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Nangodi",
+    "Facility": "Yakote CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Bazua",
+    "Facility": "Yalugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Tongo",
+    "Facility": "Yameriga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Gambibgo",
+    "Facility": "Yarigabisi CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Yarigu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Zawse/Bansi",
+    "Facility": "Yarigungu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Sumbrungu West",
+    "Facility": "Yelbongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Wiaga",
+    "Facility": "Yemonsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga South",
+    "Facility": "Yikene CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Siniensi",
+    "Facility": "Yikpieng/Jansa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Yikurugu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Talensi",
+    "Sub-district": "Pwalugu",
+    "Facility": "Yinduri CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Garu",
+    "Sub-district": "Worikambo",
+    "Facility": "Yizidug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga Municipal",
+    "Sub-district": "Bolga North",
+    "Facility": "Yorogo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Manyoro",
+    "Facility": "Yua CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa South",
+    "Sub-district": "Uwasi",
+    "Facility": "Zamsa CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Zanlerigu",
+    "Facility": "Zanlerigu CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Kadema",
+    "Facility": "Zaring CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Zawse/Bansi",
+    "Facility": "Zawse Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Zebilla Hospital",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Zebilla SHS Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zebilla South",
+    "Facility": "Zebilla Town Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pelungu",
+    "Facility": "Zeimboug CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Binduri",
+    "Sub-district": "Zawse/Bansi",
+    "Facility": "Ziako CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Kulungugu/Kultamsi",
+    "Facility": "Zion Love Life Clinic",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pelungu",
+    "Facility": "Zogabre CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Widana",
+    "Facility": "Zong-natinga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zongoire",
+    "Facility": "Zongoire CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bawku West",
+    "Sub-district": "Zongoire",
+    "Facility": "Zongoire Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu",
+    "Facility": "Zono CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Kologo",
+    "Facility": "Zoongo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bongo",
+    "Sub-district": "Zorko",
+    "Facility": "Zorko Health Centre (New)",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Pitanga/Kongo",
+    "Facility": "Zua CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Pusiga",
+    "Sub-district": "Nakom Zuabuliga",
+    "Facility": "Zuabuliga CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu",
+    "Facility": "Zuarungu Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Bolgatanga East",
+    "Sub-district": "Zuarungu-Moshie",
+    "Facility": "Zuarungu-moshie Health Centre",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Builsa North",
+    "Sub-district": "Siniensi",
+    "Facility": "Zundema CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Kasena-Nankana",
+    "Sub-district": "Kologo",
+    "Facility": "Zuo CHPS",
+    "Zone": "Upper East"
+  },
+  {
+    "Region": "Upper East",
+    "District": "Nabdam",
+    "Sub-district": "Zanlerigu",
+    "Facility": "Zupeliga CHPS",
+    "Zone": "Upper East"
+  }
+]

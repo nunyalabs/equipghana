@@ -1,0 +1,2963 @@
+[
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa North",
+    "Facility": "Adolescent Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Ahmadia (Nadowli) Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Piina",
+    "Facility": "All Saints' Catholic Health Centre, Piina",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Asse CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Dowine",
+    "Facility": "Baazing CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Baazu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Babile",
+    "Facility": "Babile Polyclinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Bagri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tizza",
+    "Facility": "Baguu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Balayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Bamahu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Bamahu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Bamkpama CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Bamwon CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Bandei CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kunchogu",
+    "Facility": "Banu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Babile",
+    "Facility": "Bapaari Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kunchogu",
+    "Facility": "Bassisan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Batunuuryiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabulo",
+    "Facility": "Bawiesibelle Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Bekyiiteng CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Kundungu",
+    "Facility": "Belekpong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Betaglu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Wellembelle",
+    "Facility": "Bichemboi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Busa",
+    "Facility": "Biihee CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Biitenge CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Billaw",
+    "Facility": "Billaw Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Babile",
+    "Facility": "Biro CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Bognuor CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Boli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Bonaa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Bonmuni/Bondouri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Dowine",
+    "Facility": "Boo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Babile",
+    "Facility": "Brifoh Cha CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Brutu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Bu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Bu-Kpesin CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Funsi",
+    "Facility": "Buffiamah CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Wellembelle",
+    "Facility": "Bugubelle CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabugubelle",
+    "Facility": "Bujan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Bulenga Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "Buli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Bullu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Bultuo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Fielmuo",
+    "Facility": "Buo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Busa",
+    "Facility": "Busa Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Bussie",
+    "Facility": "Bussie Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Chaang CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Chaangu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Chaggu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Chaggupaani CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Kojokperi",
+    "Facility": "Challa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kulfuo",
+    "Facility": "Challu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Hain",
+    "Facility": "Chapuri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Charia",
+    "Facility": "Charia Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Charikpong",
+    "Facility": "Charikpong Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Charile CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Charingu",
+    "Facility": "Charingu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Chasia CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Kundungu",
+    "Facility": "Chawuli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Bussie",
+    "Facility": "Chebaa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Billaw",
+    "Facility": "Chebogo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Cheri-Sombo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Chetu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Fielmuo",
+    "Facility": "Chetu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Chiatanga CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Chinchang CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Chognuor CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Chogsia CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Chum CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "Da-e-yiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Kukpali-Dabo",
+    "Facility": "Dabo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Daffiama Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Dahile CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Dakpaa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Dakyie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Dalanteng CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Danaayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kpongu",
+    "Facility": "Dandafuro CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Dangi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Danku CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Danyawkura CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Dapuori",
+    "Facility": "Dapopare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Dapuori",
+    "Facility": "Dapuoh CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jeffisi",
+    "Facility": "Dasima CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Eremon",
+    "Facility": "Dazuur CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Duori",
+    "Facility": "Degri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Hain",
+    "Facility": "Deriyiri/Zaguo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Die CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Diglafuro CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Dikpe CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Dimanjan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Dobile",
+    "Facility": "Dobile North Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Dobile",
+    "Facility": "Dobile South CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tuggo",
+    "Facility": "Doggo/Konzokala CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa North",
+    "Facility": "Dokpong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabugubelle",
+    "Facility": "Dolibizon CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Ga",
+    "Facility": "Domangyli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Domawa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa North",
+    "Facility": "Dondoli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Dorimon Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Dornye CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Dowine",
+    "Facility": "Dowine Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Du-West CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Issa",
+    "Facility": "Duang CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Ducie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Sombo",
+    "Facility": "Duong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Duori",
+    "Facility": "Duori Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabulo",
+    "Facility": "Duu East CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Funsi",
+    "Facility": "Duu West CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jeffisi",
+    "Facility": "Duwie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Eggu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Fatchu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Fian",
+    "Facility": "Fian Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Fielmuo",
+    "Facility": "Fielmuo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa North",
+    "Facility": "Fongu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Funsi",
+    "Facility": "Funsi Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Furo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tuggo",
+    "Facility": "GOZIEL/KUL-ORA CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Ga",
+    "Facility": "Ga Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Gbache CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Gbal CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Gbankor CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Gbare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Charia",
+    "Facility": "Gbegru CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Gbier CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Gengenkpe",
+    "Facility": "Gengenkpe Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Baayiri",
+    "Facility": "Goh CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Goli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Goripie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Grumbelle chps",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Baayiri",
+    "Facility": "Gudayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kperisi",
+    "Facility": "Guli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Gumo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Ko",
+    "Facility": "Guo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Sabuli",
+    "Facility": "Guo/Chacha CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Yagha",
+    "Facility": "Guoripuo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabulo",
+    "Facility": "Guosi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Guri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Gurungu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Guse CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Gwollu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Gwollu Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Takpo",
+    "Facility": "Gyilli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Karne",
+    "Facility": "Gyirgan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Piina",
+    "Facility": "Hachagagan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Hain",
+    "Facility": "Hain Polyclinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Hamile Polyclinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Happah B-line CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Hiel CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Billaw",
+    "Facility": "Hinenteng CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Holomuni",
+    "Facility": "Holomuni Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kambali",
+    "Facility": "Homeland Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Immaculate Conception Catholic Health Centre, Kaleo",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Dobile",
+    "Facility": "Islamic Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Issa",
+    "Facility": "Issa Polyclinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Kukpali-Dabo",
+    "Facility": "Jambusi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Jang Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jawia",
+    "Facility": "Jawia Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jeffisi",
+    "Facility": "Jeffisi Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "Jenbob CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Jeyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Wellembelle",
+    "Facility": "Jijen CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Kojokperi",
+    "Facility": "Jinpensi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Jirapa Urban Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Kojokperi",
+    "Facility": "Jollinyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Busa",
+    "Facility": "Jonga CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Jongfian CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Kaaha Ombo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Billaw",
+    "Facility": "Kadiligor CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Kakalapare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Kalahi chps",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Kaleo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Zambo",
+    "Facility": "Kalsagri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Dapuori",
+    "Facility": "Kalsegra Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Bussie",
+    "Facility": "Kamahegu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kambali",
+    "Facility": "Kambali Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "Kandeu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Kandia CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Vieri",
+    "Facility": "Kangba CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Fielmuo",
+    "Facility": "Kankanduole CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Kansec CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Kansec Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Kanyini CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Karne",
+    "Facility": "Karni Central Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Kassana CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Baayiri",
+    "Facility": "Kataa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Holomuni",
+    "Facility": "Katua CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "Kawu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Kende CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Ketuo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Ullo",
+    "Facility": "Kogri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Dowine",
+    "Facility": "Koh/Guori CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Lambussie",
+    "Facility": "Kohuo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Kojokperi",
+    "Facility": "Kojokperi Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Kojokperi",
+    "Facility": "Kojokperi Urban CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Kokoligu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabulo",
+    "Facility": "Komo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Fielmuo",
+    "Facility": "Konchuri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Kong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kperisi",
+    "Facility": "Konjiehi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Konsi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Konta North CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Konzokala CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Korinyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Koro CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Karne",
+    "Facility": "Kpaare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Kpagdinga CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Kpaglahi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Holomuni",
+    "Facility": "Kpalworgu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Kpanamuna CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Dapuori",
+    "Facility": "Kpazie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kperisi",
+    "Facility": "Kperisi Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Kpila CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Baseble",
+    "Facility": "Kpiyagle CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kpongu",
+    "Facility": "Kpongu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kulfuo",
+    "Facility": "Kulfuo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Karne",
+    "Facility": "Kulkarni CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Kukpali-Dabo",
+    "Facility": "Kulkpali Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Kulkpong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nanvilli",
+    "Facility": "Kulpieni CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Yaala",
+    "Facility": "Kulun CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa North",
+    "Facility": "Kunbiehi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Ga",
+    "Facility": "Kunchelleyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Kuncheni CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kunchogu",
+    "Facility": "Kunchogu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Kundungu",
+    "Facility": "Kundungu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Kunkorgu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jeffisi",
+    "Facility": "Kuntulo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Yaala",
+    "Facility": "Kunyabin CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jawia",
+    "Facility": "Kupulima CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kulfuo",
+    "Facility": "Kuroboi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Kusali CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Kusinjan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Baseble",
+    "Facility": "Kusselle CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Charikpong",
+    "Facility": "Kuuri/Bure CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Kuzie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "Ladaateng CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Lambussie",
+    "Facility": "Lambussie Polyclinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "Lassia Tuolu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Lawra Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Lawra Urban Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Lilixi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jawia",
+    "Facility": "Liplime CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Loggu",
+    "Facility": "Loggu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Loho (Old and New) CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Dowine",
+    "Facility": "Lyssah CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "Maaduteng CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Maalyiri Medical Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Ga",
+    "Facility": "Maanyayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Maase CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Mama Mary Maternity Home",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kambali",
+    "Facility": "Mangu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Manwe CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nanvilli",
+    "Facility": "Meguo Mantaari CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Methodist Medical Centre, Lawra",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Methor Buo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Metteu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Motigu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Motori CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Moyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Muslim Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Mwaawaare Baamaare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Sabuli",
+    "Facility": "Mwankuri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Baayiri",
+    "Facility": "Naaha Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Naapaal CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Naayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Billaw",
+    "Facility": "Nabaala CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Nabugangn CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabugubelle",
+    "Facility": "Nabugubelle Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabulo",
+    "Facility": "Nabulo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Nadowli District Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Nadowli Subdistrict Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kambali",
+    "Facility": "Nakore CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Nambeg CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Nandom Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Nandom Kpee CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Nankpawie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Zambo",
+    "Facility": "Nanyaare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Napogbakolee CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Naro CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Ko",
+    "Facility": "Nativity of Our Lady Catholic Health Centre, Ko",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Takpo",
+    "Facility": "Nator CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Nawie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Nawuli/Konkonpare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Niator CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Hain",
+    "Facility": "Nindowala CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Takpo",
+    "Facility": "Niree Penetobo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kulfuo",
+    "Facility": "Nmanduonu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kperisi",
+    "Facility": "Nyagli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Nyagli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Nyaminjan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Nyayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Gwollu",
+    "Facility": "Nyemati CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Nyembale CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Ga",
+    "Facility": "Nyorli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Olli CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Yagha",
+    "Facility": "Our Lady of Lourdes Catholic Clinic, Yagha",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Owlo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Sombo",
+    "Facility": "Papu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Pase-Kong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Pieng CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Piina",
+    "Facility": "Piina Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Baseble",
+    "Facility": "Piiri Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Piisi (Wa) CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Piisie (Wa West) CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Piiyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kunchogu",
+    "Facility": "Pina CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Hain",
+    "Facility": "Ping CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Sombo",
+    "Facility": "Piree Kangua CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "Polee CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "Poyentanga Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Ga",
+    "Facility": "Progress Maternity Home",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Fian",
+    "Facility": "Pulbaa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jawia",
+    "Facility": "Pulima CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Sabuli",
+    "Facility": "Queen of Peace Catholic Health Centre, Sabuli",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "SDD UBIDS Hospital, Wa",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Saapari CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Saawie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Sakai Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Sakalu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Issa",
+    "Facility": "Samanbo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Samatigu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Samoa Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Charikpong",
+    "Facility": "Sampina CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Baayiri",
+    "Facility": "Samuel Seidu Memorial Clinic,  Bayiri",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Kaleo",
+    "Facility": "Sankana CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabulo",
+    "Facility": "Santijan CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Issa",
+    "Facility": "Sazie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Sakai",
+    "Facility": "Sentie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Piina",
+    "Facility": "Sentu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kambali",
+    "Facility": "Seventh Day Adventist Clinic, Wa",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Seyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Sigri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Dorimon",
+    "Facility": "Siiriyire CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jawia",
+    "Facility": "Silbelle CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Sina-Dindee CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Bamahu",
+    "Facility": "Sing CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Sokpayiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Kundungu",
+    "Facility": "Sombisi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kambali",
+    "Facility": "Sombo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Sombo",
+    "Facility": "Sombo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Sabuli",
+    "Facility": "Somboro CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Gengenkpe",
+    "Facility": "Sonne CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jawia",
+    "Facility": "Sorbelle CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Sombo",
+    "Facility": "St. Anne Catholic Medical Centre, Duong",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Dapuori",
+    "Facility": "St. Christopher's Catholic Clinic, Dapuori",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Ullo",
+    "Facility": "St. Evarist Catholic Clinic, Ullo",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Fielmuo",
+    "Facility": "St. Gerhard’s Catholic Health Centre, Fielmuo",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nanvilli",
+    "Facility": "St. Gregory's Catholic Clinic, Nanvilli",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Lassia Tuolu",
+    "Facility": "St. Ignatius Catholic Clinic, Lasia Tuolu",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Funsi",
+    "Facility": "St. John's Catholic Health Centre, Funsi",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "St. Joseph's Catholic Hospital, Jirapa",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Eremon",
+    "Facility": "St. Martin de Porres Catholic Clinic, Eremon",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "St. Patrick's Maternity Home",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Kundungu",
+    "Facility": "St. Paul's Catholic Health Centre, Kundungu",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Karne",
+    "Facility": "St. Stella's Catholic Health Centre, Karne",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "St. Theresa's Catholic Hospital, Nandom",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Samoa",
+    "Facility": "Suke CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Issa",
+    "Facility": "Tabiesi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Charingu",
+    "Facility": "Tabiesi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Taffiasi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Takpo",
+    "Facility": "Takpo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Tallawona CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Duori",
+    "Facility": "Tamapuo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Tampaala CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Tampalipaani CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Babile",
+    "Facility": "Tanchara CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Nadowli",
+    "Facility": "Tangasie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "Tanina CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Gengenkpe",
+    "Facility": "Tankyara CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Puffien",
+    "Facility": "Tantuo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lambussie",
+    "Sub-district": "Hamile",
+    "Facility": "Tapumu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kulfuo",
+    "Facility": "Tarsaw CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Tegme-Tuole CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nadowli-Kaleo",
+    "Sub-district": "Jang",
+    "Facility": "Tibani Zambogu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Yagha",
+    "Facility": "Tie/Tikpe CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Tieyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Nandom",
+    "Facility": "Tijaa Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Jeffisi",
+    "Facility": "Timme CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Funsi",
+    "Facility": "Tiniabe CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Tiwii CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tizza",
+    "Facility": "Tizza Health centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Ko",
+    "Facility": "Tokuu/Pisie CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Ko",
+    "Facility": "Tom CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Lawra",
+    "Facility": "Tongoh/ Zagkpee CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tuggo",
+    "Facility": "Tuggo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Tumu Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Tumu Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Ko",
+    "Facility": "Tuopare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Daffiama",
+    "Facility": "Tuori- Woogberi CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Bulenga",
+    "Facility": "Tuosah CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Tumu",
+    "Facility": "Tutco Mary Gia Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Ullo",
+    "Facility": "ULL-DANTIE CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Ullo",
+    "Facility": "Ulkpong CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Hain",
+    "Facility": "Uollo/Uol-Kuu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Dobile",
+    "Facility": "Upper West Regional Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Ko",
+    "Facility": "Vapuo CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Vieri",
+    "Facility": "Varimpare CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Vieri",
+    "Facility": "Vieri Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Jirapa",
+    "Facility": "Vingving CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa North",
+    "Facility": "Wa Market Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Wa Municipal Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Kpongu",
+    "Facility": "Wa Polytechnic Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Wa SHS Clinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Wa South",
+    "Facility": "Wa Urban Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Wechiau",
+    "Facility": "Wa West District Hospital",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Wassai CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Poyentanga",
+    "Facility": "Wechiau-boa CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Wellembelle",
+    "Facility": "Wellembelle Polyclinic",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Daffiama-Bussie-Issa",
+    "Sub-district": "Issa",
+    "Facility": "Wogu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tuggo",
+    "Facility": "Wulling CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Kunchogu",
+    "Facility": "Wuru CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Yaala",
+    "Facility": "Yaala Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa East",
+    "Sub-district": "Yaala",
+    "Facility": "Yaala No.2 CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa Municipal",
+    "Sub-district": "Charingu",
+    "Facility": "Yibile CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala East",
+    "Sub-district": "Nabugubelle",
+    "Facility": "Yigantu CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Nandom",
+    "Sub-district": "Baseble",
+    "Facility": "Yirpelle CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Gurungu",
+    "Facility": "Yuonuuri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Lawra",
+    "Sub-district": "Zambo",
+    "Facility": "Zambo Health Centre",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Wa West",
+    "Sub-district": "Eggu",
+    "Facility": "Zang CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Jirapa",
+    "Sub-district": "Tizza",
+    "Facility": "Zingpuuroyiri CHPS",
+    "Zone": "Upper West"
+  },
+  {
+    "Region": "Upper West",
+    "District": "Sissala West",
+    "Sub-district": "Zini",
+    "Facility": "Zini Health Centre",
+    "Zone": "Upper West"
+  }
+]

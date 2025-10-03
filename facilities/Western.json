@@ -1,0 +1,3572 @@
+[
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Apremdo",
+    "Facility": "2mrs Military Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "A Lang CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "ABA Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "ANANEKROM CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Attobrakrom",
+    "Facility": "Abekoase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Saa",
+    "Facility": "Abenabena Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Abesewa Gyamang CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Aboaboso CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Wassa Dunkwa",
+    "Facility": "Aboi Nkwanta CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Aboso (Prestea-Huni Valley)",
+    "Facility": "Aboso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Bawdie",
+    "Facility": "Abotareye CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Saa",
+    "Facility": "Abrokyire Krobo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Aboadze Abuesi",
+    "Facility": "Abuesi (Shama) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Abura CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Abura Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Adanse CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adansi",
+    "Facility": "Adansi Community Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Adesu CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Adidaase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Adiembra CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Effia Nkwanta",
+    "Facility": "Adiembra CHPS (Sekondi)",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Adientem CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Adjakaa Manso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Adjuah CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Mampong (WAE)",
+    "Facility": "Adjumako CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Adjumako Mpatase CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Adom (wassa Amenfi East) Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kokompe",
+    "Facility": "Adu Mantey CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Asasetre",
+    "Facility": "Adubrim CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adum Banso",
+    "Facility": "Adum Banso Health Center",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adum Banso",
+    "Facility": "Adum Banso Lower CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "Adusuazo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Afiena CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Afransie Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Aggreso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Agona Amenfi",
+    "Facility": "Agona (Wassa Amenfi Central) Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Agona Amenfi",
+    "Facility": "Agona Camp CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Agona Fie CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Agona Nkwanta Polyclinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Axim-Nsein",
+    "Facility": "Agyan CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Ahanta Abassa CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Ahmadiyya Mission Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "Ahobre CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "Aidoosuazo Health Center",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Aiyinase Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Bamiankor",
+    "Facility": "Akango CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Akatenchie CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Princess",
+    "Facility": "Aketakyi CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "Akoon CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Akoto CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Akpandue CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Asasetre",
+    "Facility": "Akropong CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Akuba Ewoo Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Akutuase Community Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Akwidaa CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anyinabrim (Wassa Amenfi Central)",
+    "Facility": "Akyekyere CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Akyempim Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Ampain",
+    "Facility": "Alhaji Nuhu Memorial Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "All One Medical Centre (Clinic)",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Beyin",
+    "Facility": "Allowulley CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Benso",
+    "Facility": "Amantin CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Ami Memorial Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Amoakokrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "Amokwawsuazo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Ampain",
+    "Facility": "Ampain Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Ayiem",
+    "Facility": "Ampeasem CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Amponsaso CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Ampontenkrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Amuaku CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Anaji",
+    "Facility": "Anaji East CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Anaji",
+    "Facility": "Anaji Health Center",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anakum",
+    "Facility": "Anakum Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Anapansu CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Manso (Mpohor)",
+    "Facility": "Angu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Ankamateng CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Agona Amenfi",
+    "Facility": "Ankasie CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Ankwawso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Ankyereyin CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "Anlo Beach CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kojokrom (Sekondi-Takoradi)",
+    "Facility": "Anoe CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Bonsie",
+    "Facility": "Anomatewa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Anto (Atobiase Sub District) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Anto CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Antobam CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "Anwiafutu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Nkroful",
+    "Facility": "Anwiah CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Princess",
+    "Facility": "Anyaano CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anyinabrim (Wassa Amenfi Central)",
+    "Facility": "Anyinabrim (Wassa Amenfi Central) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Essuoso",
+    "Facility": "Anyinase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Axim-Nsein",
+    "Facility": "Apewosika CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Apimenyim-Banso CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Apinto Government Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Apremdo",
+    "Facility": "Apollo Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Apowa Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Dawurampong",
+    "Facility": "Appiah Nkwanta CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Appiahkrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Apremdo",
+    "Facility": "Apremdo CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Apremdo",
+    "Facility": "Apremdo Market CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Area Seven CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Asamasa CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Asanco SHS CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Asankran Breman Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran-Saa",
+    "Facility": "Asankran Saa Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Asankrangwa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Esiama",
+    "Facility": "Asanta CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Asasetre",
+    "Facility": "Asasetre Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Asectech CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Aserewadi CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Asikuma-(PHV)",
+    "Facility": "Asikuma CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Bawdie",
+    "Facility": "Asikuma CHPS (WAE)",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Asoampa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "Asomase CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Gwira Banso",
+    "Facility": "Asonti CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Assakae CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Mampong (WAE)",
+    "Facility": "Assesensu CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Assorkor CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Bamiankor",
+    "Facility": "Asuawua CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Bawdie",
+    "Facility": "Asundua CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Asuogya Krobo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Attobrakrom",
+    "Facility": "Asuohyiam CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Ateiku Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Atobiase Community Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Attobrakrom",
+    "Facility": "Attobrakrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Aboso (Prestea-Huni Valley)",
+    "Facility": "Atwereboanda (Prestea) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "Atwereboanda CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Awiebo-Basake CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Awonakrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Aworabo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Awudua",
+    "Facility": "Awudua Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Eikwe",
+    "Facility": "Awulae Blay IV CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Axim-Nsein",
+    "Facility": "Axim Government Hospital",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Ayensu CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Ayiem CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Ayiem",
+    "Facility": "Ayiem Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adum Banso",
+    "Facility": "BOPP Ltd Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Iduapriem",
+    "Facility": "Badukrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Bakado CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Bamiankor",
+    "Facility": "Bamiankor Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "Bankyim CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Bawdie",
+    "Facility": "Bawdie CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Beahu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Beenu-yie CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Bena Fie CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Bena Nkwanta CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Benso",
+    "Facility": "Benso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Shama",
+    "Facility": "Bentsir CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Bepoase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Beposo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "Beposo CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "Beppoh CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Berekum CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Dawurampong",
+    "Facility": "Best Way Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Bethany Memorial Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Saa",
+    "Facility": "Bibianiha CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Bisaaso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "Boboobo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Boekrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "Bogoso Government Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "Bogoso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Bokakore CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Manso (Mpohor)",
+    "Facility": "Bomba CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Huni Valley",
+    "Facility": "Bompieso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bondaye",
+    "Facility": "Bondaye CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Dompim",
+    "Facility": "Bonsa CHPS Compound",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Essuoso",
+    "Facility": "Bonsawire CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Bonsie",
+    "Facility": "Bonsie CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "Bonsukrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anyinabrim (Wassa Amenfi Central)",
+    "Facility": "Bonuama Polyclinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Asasetre",
+    "Facility": "Bormoakpoley CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adansi",
+    "Facility": "Botodwina CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Brahabobom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "Brakwaline CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Dawurampong",
+    "Facility": "Brepro CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Brofoyedru (Ateiku) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Himan",
+    "Facility": "Broni- Nkwanta CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Busua CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Butre CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "CAPE 3 POINT CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Chavene CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Chichiso No.1 CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Christina Adcock and Son's Christian Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Congo-Bisco CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Cornerstone Specialist Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Daboase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Daboase Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Daboase Senior High School Infirmary",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Dadieso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Dadwen-Kegyina",
+    "Facility": "Dadwen CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Damang",
+    "Facility": "Damang Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Oppon Valley",
+    "Facility": "Darmang (WAE) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Dawurampong",
+    "Facility": "Dawurampong CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Diabene CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Dikoto Nsuaem CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "Djorboah CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Dokoto Junction CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Domama CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Domeabra (Wassa Amenfi West) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Domeabra (Western) CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Domeabra CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Ayiem",
+    "Facility": "Dominase CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Agona Amenfi",
+    "Facility": "Dominase Nkwanta CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Dompim Community Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Dompim",
+    "Facility": "Dompim Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Dompoase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Dorcas CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "Dunkwa CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anakum",
+    "Facility": "Dwirigum CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Aboadze Abuesi",
+    "Facility": "Dwomo (Shama) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Ebukrom CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adansi",
+    "Facility": "Edaa CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Atobiase",
+    "Facility": "Edwenase CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Newtown",
+    "Facility": "Effasu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Effia",
+    "Facility": "Effia Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Effia Nkwanta",
+    "Facility": "Effia Nkwanta Regional Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Effia",
+    "Facility": "Effiakuma Zongo CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Apremdo",
+    "Facility": "Effman Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "Egbazo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Egyam Catholic Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Princess",
+    "Facility": "Egyambra CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Beyin",
+    "Facility": "Ekabeku Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Bawdie",
+    "Facility": "El-shiva Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "Elubo Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Ennuballe Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Sekyere Krobo",
+    "Facility": "Enyinabrim CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Newtown",
+    "Facility": "Enzemetianu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kojokrom (Sekondi-Takoradi)",
+    "Facility": "Eshiem (sekondi Takoradi) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Esiama",
+    "Facility": "Esiama Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Sekyere Krobo",
+    "Facility": "Essaman (Sekyere Krobo) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Essaman (Shama) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "Essamankakraba CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Essikado Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Essipong Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Essuoso",
+    "Facility": "Essuoso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "Ewereko CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Axim-Nsein",
+    "Facility": "Ewuku CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Ewusiejoe CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Anaji",
+    "Facility": "Faith Alive Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Dadwen-Kegyina",
+    "Facility": "Fantefokrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Fasin CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "Fawoman CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "Fawomanye CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Fordjourkrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Fr. Thomas Rooney Memorial Catholic Hospital, Asankrangua",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Funkoe CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "GAT Medical Center",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "GMC Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "GPHA Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Kwesimintim",
+    "Facility": "Gabusu Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "Ghacem Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "Ghana Nungua CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "God's Miracle Maternity and Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Awudua",
+    "Facility": "Gordon CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Effia",
+    "Facility": "Grace Spring Mission Hospital, Effia",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Gravel Yard CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Grel Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Bawdie",
+    "Facility": "Grumisa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Gwira Banso",
+    "Facility": "Gwira Banso CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Gwira Eshiem",
+    "Facility": "Gwira Eshiem CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Kutukrom",
+    "Facility": "Gyampire CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Gyedua CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Insusiding",
+    "Facility": "Gyimakrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "Half Assini Government Hospital",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Happy Home Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Haruga Care Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "Health Plus (+) Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Henbaab Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Hiawa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "Hill Top Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Himan",
+    "Facility": "Himan Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Holy Child Catholic Hospital, Fijai",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Hotopo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Huni Valley",
+    "Facility": "Huni Valley Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Awudua",
+    "Facility": "Huniano CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Awudua",
+    "Facility": "Huniso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Iduapriem",
+    "Facility": "Iduapriem Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Aboadze Abuesi",
+    "Facility": "Inchaban CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Insusiding",
+    "Facility": "Insusiding CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "International SOS Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Japa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Newtown",
+    "Facility": "Jaway Wharf CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Agona Amenfi",
+    "Facility": "Jedua Kesse CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Kwesimintim",
+    "Facility": "Jemima Crentsil Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Jod Medical Surgical Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Jordan Medical Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Juabo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Juantoa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Jubile Catholic Children Hospital, Apowa",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Jukwa Heman CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adum Banso",
+    "Facility": "K9 Comminity CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Attobrakrom",
+    "Facility": "Kabrekrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "Kamabe Healthcare Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Attobrakrom",
+    "Facility": "Kamaso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Kansaworodo CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Dadwen-Kegyina",
+    "Facility": "Kegyina CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Kejabil CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Beyin",
+    "Facility": "Kengen CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Esiama",
+    "Facility": "Kikam CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anyinabrim (Wassa Amenfi Central)",
+    "Facility": "Kofiekrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kojokrom (Sekondi-Takoradi)",
+    "Facility": "Kojokrom (sekondi Takoradi) CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kojokrom (Sekondi-Takoradi)",
+    "Facility": "Kojokrom Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Kokoase (Wassa Amenfi West) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Kokoase CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kokompe",
+    "Facility": "Kokompe Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Komfieku CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Kremlim Medical Centre (Clinic)",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Huni Valley",
+    "Facility": "Kurantin No. 1 & 2 CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Kutukrom",
+    "Facility": "Kutukrom Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran-Saa",
+    "Facility": "Kwabeng CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Bonsie",
+    "Facility": "Kwaku Boah CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anyinabrim (Wassa Amenfi Central)",
+    "Facility": "Kwaman (Wassa Amenfi Central) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "Kwasikrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Kwesimintim",
+    "Facility": "Kwesimintim Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Kwesimintim",
+    "Facility": "Kwesimintsimfie CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Living Well CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Madamfo Specialist Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Benso",
+    "Facility": "Mahamamo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "Malaika Medical Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Mampong (WAE)",
+    "Facility": "Mampong (WAE) Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adansi",
+    "Facility": "Mampong CHPS (mpohor)",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Manifat Medical Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Dawurampong",
+    "Facility": "Mansiso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Manso Amenfi CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Manso Amenfi Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Manso (Mpohor)",
+    "Facility": "Manso Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Nkroful",
+    "Facility": "Maranatha Family Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "Marfo CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kojokrom (Sekondi-Takoradi)",
+    "Facility": "Mepertemsrew CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Beyin",
+    "Facility": "Methodist Medical Centre, Benyin",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Gwira Eshiem",
+    "Facility": "Methodist Medical Centre, Gwira Eshiem",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "Methodist Medical Centre, Takoradi",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Sekondi",
+    "Facility": "Metro Health Clinic (Sekondi)",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Princess",
+    "Facility": "Miemia CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuaem (Western)",
+    "Facility": "Mile 5 CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Iduapriem",
+    "Facility": "Mile Ten and Half CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Mmofra Nfa Dwen CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Mmrakrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Moseaso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Moseaso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Agona (Ahanta West)",
+    "Facility": "Mpanyinasah CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Mpataba CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Mpohor",
+    "Facility": "Mpohor Polyclinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kokompe",
+    "Facility": "Mrs Akoto Maternity Home",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Mumuni CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "My God is Able Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Kokompe",
+    "Facility": "Nagel Memorial SDA Hospital, Takoradi",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Nana Benie Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Ampain",
+    "Facility": "Nana Ekua Ahuma CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Nana Hima Dekyi Hospital",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "Nananko CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Nansa Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "New Amanful CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "New Ankasah CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "New Atuabo Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Anaji",
+    "Facility": "New Crystal Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "New Kabenlasuazo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "New Somanya CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "New Subri CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "New Takoradi Health Center",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Newtown",
+    "Facility": "New Town Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Nkakaa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Nkamponase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "Nkonya CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Nkroful",
+    "Facility": "Nkroful Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran-Saa",
+    "Facility": "Nkwantanum (Wassa Amenfi West) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Norpalm Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Eikwe",
+    "Facility": "Nralechie CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Nsadweso CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Axim-Nsein",
+    "Facility": "Nsein Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Nananko",
+    "Facility": "Nsuaem (WAE) No 2 CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuaem (Western)",
+    "Facility": "Nsuaem Government Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Ntankorful CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Nuba CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Nvellenu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Dadwen-Kegyina",
+    "Facility": "Nyame Bekyere CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Aiyinase",
+    "Facility": "Nyamebekyere CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Oppon Valley",
+    "Facility": "Nyamebekyere CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Nyamebekyere CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran-Saa",
+    "Facility": "Nyamendae CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuaem (Western)",
+    "Facility": "Nyarso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Nzema Baptist Hospital, Nvellenu",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "OBK CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Oasis Medical Consult",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anakum",
+    "Facility": "Obeng CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Insusiding",
+    "Facility": "Obengkrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Adum Banso",
+    "Facility": "Obrayebona CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Odakotoamso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Odakrofofrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankran Breman",
+    "Facility": "Odumase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Mpohor",
+    "Facility": "Ohiamanwu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Bisaaso",
+    "Facility": "Ohiampeanika CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Ohianhyeda CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "Old Edobo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Dadwen-Kegyina",
+    "Facility": "Onzayeye CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Oppon Valley",
+    "Facility": "Oppon Valley Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Ampain",
+    "Facility": "Osagyefo Memorial Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Ateiku",
+    "Facility": "Osenso CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Tikobo No1",
+    "Facility": "Our Lady Of Fatima Clinic",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Wassa Dunkwa",
+    "Facility": "Pantooso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Dompim",
+    "Facility": "Pataho Block 1 CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Pentecost Hospital, Tarkwa",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Perfect Choice Health Center",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Saa",
+    "Facility": "Pewuako CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Aboso (Prestea-Huni Valley)",
+    "Facility": "Pieso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "Port Health Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "Premier Specialist Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "Premier Specialist Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Presbyterian Clinic, Ohiamatuo",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Prestea CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Prestea Government Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Prestea Nkwanta CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Princess",
+    "Facility": "Princess Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Sekondi",
+    "Facility": "Prisons Service Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Rabboni Christian Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Ranabel Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "Redeemer Hospital ( Brofuyedur)",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "Redeemer Hospital (Akoon)",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "SAB Maternity Home",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Shama",
+    "Facility": "SHASS Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "SOCFINAF PLANTATION Ltd Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "ST. Matts Maternity Home and Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Saa",
+    "Facility": "Saa Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Saamang CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Kwesimintim",
+    "Facility": "Sabo Zongo Chps",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Effia",
+    "Facility": "Safehands Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Kwesimintim",
+    "Facility": "Salam Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Nkroful",
+    "Facility": "Salma Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Awudua",
+    "Facility": "Samahu CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Samartex Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Samenye Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Prestea",
+    "Facility": "Samkwart Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Dixcove",
+    "Facility": "Sankor Yaakow CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "New Aiyinase",
+    "Facility": "Santaso CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Ayiem",
+    "Facility": "Santiw CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Eikwe",
+    "Facility": "Sanzule CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "Sedem Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Sekondi",
+    "Facility": "Sekondi Market CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Sekondi",
+    "Facility": "Sekondi Police Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Sekondi",
+    "Facility": "Sekondi Zongo Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Daboase",
+    "Facility": "Sekyere Hemang CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa East",
+    "Sub-district": "Sekyere Krobo",
+    "Facility": "Sekyere Krobo Community Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Nsuta (Western)",
+    "Facility": "Senyakrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Asikuma-(PHV)",
+    "Facility": "Seventh Day Adventist Clinic, Wassa Nkran",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Shama",
+    "Facility": "Shama Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Shama Kumasi CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Sika Nti CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Tikobo No1",
+    "Facility": "Siloam Gospel Clinic, Bonyere",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Simpa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Simpa",
+    "Facility": "Simpa Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Bonsie",
+    "Facility": "Somprey CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Elubo",
+    "Facility": "Sowodadzim CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Aboadze Abuesi",
+    "Facility": "St Benedict Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Bogoso",
+    "Facility": "St Edward Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "St George Maternity",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "St. Mark Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Eikwe",
+    "Facility": "St. Martin de Porres Catholic Hospital, Eikwe",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "St.George's Medical Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Station CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Essikado",
+    "Facility": "Stratford Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Dawurampong",
+    "Facility": "Suhyenso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Supomu Dunkwa",
+    "Facility": "Supomu Dunkwa Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Anyinabrim (Wassa Amenfi Central)",
+    "Facility": "Sureso CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Sycamore Medical Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "TAMOHEC (Clinic)",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "Tadi High Street Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Half Assini",
+    "Facility": "Takinta CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "Takoradi Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Effia",
+    "Facility": "Takoradi Technical University Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Asasetre",
+    "Facility": "Tandan CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Tanokrom (Samreboi) CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Essuoso",
+    "Facility": "Tarkwa Banso Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Prestea-Huni Valley",
+    "Sub-district": "Tarkwa Bremang",
+    "Facility": "Tarkwa Bremang CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Tarkwa Community Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Tarkwa Municipal Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Tebakrom",
+    "Facility": "Tebakrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Iduapriem",
+    "Facility": "Tebrebe Health Centre",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ellembelle",
+    "Sub-district": "Nkroful",
+    "Facility": "Teleku Bokazo CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Tieku CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Tigarikrom CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Tikobo No1",
+    "Facility": "Tikobo No 1 Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Tikobo No 2 Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Diabene",
+    "Facility": "Top View Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Gravel Yard",
+    "Facility": "Torompan CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Ayiem",
+    "Facility": "Tumentu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Nzema East",
+    "Sub-district": "Gwira Eshiem",
+    "Facility": "Tumentu CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Samaenye",
+    "Facility": "Tweakor No. 2 CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "New Atuabo",
+    "Facility": "Tweneboah Koduah Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Jomoro",
+    "Sub-district": "Beyin",
+    "Facility": "Twenen Health Centre",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Anaji",
+    "Facility": "UQ Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Tarkwa",
+    "Facility": "Umat Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Aboadze Abuesi",
+    "Facility": "Upper Inchaban CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Aboadze Abuesi",
+    "Facility": "VRA Hospital",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Vintage Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Vital Maternity Home",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Afransie",
+    "Facility": "Wantram CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Tarkwa-Nsuaem",
+    "Sub-district": "Dompim",
+    "Facility": "Wassa Agona CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi East",
+    "Sub-district": "Akropong (WAE)",
+    "Facility": "Wassa Akropong Govt Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Manso Amenfi",
+    "Facility": "Wassa Bekwai CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Wassa Dunkwa",
+    "Facility": "Wassa Dunkwa CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Wassa Dunkwa",
+    "Facility": "Wassa Dunkwa Government Hospital",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Asankrangwa",
+    "Facility": "Wesley (Wassa Amenfi West) Clinic",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Sekondi-Takoradi",
+    "Sub-district": "Takoradi",
+    "Facility": "West View Clinic",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Effia",
+    "Facility": "Westside Medical Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Effia-Kwesimintsim",
+    "Sub-district": "Whindo",
+    "Facility": "Whindo Health Centre",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Mpohor",
+    "Sub-district": "Manso (Mpohor)",
+    "Facility": "Wiredukrom CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Samreboi",
+    "Facility": "Woman No Good CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Adjakaa Manso",
+    "Facility": "Wuratrem CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Shama",
+    "Sub-district": "Graveldo",
+    "Facility": "Yabiw CHPS",
+    "Zone": "East Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Ahanta West",
+    "Sub-district": "Apowa",
+    "Facility": "Yabiw CHPS",
+    "Zone": "West Coast"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi West",
+    "Sub-district": "Wassa Dunkwa",
+    "Facility": "Yirase CHPS",
+    "Zone": "Mid Western"
+  },
+  {
+    "Region": "Western",
+    "District": "Wassa Amenfi Central",
+    "Sub-district": "Bonsie",
+    "Facility": "kyeikrom CHPS",
+    "Zone": "Mid Western"
+  }
+]

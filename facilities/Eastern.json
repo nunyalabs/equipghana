@@ -1,0 +1,5714 @@
+[
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Dobro",
+    "Facility": "A&B Community Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Adukrom (Okere)",
+    "Facility": "ABONSE CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abaam",
+    "Facility": "Abaam Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Abamkrom",
+    "Facility": "Abamkrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abenehease",
+    "Facility": "Abehenease CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Sekyere",
+    "Facility": "Abekwase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "Abenabo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Abenase",
+    "Facility": "Abenase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Takyiman",
+    "Facility": "Abenaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Abetifi",
+    "Facility": "Abene CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Wawase (Kwahu West)",
+    "Facility": "Abepotia Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sisiamang",
+    "Facility": "Abesre CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Abiriw",
+    "Facility": "Abiriw Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Boti",
+    "Facility": "Aboa Besease CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nkurakan",
+    "Facility": "Aboabo (yilo Krobo) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Adawso",
+    "Facility": "Aboabo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Amanase",
+    "Facility": "Aboabo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Okumaning",
+    "Facility": "Aboabo CHPS (Denkyembou)",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Aboabo (Birim Central)",
+    "Facility": "Aboabo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akwamufie Apeguso",
+    "Facility": "Aboasa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Nkwateng",
+    "Facility": "Abodom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abaam",
+    "Facility": "Abodom Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Ekye",
+    "Facility": "Abokyere CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Amuana Praso",
+    "Facility": "Abokyikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Abomasarefo",
+    "Facility": "Abomasarefo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Abomosu",
+    "Facility": "Abomosu Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Subi",
+    "Facility": "Abompe CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom North",
+    "Facility": "Abotanso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Abourso",
+    "Facility": "Abourso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Akrofufu",
+    "Facility": "Abrenya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akosombo",
+    "Facility": "Abume CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Mame Krobo",
+    "Facility": "Abundant Life Health Services",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Enyiresi",
+    "Facility": "Accra Village chps",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kuano",
+    "Facility": "Achiansa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Achiase (Achiase)",
+    "Facility": "Achiase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Achiase (Achiase)",
+    "Facility": "Achiase Junction CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Aburi",
+    "Facility": "Adamorobe CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Oyoko (New Juaben North)",
+    "Facility": "Adaniagya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Adankrono CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Enyiresi",
+    "Facility": "Adasawase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Nkwateng",
+    "Facility": "Adausena Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Adawso",
+    "Facility": "Adawso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Adawso",
+    "Facility": "Addo Nkwanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Asirebuso",
+    "Facility": "Addokrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Asafo (Eastern)",
+    "Facility": "Addonkwanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Adeiso",
+    "Facility": "Adeiso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Adeiso",
+    "Facility": "Adeiso PRESEC Sick Bay",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Asesewa",
+    "Facility": "Adensu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Adiembra CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom North",
+    "Facility": "Adiemmbra CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Adjena Gyakiti",
+    "Facility": "Adjena Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Somanya West",
+    "Facility": "Adjikpo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Adoagyiri",
+    "Facility": "Adoagyiri Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Odumkyere Darmang",
+    "Facility": "Adu Kofi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Nkwatia",
+    "Facility": "Aduamoa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Aduasa",
+    "Facility": "Aduasa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Adubiase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Akwasiho",
+    "Facility": "Aduhima CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom Central",
+    "Facility": "Adukrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Asiakwa",
+    "Facility": "Adukrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Adukrom (Okere)",
+    "Facility": "Adukrom Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Akokoaso",
+    "Facility": "Adwafo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Medical VIllage",
+    "Facility": "Adweso Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Adweso",
+    "Facility": "Adweso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Anyinase",
+    "Facility": "Adwobue CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Odumkyere Darmang",
+    "Facility": "Afabeng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Afosu",
+    "Facility": "Afosu Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Aframase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Agavenya",
+    "Facility": "Agavenya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Agormanya",
+    "Facility": "Agbom East CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Amankwa",
+    "Facility": "Agordeke CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom Central",
+    "Facility": "Agortime CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Achiase (Achiase)",
+    "Facility": "Agric CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Agyata",
+    "Facility": "Agrosu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Sempoa",
+    "Facility": "Aguadzekope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw South",
+    "Facility": "Agyakwa Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Asafo (Eastern)",
+    "Facility": "Agyapomaa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Agyata",
+    "Facility": "Agyata CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Berekuso",
+    "Facility": "Agyementi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Ahabaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Sekyere",
+    "Facility": "Ahenkasu Chps",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Ekye",
+    "Facility": "Ahiatroga CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nsutapong",
+    "Facility": "Ahinkwa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Fotobi",
+    "Facility": "Ahodjo Okobeyeye CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Ahomahomasu",
+    "Facility": "Ahomahomaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Aburi",
+    "Facility": "Ahwerease CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Ekorso",
+    "Facility": "Akakom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Dim Sakabo",
+    "Facility": "Akamakope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Akanteng",
+    "Facility": "Akanteng Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Akatawia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Akateng",
+    "Facility": "Akateng Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Akenkausu",
+    "Facility": "Akenkensu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Aketebour CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Takyiman",
+    "Facility": "Akim Kwamang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Aboabo (Birim Central)",
+    "Facility": "Akim State CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Akoase",
+    "Facility": "Akoase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Asesewa",
+    "Facility": "Akohia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Akokoaso",
+    "Facility": "Akokoaso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Akokoma Sisi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Apedwa",
+    "Facility": "Akokoo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Dzamam",
+    "Facility": "Akontaa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akorabo",
+    "Facility": "Akorabo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Ahomahomasu",
+    "Facility": "Akoradako CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Somanya West",
+    "Facility": "Akorley CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Aduasa",
+    "Facility": "Akortekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Akenkausu",
+    "Facility": "Akosombo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akosombo",
+    "Facility": "Akosombo VRA Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akote",
+    "Facility": "Akote CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Akateng",
+    "Facility": "Akotoe CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Marfo",
+    "Facility": "Akotuakrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Boti",
+    "Facility": "Akpamu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Boti",
+    "Facility": "Akpo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Dobro",
+    "Facility": "Akramang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Akrofufu",
+    "Facility": "Akrofufu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Akropong (Atiwa West)",
+    "Facility": "Akropong (atiwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Akropong (Eastern)",
+    "Facility": "Akropong Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Akroso",
+    "Facility": "Akroso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Akateng",
+    "Facility": "Akrusu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Adukrom (Okere)",
+    "Facility": "Akuni CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Akuse",
+    "Facility": "Akuse Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Akuse",
+    "Facility": "Akuse VRA Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "New Jejeti",
+    "Facility": "Akutuase (atiwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "Akwadum CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Akwadum",
+    "Facility": "Akwadum Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Ekorso",
+    "Facility": "Akwaduusu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akwamufie Apeguso",
+    "Facility": "Akwamufie Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Atimpoku",
+    "Facility": "Akwamuman SHS CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Begoro North",
+    "Facility": "Akwanserem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Akwasiho",
+    "Facility": "Akwasiho Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Akwatia",
+    "Facility": "Akwatia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Otwereso",
+    "Facility": "Akyekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "Akyem Isos Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Akokoaso",
+    "Facility": "Akyem Takyiman CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Mame Krobo",
+    "Facility": "Akyemfour CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "Akyeremateng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Amanase",
+    "Facility": "Amanase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "Amanfro Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Amanfrom (Abuakwa South)",
+    "Facility": "Amanfrom (East Akim) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Sempoa",
+    "Facility": "Amanfrom Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Kwahu Tafo",
+    "Facility": "Amanfrom Urban CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "Amanhyia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Amankwa",
+    "Facility": "Amankwa Tornu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Amanfrom",
+    "Facility": "Amartey CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Osino",
+    "Facility": "Ame Zion Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Afosu",
+    "Facility": "Amenam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Pabi",
+    "Facility": "Ammarko CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Abourso",
+    "Facility": "Amotare CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw South",
+    "Facility": "Ampekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Teacher Mante",
+    "Facility": "Amponsahene CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Amuana Praso",
+    "Facility": "Amuana Praso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Anamase",
+    "Facility": "Anamase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Memchemfre",
+    "Facility": "Anidzi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Ankaase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Ankoma",
+    "Facility": "Ankoma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pakro",
+    "Facility": "Ankwensu/Tabankro CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Osenase",
+    "Facility": "Anoma Kojo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Ansec Sch Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Anum Apapam",
+    "Facility": "Anum Apapam Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Amanfrom (West Akim)",
+    "Facility": "Anum CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Sabong Zongo",
+    "Facility": "Anum-Asaman Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Tafo",
+    "Facility": "Anweabeng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Otumi",
+    "Facility": "Anweam (Kbr) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Anyaboni Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Anyaboni Old Town CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akwamufie Apeguso",
+    "Facility": "Anyansu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Osoroase",
+    "Facility": "Anyinam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Anyinam Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Anyinase",
+    "Facility": "Anyinase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Tafo",
+    "Facility": "Anyinasin CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Kibi",
+    "Facility": "Apapam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Asuboi",
+    "Facility": "Apau-wawase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Akroso",
+    "Facility": "Apeadam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Apedwa",
+    "Facility": "Apedwa Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akwamufie Apeguso",
+    "Facility": "Apeguso Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Aperade",
+    "Facility": "Aperade Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Aperade",
+    "Facility": "Aperade Railway Station CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Apimsu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Apinamang",
+    "Facility": "Apinamang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Badukrom",
+    "Facility": "Apinto CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Adukrom (Okere)",
+    "Facility": "Apirede CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Apoli",
+    "Facility": "Apoli Beposo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Apoli",
+    "Facility": "Apoli Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Sra",
+    "Facility": "Aponoapono CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Apradang",
+    "Facility": "Apradang Heath Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Okumaning",
+    "Facility": "Apraku CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Otwereso",
+    "Facility": "Asabidie CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Asafo (Eastern)",
+    "Facility": "Asafo (east Akim) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Asakraka (Kwahu South)",
+    "Facility": "Asakraka Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Oyoko (New Juaben North)",
+    "Facility": "Asaman CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Asamang Tamfoe CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Blue Diamond",
+    "Facility": "Asamankese Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Asamankese",
+    "Facility": "Asamankese Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Ekorso",
+    "Facility": "Asamanma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asuboa",
+    "Facility": "Asanteman CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Asanyansu",
+    "Facility": "Asanyanso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Kukua",
+    "Facility": "Asarekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Asirebuso",
+    "Facility": "Asarekwao CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Forifori",
+    "Facility": "Asaseboma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Asesewa",
+    "Facility": "Asasehene CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Asawase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Ehiamankyene (Fanteakwa South)",
+    "Facility": "Asedja/Dorse CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asene",
+    "Facility": "Asene Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "Asenema CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Adukrom (Okere)",
+    "Facility": "Aseseeso Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Asesewa",
+    "Facility": "Asesewa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Asesewa",
+    "Facility": "Asesewa Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Obotwere",
+    "Facility": "Asheresu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Asiakwa",
+    "Facility": "Asiakwa Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Eshiem",
+    "Facility": "Asibirim CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Kibi",
+    "Facility": "Asikam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Asikasu (Upper West Akim)",
+    "Facility": "Asikasu (Upper West Akim) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Jumapo",
+    "Facility": "Asikasu (new Juabeng) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom Central",
+    "Facility": "Asikasu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Asikuma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Asirebuso",
+    "Facility": "Asirebuso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Asitey",
+    "Facility": "Asitey Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Asokore (New Juaben North)",
+    "Facility": "Asokore CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Asokore (New Juaben North)",
+    "Facility": "Asokore Fofie CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Asokore (New Juaben North)",
+    "Facility": "Asokore Kuma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Asokore (New Juaben North)",
+    "Facility": "Asokore-abrodua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Danteng",
+    "Facility": "Asona CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Adeiso",
+    "Facility": "Asuaba CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Aburi",
+    "Facility": "Asuafum Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asuboa",
+    "Facility": "Asuboa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ofoase (Eastern)",
+    "Facility": "Asuboa North CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Asuboi",
+    "Facility": "Asuboi Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Nkyenenkyene",
+    "Facility": "Asubone CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Asuboni",
+    "Facility": "Asuboni Rails Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Abomosu",
+    "Facility": "Asunafo (atiwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Akanteng",
+    "Facility": "Asuofori CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Asuom",
+    "Facility": "Asuom Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asuoso",
+    "Facility": "Asuoso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Asikasu (Upper West Akim)",
+    "Facility": "Asuotwene CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom South",
+    "Facility": "Atakora CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Jejeti",
+    "Facility": "Atawase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Adweso",
+    "Facility": "Atekyem hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Attiankama Nkwanta",
+    "Facility": "Atiankama CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Mpraeso",
+    "Facility": "Atibie CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Asuboni",
+    "Facility": "Atibie Nkwanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Odumkyere Darmang",
+    "Facility": "Atimatim CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Atimpoku",
+    "Facility": "Atimpoku Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom Central",
+    "Facility": "Atiwulame CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abenehease",
+    "Facility": "Atobriso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Akenkausu",
+    "Facility": "Atomo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Odumase (Eastern)",
+    "Facility": "Atua Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Atuntunbrem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Praso",
+    "Facility": "Atuobikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Dwarf Island",
+    "Facility": "Avoukope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Osenase",
+    "Facility": "Awaham CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "GCD",
+    "Facility": "Aweanso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Danteng",
+    "Facility": "Awenade CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Awenare",
+    "Facility": "Awenare Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Aweregya",
+    "Facility": "Aweregya Heath Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Awisa Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Aworasa",
+    "Facility": "Aworasa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "New Jejeti",
+    "Facility": "Aworensua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Sekyere",
+    "Facility": "Awosoase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Abiriw",
+    "Facility": "Awukugua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Akwatia",
+    "Facility": "Ayawaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Amanase",
+    "Facility": "Ayekokooso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Ayekotse",
+    "Facility": "Ayekotse Zogo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Ayirebi Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "BAWARE CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Badukrom",
+    "Facility": "Badukrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Boadua",
+    "Facility": "Bamanase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Awenare",
+    "Facility": "Banso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Eshiem",
+    "Facility": "Bantama CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asene",
+    "Facility": "Batabi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Asesewa",
+    "Facility": "Battor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Cedikope Island",
+    "Facility": "Battorkope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Bebuso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Begoro South",
+    "Facility": "Begoro Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Begoro North",
+    "Facility": "Begoro Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mangoase",
+    "Facility": "Behenase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Ehiamankyene (Fanteakwa South)",
+    "Facility": "Bepoase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Coaltar",
+    "Facility": "Bepoase Coaltar CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Bepong",
+    "Facility": "Bepong Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Berekuso",
+    "Facility": "Berekuso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Praso",
+    "Facility": "Besease CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Agogo (Eastern)",
+    "Facility": "Bethel (yilo Krobo) Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Anamase",
+    "Facility": "Bieni CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Bisa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Blue Diamond",
+    "Facility": "Blue Diamond CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Dobro",
+    "Facility": "Blue Skies Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Boadua",
+    "Facility": "Boadua East CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Boadua",
+    "Facility": "Boadua Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Kwabeng",
+    "Facility": "Bomaa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Aperade",
+    "Facility": "Bomoden CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Maase",
+    "Facility": "Bomponso No. 2 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Asuom",
+    "Facility": "Bomso (Kbr) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Kotoso",
+    "Facility": "Bonkrase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Kwasi Fante",
+    "Facility": "Bonkrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ofoase (Eastern)",
+    "Facility": "Bontodiase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Bormase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Boso Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Akokoaso",
+    "Facility": "Boso Villa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Bosuso",
+    "Facility": "Bosuso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Boti",
+    "Facility": "Boti Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Akoase",
+    "Facility": "Bramkrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Brekumanso",
+    "Facility": "Brekumanso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Nyanoa",
+    "Facility": "Breman CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Brenase",
+    "Facility": "Brenase Polyclinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Nankese",
+    "Facility": "Brong Densuso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Bruben",
+    "Facility": "Bruben CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Kwahu Tafo",
+    "Facility": "Bukruwa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Bukunor",
+    "Facility": "Bukunor Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Ekye",
+    "Facility": "Bumpata CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Bunso",
+    "Facility": "Bunso (East Akim) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Amanfrom (West Akim)",
+    "Facility": "Bunsu (west Akim) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Fotobi",
+    "Facility": "Cannary Quarters CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Koforidua 1",
+    "Facility": "Cato clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Cedikope Island",
+    "Facility": "Cedikope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mampong (Akwapim)",
+    "Facility": "Centre For Scientific Research Into Plant Medicine",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Chaa Elim Medical Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Brenase",
+    "Facility": "Chia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Dobro",
+    "Facility": "Chinto CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "Chocho Medical Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Bepong",
+    "Facility": "Christian Quarters CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Coaltar",
+    "Facility": "Coaltar Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Akroso",
+    "Facility": "Cocoa Life CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Berekuso",
+    "Facility": "Comet CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Old Estate",
+    "Facility": "Cosmos/Damien Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Couppon CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom South",
+    "Facility": "DASHS CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Okurase",
+    "Facility": "Danso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Danteng",
+    "Facility": "Danteng Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Panpanso",
+    "Facility": "Darmang Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Nankese",
+    "Facility": "Dawa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Dawa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Dedeso",
+    "Facility": "Dedeso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Obotwere",
+    "Facility": "Dego CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Densuano",
+    "Facility": "Densuano Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Destiny Amegbey Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Digya Island",
+    "Facility": "Digya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Dim Sakabo",
+    "Facility": "Dim Sikabo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda New Town",
+    "Facility": "Divine Victory Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Djankrom",
+    "Facility": "Djankrom Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Oborpa",
+    "Facility": "Djekiti CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Dobro",
+    "Facility": "Dobro Elshadai CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "Doctors Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Dodi Asantekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Dorkrochiwa",
+    "Facility": "Dokrokyiwa Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Asanyansu",
+    "Facility": "Dome CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kuano",
+    "Facility": "Dome CHPS(Ayen)",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Abourso",
+    "Facility": "Dominase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Takyiman",
+    "Facility": "Dompim CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom Central",
+    "Facility": "Donkorkrom Central CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Forifori",
+    "Facility": "Dotorpong Sikasu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Adweso",
+    "Facility": "Dr. Asomani Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Aperade",
+    "Facility": "Duakon CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Mame Krobo",
+    "Facility": "Dunkro CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Dorkrochiwa",
+    "Facility": "Duodukrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Dwenase",
+    "Facility": "Dwenase (fanteakwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Apinamang",
+    "Facility": "Dwenease Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Hweehwee",
+    "Facility": "Dwerebease CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Dzamam",
+    "Facility": "Dzamam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Atimpoku",
+    "Facility": "Dzidzorkope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Koforidua 2",
+    "Facility": "Eastern Regional Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Cedikope Island",
+    "Facility": "Edavorkope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Akwadum",
+    "Facility": "Eddiemensah CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Effiduase (Eastern)",
+    "Facility": "Effiduase Oguaa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Ehiamankyene (Fanteakwa South)",
+    "Facility": "Ehiamankyene (fanteakwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Kadewaso",
+    "Facility": "Ehiawoanwu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Asuboni",
+    "Facility": "Ekawso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Ekorso",
+    "Facility": "Ekoso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Ekoso Quashie",
+    "Facility": "Ekoso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Ekye",
+    "Facility": "Ekye Central CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Enyiresi",
+    "Facility": "Enyiresi Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Apradang",
+    "Facility": "Esaase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw Amanfrom",
+    "Facility": "Esadao Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Eshiem",
+    "Facility": "Eshiem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Aboabo (Birim Central)",
+    "Facility": "Essam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Abamkrom",
+    "Facility": "Essaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Esuom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Osiem",
+    "Facility": "Ettukrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Faaso Battor",
+    "Facility": "Faaso Battor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Fatem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sisiamang",
+    "Facility": "Fefe CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Aweregya",
+    "Facility": "Fodoa Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Forifori",
+    "Facility": "Forifori Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Forifori",
+    "Facility": "Fosu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Aduasa",
+    "Facility": "Fosukrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Fotobi",
+    "Facility": "Fotobi Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akwamufie Apeguso",
+    "Facility": "Frankadua Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Enyiresi",
+    "Facility": "Frimpongso chps",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "GCD",
+    "Facility": "GCD Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Agyata",
+    "Facility": "Gadorkope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Dwarf Island",
+    "Facility": "Galelia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mangoase",
+    "Facility": "Gboloo Kofi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Glosam Hospital and Fertility Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Ayekotse",
+    "Facility": "Gojiase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Teacher Mante",
+    "Facility": "Govinakrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Fotobi",
+    "Facility": "Gracevillie Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda Nkwanta",
+    "Facility": "Gyadam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Abenase",
+    "Facility": "Gyaha Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Asokore (New Juaben North)",
+    "Facility": "Gyamfikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Gyewani Nkwanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Osiem",
+    "Facility": "Hawa Mem. Saviour Hospital, Akim-Osiem",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Pabi",
+    "Facility": "Health For All Herbal Clininc",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Healthline Medical Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Dwenase",
+    "Facility": "Hemang (fanteakwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda New Town",
+    "Facility": "Herald Foundation CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Ekye",
+    "Facility": "Hlihadzi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw Central",
+    "Facility": "Holy Family Catholic Hospital(District Hosp), Nkawkaw",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ofoase (Eastern)",
+    "Facility": "Holy Horniel Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Amankwa",
+    "Facility": "Holy Rosary Catholic Health Centre, Amankwakrom",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Kwasi Fante",
+    "Facility": "Holy Spirit Polyclinic, Kwesi Fante",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nkurakan",
+    "Facility": "Huhunya Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Asanyansu",
+    "Facility": "Hwanyanso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Pepease",
+    "Facility": "Hyewohoden CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "I & I clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Jamaica",
+    "Facility": "Jamaica CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Aburi",
+    "Facility": "Jamaicaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Aweregya",
+    "Facility": "Jamasi No 1 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Aweregya",
+    "Facility": "Jamasi No 2 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Otumi",
+    "Facility": "James Town (Kbr) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akorabo",
+    "Facility": "Jato CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Jamaica",
+    "Facility": "Jubilee Hospital (BIC)",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Jumapo",
+    "Facility": "Jumapo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Kpong",
+    "Facility": "K Wawase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Kade Daakye CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Kade Govt Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Kade Guggisburg CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Kade Stadium CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Kade Zongo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Kadewaso",
+    "Facility": "Kadewaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Ntonaboma",
+    "Facility": "Kasanoma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom Central",
+    "Facility": "Kayera CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw North",
+    "Facility": "Kenop Care Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Osino",
+    "Facility": "Kia Green Light Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Kibi",
+    "Facility": "Kibi Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Kibi",
+    "Facility": "Kibi New Town CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Berekuso",
+    "Facility": "Kitase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Agogo (Eastern)",
+    "Facility": "Klo-Agogo (yilo Krobo) Polyclinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom North",
+    "Facility": "Kodidi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Danteng",
+    "Facility": "Kofi Dede CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Kofi Nimo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kofi Pare",
+    "Facility": "Kofi Pare Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Panpanso",
+    "Facility": "Kofisah CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Old Estate",
+    "Facility": "Koforidua Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Koforidua 1",
+    "Facility": "Koforidua Poly Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Adweso",
+    "Facility": "Koforidua Poly School Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Anamase",
+    "Facility": "Kokobeng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Dwarf Island",
+    "Facility": "Kokrobuta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Digya Island",
+    "Facility": "Kolikope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Tinkong",
+    "Facility": "Konko CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sisiamang",
+    "Facility": "Konkoney CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Berekuso",
+    "Facility": "Konkonuru Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Kukua",
+    "Facility": "Koransang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Koranteng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Koranteng Krachi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sisiamang",
+    "Facility": "Korwhere CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Brenase",
+    "Facility": "Kotokuom (akyemansa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Kotoso",
+    "Facility": "Kotoso RH Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Tsetsekpo",
+    "Facility": "Kpala CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Dwarf Island",
+    "Facility": "Kpatalidza CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Digya Island",
+    "Facility": "Kpekudzi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Bosuso",
+    "Facility": "Kplandey CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Kpong",
+    "Facility": "Kpong Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Kpong",
+    "Facility": "Kpong West CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Agormanya",
+    "Facility": "Kpongunor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Marfo",
+    "Facility": "Krabokese CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Nyanoa",
+    "Facility": "Krodua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akorabo",
+    "Facility": "Kromameng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kuano",
+    "Facility": "Kuano CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Kade",
+    "Facility": "Kubease Mega CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Adjena Gyakiti",
+    "Facility": "Kudi Kope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Kukua",
+    "Facility": "Kukua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Kukurantumi",
+    "Facility": "Kukurantumi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Medical VIllage",
+    "Facility": "Kumah Medical Centre LTD",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Nkwateng",
+    "Facility": "Kuntunase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Takrowase",
+    "Facility": "Kusi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Kwabeng",
+    "Facility": "Kwabeng (atiwa) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Otwereso",
+    "Facility": "Kwaboadi NO. 1 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Otwereso",
+    "Facility": "Kwaboadi No 2 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kofi Pare",
+    "Facility": "Kwaboanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Asuboni",
+    "Facility": "Kwadwo Nkansah CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Anum Apapam",
+    "Facility": "Kwadwohum/Abeho CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Otumi",
+    "Facility": "Kwae CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom South",
+    "Facility": "Kwaekese CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Amanfrom",
+    "Facility": "Kwahu Amanfrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Aweregya",
+    "Facility": "Kwahu Daa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Mpraeso",
+    "Facility": "Kwahu Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Jejeti",
+    "Facility": "Kwahu Jejeti Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Oframase",
+    "Facility": "Kwahu Nsaba CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akorabo",
+    "Facility": "Kwahyia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Kwakyekrom",
+    "Facility": "Kwakyekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Forifori",
+    "Facility": "Kwame Dwamena CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Adawso",
+    "Facility": "Kwamoso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akorabo",
+    "Facility": "Kwao Nartey CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Kwasi Addae CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Amanfrom (Abuakwa South)",
+    "Facility": "Kwasikomfo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Kwakyekrom",
+    "Facility": "Kwasikrom Kwame Boafo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Kwesi Kumah CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Adeiso",
+    "Facility": "Kwesi Nyarko CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Akoase",
+    "Facility": "Kyenkyenku CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Eshiem",
+    "Facility": "Kyeremase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nkurakan",
+    "Facility": "Labolabo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abenehease",
+    "Facility": "Larbikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Akropong (Atiwa West)",
+    "Facility": "Larbikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Larteh",
+    "Facility": "Larteh Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Cedikope Island",
+    "Facility": "LiverKope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Odumase (Eastern)",
+    "Facility": "Lydia Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Kwabeng",
+    "Facility": "Ma Jane's Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Mame Krobo",
+    "Facility": "Maame Krobo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Maase",
+    "Facility": "Maase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Bruben",
+    "Facility": "Madagasca CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Abomasarefo",
+    "Facility": "Mafikope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Zongo",
+    "Facility": "Magazine (new Juabeng) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "Mamanso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Mampong Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mampong (Akwapim)",
+    "Facility": "Mampong Urban CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Digya Island",
+    "Facility": "Manchare CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mangoase",
+    "Facility": "Mangoase (AKN) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Atimpoku",
+    "Facility": "Mangoase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Asuboi",
+    "Facility": "Mankrong CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Manso (Eastern)",
+    "Facility": "Manso Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Eshiem",
+    "Facility": "Mante CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Marfo",
+    "Facility": "Marfo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw Central",
+    "Facility": "Market Square Medical Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Ntonaboma",
+    "Facility": "Mataheko CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda New Town",
+    "Facility": "Mawuli / Quarters CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Medical VIllage",
+    "Facility": "Medical Village Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mampong (Akwapim)",
+    "Facility": "Medicas Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Teacher Mante",
+    "Facility": "Mega Jesus Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Memchemfre",
+    "Facility": "Memchenfre Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Dwarf Island",
+    "Facility": "Menekope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Mensah Dawa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Obotwere",
+    "Facility": "Mentukwa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Mepom",
+    "Facility": "Mepom Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Praso",
+    "Facility": "Methodist Medical Centre - Osubeng",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Hweehwee",
+    "Facility": "Methodist Medical Centre, Hweehwee",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Praso",
+    "Facility": "Mframa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kuano",
+    "Facility": "Mfranta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Ankoma",
+    "Facility": "Miaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Mmradan CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asuboa",
+    "Facility": "Mofram CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Jejeti",
+    "Facility": "Monsie CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Moseaso(atiwa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Akwasiho",
+    "Facility": "Mota CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Jumapo",
+    "Facility": "Mpaem chps",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Afosu",
+    "Facility": "Mpintimpi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Mpraeso",
+    "Facility": "Mpraeso General Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Abenase",
+    "Facility": "Mukyia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Akrofufu",
+    "Facility": "Muoso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akosombo",
+    "Facility": "Naabs Memorial Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "Nanabanin CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Enyiresi",
+    "Facility": "Nanapa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Nankese",
+    "Facility": "Nankese Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "New Abirem Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Senchi",
+    "Facility": "New Akrade CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akosombo",
+    "Facility": "New Combine CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "New Dodi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "New Jejeti",
+    "Facility": "New Jejeti Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Effiduase (Eastern)",
+    "Facility": "New Juabeng Effiduase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Adweso",
+    "Facility": "New Juabeng Police Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Atimpoku",
+    "Facility": "New Powmu Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Senchi",
+    "Facility": "New Senchi Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw North",
+    "Facility": "New Shepherd Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Tafo",
+    "Facility": "New Tafo Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Old Estate",
+    "Facility": "Newlands Medical Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Apoli",
+    "Facility": "Ningo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Nkankama",
+    "Facility": "Nkankama CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Jejeti",
+    "Facility": "Nkawanda No 1 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Oframase",
+    "Facility": "Nkawanda No 2 Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw Amanfrom",
+    "Facility": "Nkawkaw Amanfrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw South",
+    "Facility": "Nkawkaw Domeabra CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw North",
+    "Facility": "Nkawkaw Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Amanfrom",
+    "Facility": "Nketepa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pokrom",
+    "Facility": "Nkumkrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nkurakan",
+    "Facility": "Nkurakan Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Subi",
+    "Facility": "Nkwantanang (Kbr) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Pepease",
+    "Facility": "Nkwantanang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Nkwateng",
+    "Facility": "Nkwateng Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Nkwatia",
+    "Facility": "Nkwatia Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Kwakyekrom",
+    "Facility": "Nkyenekyene Amanfro CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Nkyenenkyene",
+    "Facility": "Nkyenenkyene Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "GCD",
+    "Facility": "No. 4 CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Tafo",
+    "Facility": "Nobi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Adoagyiri",
+    "Facility": "Notre Dame Catholic Clinic, Adoagyiri Nsawam",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Tweapease (Eastern)",
+    "Facility": "Noyem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pokrom",
+    "Facility": "Nsakye CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Nsawam",
+    "Facility": "Nsawam Government Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Nsawam",
+    "Facility": "Nsawam Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Achiase (Achiase)",
+    "Facility": "Nsuansa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Asanyansu",
+    "Facility": "Nsuogyaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa South",
+    "Sub-district": "Osino",
+    "Facility": "Nsutam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nsutapong",
+    "Facility": "Nsutapong Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Kwahu Tafo",
+    "Facility": "Nteso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Bepong",
+    "Facility": "Ntomem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Ntonaboma",
+    "Facility": "Ntonaboma Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Coaltar",
+    "Facility": "Ntowkrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Obretema",
+    "Facility": "Ntunkum CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Kpong",
+    "Facility": "Nuaso CHPS (Anglesi)",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Tweapease (Eastern)",
+    "Facility": "Nwinso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Nkawkaw Amanfrom",
+    "Facility": "Nya Akoma Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Tweapease (Eastern)",
+    "Facility": "Nyafoman CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asuoso",
+    "Facility": "Nyame Nti CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Nyamebekyere (akyemansa) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Densuano",
+    "Facility": "Nyamekrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Aperade",
+    "Facility": "Nyankomase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Dzamam",
+    "Facility": "Nyankomase CHPS UMK",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Dwarf Island",
+    "Facility": "Nyankuikope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Nyanoa",
+    "Facility": "Nyanua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Tinkong",
+    "Facility": "OSABENE CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Agogo (Eastern)",
+    "Facility": "Obawale Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Bukunor",
+    "Facility": "Obenyemi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Mpraeso",
+    "Facility": "Obo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pokrom",
+    "Facility": "Oboadaka CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pokrom",
+    "Facility": "Obodan CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Tafo",
+    "Facility": "Obodanse CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Mpraeso",
+    "Facility": "Obomeng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Akote",
+    "Facility": "Obomofodensua CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Begoro North",
+    "Facility": "Obooho CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Oborpa",
+    "Facility": "Oborpa Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mampong (Akwapim)",
+    "Facility": "Obosomase Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pakro",
+    "Facility": "Obossono CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Obotwere",
+    "Facility": "Obotwere Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Supresu",
+    "Facility": "Obourtumpan CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Obretema",
+    "Facility": "Obretema CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Anum Apapam",
+    "Facility": "Obuoho CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda New Town",
+    "Facility": "Oda CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Jamaica",
+    "Facility": "Oda Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda Nkwanta",
+    "Facility": "Oda Nkwanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Old Town",
+    "Facility": "Oda Old Town Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Odichinase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Aworasa",
+    "Facility": "Odjarde CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Odumase (Eastern)",
+    "Facility": "Odumase (LMKM) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ayirebi",
+    "Facility": "Odumase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Amanfrom (Abuakwa South)",
+    "Facility": "Odumase CHPS(East Akim)",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Odumkyere Darmang",
+    "Facility": "Odumkyere Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ofoase (Eastern)",
+    "Facility": "Ofoase Urban CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Aduasa",
+    "Facility": "Oforikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Oframase",
+    "Facility": "Oframase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Adoagyiri",
+    "Facility": "Ohemeng Memorial Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Asuboni",
+    "Facility": "Ohene Akura CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "Okaikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Sra",
+    "Facility": "Okanta CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Ayekotse",
+    "Facility": "Okorase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Tinkong",
+    "Facility": "Okorase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "Okrakwadjo Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Okumaning",
+    "Facility": "Okumaning CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Okurase",
+    "Facility": "Okurase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Akuse",
+    "Facility": "Okwenya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abaam",
+    "Facility": "Okyinso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "New Abirem",
+    "Facility": "Old Abirem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Senchi",
+    "Facility": "Old Akrade CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Old Estate",
+    "Facility": "Old Estate CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Abenehease",
+    "Facility": "Old Ntronang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Tafo",
+    "Facility": "Old Tafo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Obretema",
+    "Facility": "Omenako CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Hweehwee",
+    "Facility": "Onyemso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Boti",
+    "Facility": "Opersika Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Adoagyiri",
+    "Facility": "Orthopedic Training Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Osenase",
+    "Facility": "Osenase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akwamufie Apeguso",
+    "Facility": "Osiabura CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Osiem",
+    "Facility": "Osiem CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Osonson CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Osoroase",
+    "Facility": "Osoroase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Sekyere",
+    "Facility": "Osoroase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Eshiem",
+    "Facility": "Otaipro CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Bukunor",
+    "Facility": "Oterkpolu Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Marfo",
+    "Facility": "Otoase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Otrokper Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Ahomahomasu",
+    "Facility": "Otuater CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Kwakyekrom",
+    "Facility": "Otukwadjo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Otumi",
+    "Facility": "Otumi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Otwereso",
+    "Facility": "Otwereso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Adawso",
+    "Facility": "Otwetire CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Pabi",
+    "Facility": "Oworam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Ankoma",
+    "Facility": "Oworobong CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Asuokaw",
+    "Facility": "Owurakessim CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Oyoko (New Juaben North)",
+    "Facility": "Oyoko (New Juabeng) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Oyoko (New Juaben North)",
+    "Facility": "Oyoko Zongo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Pabi",
+    "Facility": "Pabi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pakro",
+    "Facility": "Pakro Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pakro",
+    "Facility": "Pakro Zongo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Akoase",
+    "Facility": "Pankese CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Ahomahomasu",
+    "Facility": "Papramanteng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Zongo",
+    "Facility": "Patbrenda Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Awenare",
+    "Facility": "Pemeng CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Pepease",
+    "Facility": "Pepease Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Asokore (New Juaben North)",
+    "Facility": "Pipeline CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pokrom",
+    "Facility": "Pokrom Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nkurakan",
+    "Facility": "Ponponya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Amanfrom (Abuakwa South)",
+    "Facility": "Potrase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Pramkese",
+    "Facility": "Pramkese Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Tease",
+    "Facility": "Praprabebida CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Afosu",
+    "Facility": "Praso Kuma CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Prekumase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Praso",
+    "Facility": "Presbyterian Health Centre,  Kwahu Praso",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Abetifi",
+    "Facility": "Presbyterian Health Centre, Abetifi",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Ekye",
+    "Facility": "Presbyterian Health Centre, Ekye",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Aburi",
+    "Facility": "Presbyterian Health Centre, Kom- Aburi",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Panpanso",
+    "Facility": "Presbyterian Health Centre, Obregyima-Nsawam",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Donkorkrom North",
+    "Facility": "Presbyterian Hospital, Donkorkrom",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Tease",
+    "Facility": "Presbyterian Primary Health Centre, Tease",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Effiduase (Eastern)",
+    "Facility": "Prisons Community Health Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Nsawam",
+    "Facility": "Prisons Hospital-Nsawam",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Medical VIllage",
+    "Facility": "Providence Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Ayekotse",
+    "Facility": "Providence Medical Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "REV. BIDI-S Memorial Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Railway CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "Round About CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Aboabo (Birim Central)",
+    "Facility": "SALEM CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Sabong Zongo",
+    "Facility": "Sabon Zongo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Akwatia",
+    "Facility": "Sadams CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa South",
+    "Sub-district": "Asiakwa",
+    "Facility": "Sagyemase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Topremang",
+    "Facility": "Sakyikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Adoagyiri",
+    "Facility": "Sakyikrom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Salvation Army CHPS, Asikuma ",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Anum Boso",
+    "Facility": "Salvation Army Clinic, Anum",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Fanteakwa North",
+    "Sub-district": "Begoro South",
+    "Facility": "Salvation Army Clinic, Begoro",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Takrowase",
+    "Facility": "Salvation Army Health Centre, Akim-Wenchi",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Samanhyia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Nsutapong",
+    "Facility": "Samilesi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Otrokper",
+    "Facility": "Samlesi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Abomosu",
+    "Facility": "Sankubenase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Adjena Gyakiti",
+    "Facility": "Sappor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Adeiso",
+    "Facility": "Saviour Health Care Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Anyaboni",
+    "Facility": "Sawa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Adjena Gyakiti",
+    "Facility": "Sedorm CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Sekesua Dzamam CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Sekesua Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Sempoa",
+    "Facility": "Sempoa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Senchi",
+    "Facility": "Senchi Ferry Asuogyaman",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Old Estate",
+    "Facility": "Seventh Day Adventist Hospital, Koforidua",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Kpong",
+    "Facility": "Silver Bell Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sisiamang",
+    "Facility": "Sisiamang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Akateng",
+    "Facility": "Sisiamang Sisi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Takrowase",
+    "Facility": "Soabe CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Kukurantumi",
+    "Facility": "Sokode Juaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Takyiman",
+    "Facility": "Solomon's Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Somanya West",
+    "Facility": "Somanya Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Somanya East",
+    "Facility": "Somanya Polyclinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Samanhyia",
+    "Facility": "Somsei CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Senchi",
+    "Facility": "South Senchi Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Kuano",
+    "Facility": "Sowatey CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Sra",
+    "Facility": "Sra Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Asamankese",
+    "Facility": "St Luke (west Akim) Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Ankoma",
+    "Facility": "St Michaels (kwahu East) Maternity Home",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Blue Diamond",
+    "Facility": "St Patrick Solo (west Akim) Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Asuoso",
+    "Facility": "St Theresa Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Akwatia",
+    "Facility": "St. Dominic Catholic Hospital, Akwatia",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Ofoase (Eastern)",
+    "Facility": "St. John Catholic Polyclinic, Akim Ofoase",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Effiduase (Eastern)",
+    "Facility": "St. Joseph Catholic Hospital, Koforidua",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Kwahu Tafo",
+    "Facility": "St. Joseph’s Catholic Clinic, Kwahu Tafo",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Agormanya",
+    "Facility": "St. Martin de Porres Catholic Hospital, Agomenya",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Nkwateng",
+    "Facility": "St. Michael’s Catholic Clinic, Akim Ntronang",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Sekyere",
+    "Facility": "St. Monica’s Catholic Clinic & Maternity, Akim Sekyere",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Okurase",
+    "Facility": "St. Paul Roland Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Effiduase (Eastern)",
+    "Facility": "Standard Specialist Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Subi",
+    "Facility": "Subi Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Ayekotse",
+    "Facility": "Suhum District Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "Suhum Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Suhum",
+    "Facility": "Suhum Urban CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben North",
+    "Sub-district": "Jumapo",
+    "Facility": "Suhyen CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Mepom",
+    "Facility": "Sukrong Awamfi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Kwahu Praso",
+    "Facility": "Sukwa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Akwasiho",
+    "Facility": "Suminakese CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Abomasarefo",
+    "Facility": "Supom CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Attiankama Nkwanta",
+    "Facility": "Suponso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Suhum",
+    "Sub-district": "Supresu",
+    "Facility": "Supresu Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Adjena Gyakiti",
+    "Facility": "Surveyline CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Sutapong CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Swedru Catholic Clinic,Akim Swedru",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim Central",
+    "Sub-district": "Oda New Town",
+    "Facility": "THE COMMUNITY HOSPITAL",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Badukrom",
+    "Facility": "Tabita CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Adawso",
+    "Facility": "Tadankro CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Agyata",
+    "Facility": "Takoratwene CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Takrowase",
+    "Facility": "Takrowase Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Aperade",
+    "Facility": "Takyi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Takyiman",
+    "Facility": "Takyiman Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Teacher Mante",
+    "Facility": "Teacher Mante CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Tease",
+    "Facility": "Tease Central CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Sekesua",
+    "Facility": "Terguanya CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Osoroase",
+    "Facility": "Teshieman CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mampong (Akwapim)",
+    "Facility": "Tetteh Quarshie Memorial Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu East",
+    "Sub-district": "Hweehwee",
+    "Facility": "The Life Care Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Kadewaso",
+    "Facility": "Tiawia CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Kadewaso",
+    "Facility": "Tiawia Subrisu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Akateng",
+    "Facility": "Timersu Sis CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Tinkong",
+    "Facility": "Tinkong CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper Manya-Krobo",
+    "Sub-district": "Dzamam",
+    "Facility": "Tokorase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Abuakwa North",
+    "Sub-district": "Osiem",
+    "Facility": "Tontro CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Dobro",
+    "Facility": "TopMED Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Denkyembour",
+    "Sub-district": "Topremang",
+    "Facility": "Topremang CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asuogyaman",
+    "Sub-district": "Akosombo",
+    "Facility": "Tortibo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains North",
+    "Sub-district": "Tsetsekpo",
+    "Facility": "Tsetsekpo CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Dim Sakabo",
+    "Facility": "Tsutsukope CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Akropong (Atiwa West)",
+    "Facility": "Tumfa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim North",
+    "Sub-district": "Mampong (Akwapim)",
+    "Facility": "Tutu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Asuom",
+    "Facility": "Tweapease (Kbr) CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim North",
+    "Sub-district": "Tweapease (Eastern)",
+    "Facility": "Tweapease Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu South",
+    "Sub-district": "Mpraeso",
+    "Facility": "Twenedurase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu Afram Plains South",
+    "Sub-district": "Tease",
+    "Facility": "Twerefour Faaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Okere",
+    "Sub-district": "Okrakwadjo",
+    "Facility": "Twum Guaso CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwaebibirem",
+    "Sub-district": "Pramkese",
+    "Facility": "Twumwusu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Upper West Akim",
+    "Sub-district": "Adeiso",
+    "Facility": "Victory Kwashigah Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Ekoso Quashie",
+    "Facility": "Vision View Clinic",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Wawase (Kwahu West)",
+    "Facility": "Wawase CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa West",
+    "Sub-district": "Ekorso",
+    "Facility": "Wekpeti CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Kwahu West",
+    "Sub-district": "Wawase (Kwahu West)",
+    "Facility": "Wisiwisi CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Boti",
+    "Facility": "Wurapong CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Achiase",
+    "Sub-district": "Achiase (Achiase)",
+    "Facility": "Yarewa CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Nsawam-Adoagyiri",
+    "Sub-district": "Fotobi",
+    "Facility": "Yaw Adipa/Asiyaw CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Asene Manso Akroso",
+    "Sub-district": "Akroso",
+    "Facility": "Yaw Donkor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Ayensuano",
+    "Sub-district": "Dorkrochiwa",
+    "Facility": "Yaw Donkor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akwapim South",
+    "Sub-district": "Pokrom",
+    "Facility": "Yaw Duodu CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "West Akim",
+    "Sub-district": "Brekumanso",
+    "Facility": "Yaw Tano CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Atiwa East",
+    "Sub-district": "Anyinam (Atiwa East)",
+    "Facility": "Yesukrom Medical Center",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Yilo-Krobo",
+    "Sub-district": "Somanya West",
+    "Facility": "Yilo Krobo Municipal Hospital",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Lower Manya-Krobo",
+    "Sub-district": "Agormanya",
+    "Facility": "Yokwenor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Akyemansa",
+    "Sub-district": "Anyinase",
+    "Facility": "Zevor CHPS",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "New Juaben South",
+    "Sub-district": "Zongo",
+    "Facility": "Zongo (new Juabeng) Health Centre",
+    "Zone": "Eastern"
+  },
+  {
+    "Region": "Eastern",
+    "District": "Birim South",
+    "Sub-district": "Akim Swedru",
+    "Facility": "Zongo CHPS",
+    "Zone": "Eastern"
+  }
+]

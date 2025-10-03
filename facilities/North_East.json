@@ -1,0 +1,765 @@
+[
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Wulugu",
+    "Facility": "Arigu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Nakpanduri",
+    "Facility": "Assemblies of God Health Centre, Nakpanduri",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Baptist Hospital, Nalerigu",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bimbagu",
+    "Facility": "Bimbagu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Binde",
+    "Facility": "Binde Hospital",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Nakpanduri",
+    "Facility": "Boaterigu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Langbensi",
+    "Facility": "Bowku CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Nasia",
+    "Facility": "Bugya CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Bumburiga",
+    "Facility": "Bumburiga CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Yunyoo",
+    "Facility": "Bumnuna CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bunkpurugu",
+    "Facility": "Bunkpurugu Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Langbensi",
+    "Facility": "Buzulungu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wenchiki",
+    "Facility": "Chere Kablani CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Chereponi",
+    "Facility": "Chereponi Government Hospital",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Chereponi",
+    "Facility": "Chereponi Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Janga",
+    "Facility": "Daboyah CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Gambaga",
+    "Facility": "Dagbiriboari CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Sakogu",
+    "Facility": "Divine Clinic",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Nasuan",
+    "Facility": "Dobiyento CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Kpasenkpe",
+    "Facility": "Duu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Nakpanduri",
+    "Facility": "Faith Community Clinic",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yikpabongo",
+    "Facility": "Fame (yiezesi) Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wonjuga",
+    "Facility": "Famisah CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Janga",
+    "Facility": "Fungu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Sakogu",
+    "Facility": "Gadantinga CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Gambaga",
+    "Facility": "Gambaga Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Garinkuka",
+    "Facility": "Garinkuka CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Gambaga",
+    "Facility": "Gbangu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Binde",
+    "Facility": "Gbankoni CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Gbingbani",
+    "Facility": "Gbankurugu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Wulugu",
+    "Facility": "Gbeo CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Walewale",
+    "Facility": "Gbimsi CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Gbingbani",
+    "Facility": "Gbingbani Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Gbintiri",
+    "Facility": "Gbintiri Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Tinguri",
+    "Facility": "Guabuliga CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Binde",
+    "Facility": "Guangbiang CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kunkwa",
+    "Facility": "Jadema Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Janga",
+    "Facility": "Janga Hospital",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Jawani CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Sakogu",
+    "Facility": "Jerigitinga CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Yunyoo",
+    "Facility": "Jimbale CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bunkpurugu",
+    "Facility": "Kambagu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Binde",
+    "Facility": "Kambatiak CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kunkwa",
+    "Facility": "Katigre CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bunkpurugu",
+    "Facility": "Kinkango CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Kolinvai CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Kparigu",
+    "Facility": "Kparigu PPAG Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Kpasenkpe",
+    "Facility": "Kpasenkpe Polyclinic",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kubori",
+    "Facility": "Kpatorigu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kubori",
+    "Facility": "Kubori Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kubori",
+    "Facility": "Kubugu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wonjuga",
+    "Facility": "Kudani CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Kulgona CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kunkwa",
+    "Facility": "Kunkwa Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bimbagu",
+    "Facility": "Kunkwadaan CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Wulugu",
+    "Facility": "Kurugu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yagaba",
+    "Facility": "Loagri CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Yunyoo",
+    "Facility": "Mangor CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Tinguri",
+    "Facility": "Mimima CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Nasuan",
+    "Facility": "Montana CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Yunyoo",
+    "Facility": "Mozio CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Kpasenkpe",
+    "Facility": "Nabari CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Gbintiri",
+    "Facility": "Nagbai CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Nagbo CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wenchiki",
+    "Facility": "Naja CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Nalerigu College of Health, Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Langbensi",
+    "Facility": "Namangu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bunkpurugu",
+    "Facility": "Namiak Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Kubori",
+    "Facility": "Namoo CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yikpabongo",
+    "Facility": "Nangrumah CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Chereponi",
+    "Facility": "Nansoni CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Nasia",
+    "Facility": "Nasia CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Nasuan",
+    "Facility": "Nasuan Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bimbagu",
+    "Facility": "Ngama CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wenchiki",
+    "Facility": "Nyagbandi CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Walewale",
+    "Facility": "Our Lady Of Rocio Catholic Health Center, Walewale",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Langbensi",
+    "Facility": "Presbyterian Health Centre, Langbinsi-Gambaga",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yagaba",
+    "Facility": "Prima CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Sakogu",
+    "Facility": "Sakogu Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Yunyoo",
+    "Facility": "Sambik CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Langbensi",
+    "Facility": "Samini CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Kparigu",
+    "Facility": "Shelinvoya CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yagaba",
+    "Facility": "Soo CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Tinguri",
+    "Facility": "St Joseph the Worker Catholic Health Centre, Guabuliga",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Wulugu",
+    "Facility": "St. Patrick's Catholic Health Center, Wulungu",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wenchiki",
+    "Facility": "Tambong CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yikpabongo",
+    "Facility": "Tantala CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Nasuan",
+    "Facility": "Temaa CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Bumburiga",
+    "Facility": "Tigenga CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Tinguri",
+    "Facility": "Tinguri CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bunkpurugu",
+    "Facility": "Tojing CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Garinkuka",
+    "Facility": "Tombu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Nasuan",
+    "Facility": "Tuna CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Nalerigu",
+    "Facility": "Tuni CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Bunkpurugu -Nakpanduri",
+    "Sub-district": "Bimbagu",
+    "Facility": "Tusuk CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Walewale",
+    "Facility": "Walewale Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Walewale",
+    "Facility": "Walewale Municipal Hospital",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wenchiki",
+    "Facility": "Wenchiki Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wonjuga",
+    "Facility": "Wonjuga CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Wulugu",
+    "Facility": "Wulugu Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Langbensi",
+    "Facility": "Wundua CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Yama-Wungu",
+    "Facility": "Wungu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yagaba",
+    "Facility": "Yagaba Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Yama-Wungu",
+    "Facility": "Yamah CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Mamprugu-Moagduri",
+    "Sub-district": "Yikpabongo",
+    "Facility": "Yikpabongo CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Chereponi",
+    "Sub-district": "Wonjuga",
+    "Facility": "Yorgu CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "Yunyoo-Nasuan",
+    "Sub-district": "Yunyoo",
+    "Facility": "Yunyoo Health Centre",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "East Mamprusi",
+    "Sub-district": "Gambaga",
+    "Facility": "Zaari CHPS",
+    "Zone": "North East"
+  },
+  {
+    "Region": "North East",
+    "District": "West Mamprusi",
+    "Sub-district": "Yama-Wungu",
+    "Facility": "Zangu Vuga CHPS",
+    "Zone": "North East"
+  }
+]

@@ -1,0 +1,1367 @@
+[
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Island(Krachi West)",
+    "Facility": "AGLAKOPE CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Abotoase",
+    "Facility": "Abotoase Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Brewaniase",
+    "Facility": "Abubruwa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Tinjase",
+    "Facility": "Abunyanya CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Dormabin",
+    "Facility": "Adumadum CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Katanga Asukawkaw",
+    "Facility": "Adunkwata CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Bonakye",
+    "Facility": "Agoufie CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Ahamansu",
+    "Facility": "Ahamansu Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Nkonya",
+    "Facility": "Ahundzo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Akaa",
+    "Facility": "Akaa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Grubi",
+    "Facility": "Akaniem CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Akpafu",
+    "Facility": "Akpafu Adorkor Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Akpafu",
+    "Facility": "Akpafu Mempeasem Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Akpafu",
+    "Facility": "Akpafu Odomi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodo",
+    "Facility": "Akum CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Alokpatsa",
+    "Facility": "Alokpatsa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Worawora Apesokubi",
+    "Facility": "Amanya CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Island(Krachi West)",
+    "Facility": "Amewoyikope CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Ahamansu",
+    "Facility": "Ampeyo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Anyinamae",
+    "Facility": "Anyinamae Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Worawora Apesokubi",
+    "Facility": "Apesokubi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Worawora Apesokubi",
+    "Facility": "Apesorkabo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Nkonya",
+    "Facility": "Asakyiri CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Kadjebi-Asato",
+    "Facility": "Asato CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Katanga Asukawkaw",
+    "Facility": "Asukawkaw CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "Atobiata CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Akaa",
+    "Facility": "Atonkor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Nsuta (Buem)",
+    "Facility": "Attakrom CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "Atweneboanda CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Tokuroanu",
+    "Facility": "Ayerifia Battor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Kparekpare",
+    "Facility": "Ayriemu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Tinjase",
+    "Facility": "Azua CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Alokpatsa",
+    "Facility": "B-Zongo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "BUSEC CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Kute",
+    "Facility": "Baglo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Baika Ayoma",
+    "Facility": "Baika Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Banda",
+    "Facility": "Banda Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Chinderi",
+    "Facility": "Bejamse CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodo",
+    "Facility": "Bethel CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Anyinamae",
+    "Facility": "Boafri CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Bodada",
+    "Facility": "Bodada Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Bodada",
+    "Facility": "Bodada North CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Ehiamankyene (Krachi West)",
+    "Facility": "Bommoden CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Bonakye",
+    "Facility": "Bonakye Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Brewaniase",
+    "Facility": "Bontibor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Borae",
+    "Facility": "Borae Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Banda",
+    "Facility": "Borae Nkwanta CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Bowiri",
+    "Facility": "Bowiri Amanfrom CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Bowiri",
+    "Facility": "Bowiri Kyiriahi Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Kwamikrom",
+    "Facility": "Bowiri Odumase CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Brewaniase",
+    "Facility": "Brewaniase Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Baika Ayoma",
+    "Facility": "Bueman Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Kwamikrom",
+    "Facility": "Bumbula CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Island(Krachi West)",
+    "Facility": "Cement CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "Chaiso CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Island(Krachi West)",
+    "Facility": "Chantai CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Chinderi",
+    "Facility": "Chinderi Health Center",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Nkonya",
+    "Facility": "Comfort Ofedie Memorial (Nkonya Ahenkro) Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Denteh",
+    "Facility": "DR BAWIAH MEMORIA HOSPITAL",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Dadekro CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "Dadiase CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Katanga Asukawkaw",
+    "Facility": "Dadoto CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Alokpatsa",
+    "Facility": "Dain Kofe CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Damanko",
+    "Facility": "Damanko Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Kparekpare",
+    "Facility": "Dambai Cement CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti- East",
+    "Facility": "Dambai Health Certre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Pampawie",
+    "Facility": "Dapaa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Denteh",
+    "Facility": "Denteh CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodo",
+    "Facility": "Dodo Amanfrom Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodo",
+    "Facility": "Dodo Tamale CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodo",
+    "Facility": "Dodofie CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Keri",
+    "Facility": "Dogo Kitiwa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Dormabin",
+    "Facility": "Dormabin Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Kadjebi-Asato",
+    "Facility": "Dzamlome CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Kadjebi-Asato",
+    "Facility": "Dzindziso CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Baika Ayoma",
+    "Facility": "Dzolu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Ehiamankyene (Krachi West)",
+    "Facility": "Ehiamankyene Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti - West",
+    "Facility": "Evangelical Presbyterian Dan Moser Memo.Clinic, Dambai ",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Grubi",
+    "Facility": "Grubi Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Nsuta (Buem)",
+    "Facility": "Guaman CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Gyasayor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Chayo",
+    "Facility": "Gyato Akura CHPS (Chayo)",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti- East",
+    "Facility": "Injare CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "JASICO CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "Jasikan District Hospital",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Bonakye",
+    "Facility": "Jumbo #1 CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Bonakye",
+    "Facility": "Jumbo Chare CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Kadjebi-Asato",
+    "Facility": "KASEC CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Denteh",
+    "Facility": "KRASEC Clinic",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "Kabisayor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Bonakye",
+    "Facility": "Kabite CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Kabonwuli CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Sibi",
+    "Facility": "Kabrekura CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Denteh",
+    "Facility": "Kadentwe CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Kadjebi-Asato",
+    "Facility": "Kadjebi Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Kadjo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Katanga Asukawkaw",
+    "Facility": "Katanga (krachi East) Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Tutukpene",
+    "Facility": "Kecheibi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Keri",
+    "Facility": "Keri CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Nsuta (Buem)",
+    "Facility": "Ketsi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Sibi",
+    "Facility": "Koni Health Centre, Kpassa",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti- East",
+    "Facility": "Kopah Clinic",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Pampawie",
+    "Facility": "Koru CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodi",
+    "Facility": "Koto-Nkwanta CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Kparekpare",
+    "Facility": "Kparekpare CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Kpassa Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Kpassa Maternity Home",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Kpassa Urban CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Kpatchu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Dormabin",
+    "Facility": "Kpelema CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodi",
+    "Facility": "Kponkpa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Denteh",
+    "Facility": "Krachi West District Hospital",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Grubi",
+    "Facility": "Kradente CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Akaa",
+    "Facility": "Kudjei CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Keri",
+    "Facility": "Kue CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Kute",
+    "Facility": "Kute Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Kwaakua CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti - West",
+    "Facility": "Kwame Akura CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Kwamikrom",
+    "Facility": "Kwamekrom New Town CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Kwamikrom",
+    "Facility": "Kwamikrom Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Lakpor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Baika Ayoma",
+    "Facility": "Lekanti CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Lemina CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Abrani",
+    "Facility": "Likpe Abrani Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Abrani",
+    "Facility": "Likpe Agbozume CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Bakwa",
+    "Facility": "Likpe Bakua Polyclinic",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Bakwa",
+    "Facility": "Likpe Bala Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Abrani",
+    "Facility": "Likpe Koforidua CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Abrani",
+    "Facility": "Likpe Kukurantumi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Likpe Bakwa",
+    "Facility": "Likpe Mate CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Lolobi",
+    "Facility": "Lolobi Kumasi Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti - West",
+    "Facility": "Madam Nyuitor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "Madina Urban CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Mama Akura CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Ehiamankyene (Krachi West)",
+    "Facility": "Matamallam CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Tokuroanu",
+    "Facility": "Matamanu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodi",
+    "Facility": "Mempeasem CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Monkra CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Chayo",
+    "Facility": "Motoka CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Katanga Asukawkaw",
+    "Facility": "Motorway CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Tinjase",
+    "Facility": "Nabu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Baika Ayoma",
+    "Facility": "New Ayoma Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Chayo",
+    "Facility": "Ngewoe CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Nkonya",
+    "Facility": "Nkonya Wurupong Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "Nkwanta Municipal Hospital",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Nsuta (Buem)",
+    "Facility": "Nsuta Buem Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Ehiamankyene (Krachi West)",
+    "Facility": "Ntewusae Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Keri",
+    "Facility": "Nyambong CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Brewaniase",
+    "Facility": "Obanda CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodi",
+    "Facility": "Obuase CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Sibi",
+    "Facility": "Obunja CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "Odomi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Kwamikrom",
+    "Facility": "Odomtor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "Odumase (nkwanta South) CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Kute",
+    "Facility": "Odumase CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Tutukpene",
+    "Facility": "Ofosu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Jasikan",
+    "Facility": "Okadjakrom CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Katanga Asukawkaw",
+    "Facility": "Okanease CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Baika Ayoma",
+    "Facility": "Old Ayoma Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Grubi",
+    "Facility": "Old Dentemanso CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Osramanae Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Pampawie",
+    "Facility": "Pampawie Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Keri",
+    "Facility": "Pawa CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Pentecost Hospital, Kpassa",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodo",
+    "Facility": "Pepesu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Damanko",
+    "Facility": "Pibilla CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodi",
+    "Facility": "Poase Cement Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Bonakye",
+    "Facility": "Portripor CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Brewaniase",
+    "Facility": "Pusupu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "SIVANA Clinic",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Sablakope CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Brewaniase",
+    "Facility": "Salifu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Guan",
+    "Sub-district": "Santrokofi",
+    "Facility": "Santrokofi Bume Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Sibi",
+    "Facility": "Sibi Central CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Sibi",
+    "Facility": "Sibi Hill Top CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Kpassa",
+    "Facility": "Somacas Medical Center",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Nkwanta (Oti)",
+    "Facility": "St. Joseph's Catholic Hospital, Nkwanta",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Chinderi",
+    "Facility": "St. Luke's Catholic Clinic, Chinderi",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Dodi",
+    "Facility": "St. Mary Theresa Catholic Hospital, Dodi - Papase",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Bowiri",
+    "Facility": "Takrabe CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Abotoase",
+    "Facility": "Tapa Amanfrom CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Nkonya",
+    "Facility": "Tayi CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Abotoase",
+    "Facility": "Tepa Alavanyo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Jasikan",
+    "Sub-district": "Bodada",
+    "Facility": "Teteman CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta North",
+    "Sub-district": "Tinjase",
+    "Facility": "Tinjase CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Tokuroanu",
+    "Facility": "Tokoruanu Health Centre",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Island(Krachi West)",
+    "Facility": "Tokpo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Nkwanta South",
+    "Sub-district": "Tutukpene",
+    "Facility": "Tutukpene CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi West",
+    "Sub-district": "Osramanae",
+    "Facility": "Twreso CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Kadjebi-Asato",
+    "Facility": "Wawasu CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Biakoye",
+    "Sub-district": "Worawora Apesokubi",
+    "Facility": "Worawora Hospital",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Anyinamae",
+    "Facility": "Worenja CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Kadjebi",
+    "Sub-district": "Ahamansu",
+    "Facility": "Yadzo CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi East",
+    "Sub-district": "Oti- East",
+    "Facility": "Yariga CHPS",
+    "Zone": "Oti"
+  },
+  {
+    "Region": "Oti",
+    "District": "Krachi Nchumuru",
+    "Sub-district": "Banda",
+    "Facility": "Zongo Macheri CHPS",
+    "Zone": "Oti"
+  }
+]

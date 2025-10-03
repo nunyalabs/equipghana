@@ -1,0 +1,1738 @@
+[
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Dormaa",
+    "Facility": "3mrs Sunyani",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Jinijini",
+    "Facility": "ABTS Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "Abesim Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Abirikasu",
+    "Facility": "Abirikasu Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Abonsrakrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Bofourkrom",
+    "Facility": "Abronye CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Jenjemireja",
+    "Facility": "Abuokrom Chips",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Adadiem",
+    "Facility": "Adadiem Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Adamsu",
+    "Facility": "Adamsu Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Badu",
+    "Facility": "Adamu CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Adantia CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Addoe CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Zezera",
+    "Facility": "Adiokor Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Adounya CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Afrihope Mission Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Mpatasie",
+    "Facility": "Aggie (berekum) Maternity",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Asuogya",
+    "Facility": "Agubie CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Dormaa Akwamu",
+    "Facility": "Akontanim CHPS Compound",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Badu",
+    "Facility": "Akore CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Mpatasie",
+    "Facility": "Akrofro CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Chiraa",
+    "Facility": "Akwaasua CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Suma",
+    "Facility": "Alive Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Seketia",
+    "Facility": "Amanfoso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Koraso",
+    "Facility": "Amankokwa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Amasu",
+    "Facility": "Amasu Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Kyeremasu",
+    "Facility": "Amenfi CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Jinijini",
+    "Facility": "Amomaso Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Amponsah Mat Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Subinso",
+    "Facility": "Amposakrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Abirikasu",
+    "Facility": "Angel Mat Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Anglican Health Services, Penkwase",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Antwikrom",
+    "Facility": "Antwikrom Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Kato",
+    "Facility": "Anyinasu (berekum) CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Goka",
+    "Facility": "Asantekrom (Jaman North) CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Adamsu",
+    "Facility": "Asare Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Zezera",
+    "Facility": "Asempanaye CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Asikasu (Dormaa Municipal)",
+    "Facility": "Asikasu/Nsuhia Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Goka",
+    "Facility": "Asiri Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Danyame",
+    "Facility": "Asunsu No. 1 CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Goka",
+    "Facility": "Asuokor Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Dormaa Akwamu",
+    "Facility": "Asuotiano Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Atesikrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Antwikrom",
+    "Facility": "Atronie Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Abirikasu",
+    "Facility": "Atuna CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Ayakomaso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Tromeso",
+    "Facility": "Ayigbe CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Kato",
+    "Facility": "BECOLED CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Sabiye",
+    "Facility": "BOASE CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Gonasua",
+    "Facility": "Baano Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Abirikasu",
+    "Facility": "Baatea Chps",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Badu",
+    "Facility": "Badu Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Banda Ahenkro",
+    "Facility": "Banda Ahenkro Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Dormaa",
+    "Facility": "Bany Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Jinijini",
+    "Facility": "Benkasa Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Berekum Central",
+    "Facility": "Berekum Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Adamsu",
+    "Facility": "Bodaa Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Sabiye",
+    "Facility": "Bofie CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Bofourkrom",
+    "Facility": "Bofourkrom Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Adadiem",
+    "Facility": "Bonakire CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Debibi",
+    "Facility": "Bonita Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Boreso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Bosomtwe Urology Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Nchiraa",
+    "Facility": "Botenso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Botokrom",
+    "Facility": "Botokrom Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Subinso",
+    "Facility": "Branam / Statefarm CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Yaakrom",
+    "Facility": "Brofoyebru Chps",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Nsawkaw",
+    "Facility": "Brohani Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Bongase",
+    "Facility": "Bui CHPS 1",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Bongase",
+    "Facility": "Bui Rural Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Goka",
+    "Facility": "Buni CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Tromeso",
+    "Facility": "Buoku CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Nkrankwanta",
+    "Facility": "Ceci. Maternity Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Chiraa",
+    "Facility": "Chiraa Government Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Zongo (Bono)",
+    "Facility": "Clean Hands (berekum) Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Dormaa",
+    "Facility": "Constance Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Fiapre",
+    "Facility": "Cross Care Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "D.K.Abrebrese Memorial Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Dorbor",
+    "Facility": "DORBOR CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Dagadu CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Danyame",
+    "Facility": "Danyame Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Suma",
+    "Facility": "Dawiri CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Debibi",
+    "Facility": "Debibi Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Denmidal Health Services",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Dexter Medical Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Yaakrom",
+    "Facility": "Diabaakrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Gonasua",
+    "Facility": "Dodosuo CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Badu",
+    "Facility": "Don Bosco Catholic Clinic, Tainso",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Kwabena Dwomokrom",
+    "Facility": "Dormaa Agogo CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Dormaa Akwamu",
+    "Facility": "Dormaa Akwamu Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Wamfie",
+    "Facility": "Dormaa East District Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Nkrankwanta",
+    "Facility": "Dormaa West District Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Drobo Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Asuogya",
+    "Facility": "Droboso Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Duadaso",
+    "Facility": "Duadaso Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Fiapre",
+    "Facility": "Dumasua CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Dwenem Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Kato",
+    "Facility": "Emi Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi East",
+    "Facility": "Emil Memorial Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Fair View Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Town-bakoniaba",
+    "Facility": "Fairview Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Faman CHPS Zone",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Sabiye",
+    "Facility": "Fawoman CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Botokrom",
+    "Facility": "Fetentaa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Fiapre",
+    "Facility": "Fiapre Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Fiapre",
+    "Facility": "Fiapre zongo CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Florence (sunyani) Mat Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Sampa",
+    "Facility": "Fountain Care Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Ghana Red Cross Optical Services",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Goka",
+    "Facility": "Goka Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Gonasua",
+    "Facility": "Gonasua Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Gonokrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Krakrom",
+    "Facility": "Gyaase Chps Zone",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Hani CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Hannas Mat Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Berekum Central",
+    "Facility": "Happy Hospital LTD",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Health Lane Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Town-bakoniaba",
+    "Facility": "HealthPoint Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Biadan",
+    "Facility": "Holy Family Catholic Hospital, Berekum",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "Hope for Children and Aged Rehab Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Adadiem",
+    "Facility": "Jamera CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Chiraa",
+    "Facility": "Jamesbert Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Japekrom Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Adadiem",
+    "Facility": "Jenini CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Jinijini",
+    "Facility": "Jinjini Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Sampa",
+    "Facility": "Kabile CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Kenam Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Gonasua",
+    "Facility": "Ketekyiakrom CHPS Zone",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Keva Medical Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Chiraa",
+    "Facility": "Kobedi CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Kofiasua Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Kyeremasu",
+    "Facility": "Kofibourkrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Kofiko CHPS Zone",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Duadaso",
+    "Facility": "Kokoa Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Seketia",
+    "Facility": "Kokosua CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi East",
+    "Facility": "Kokroko CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Abirikasu",
+    "Facility": "Konsia chps",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Koraso",
+    "Facility": "Koraso Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Krakrom",
+    "Facility": "Krakrom Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Zongo (Bono)",
+    "Facility": "Kutre I CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Kwabena Dwomokrom",
+    "Facility": "Kwabenadwomokrom Health centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Kwabenakuma CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Krakrom",
+    "Facility": "Kwame Yeboah krom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Kwatire Government Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Kyekyewere CHPS (Methodist Medical Centre - Kyerekyewere)",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Wamfie",
+    "Facility": "Kyenkyenase CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Biadan",
+    "Facility": "Kyereyawkrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "Lars Medical Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Louise Banks Griffin Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Fiapre",
+    "Facility": "Mantukwa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Suma",
+    "Facility": "Mayera CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Mpatasie",
+    "Facility": "Medcourt Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Nsawkaw",
+    "Facility": "Menji Rural Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Wamanafo",
+    "Facility": "Merefriwuo Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi West",
+    "Facility": "Methodist Hospital, Wenchi",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Chiraa",
+    "Facility": "Methodist Medical Center, Chiraa",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Krakrom",
+    "Facility": "Methodist Medical Centre, Kwakuanya",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Antwikrom",
+    "Facility": "Methodist Medical Centre, Yawsae",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Jenjemireja",
+    "Facility": "Miremano chps",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Dormaa",
+    "Facility": "Monicas Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Mpatasie",
+    "Facility": "Mpatasie CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Adamsu",
+    "Facility": "Mpuasu CHPS Zone",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Danyame",
+    "Facility": "Msgr. Robert Mensah Abrampah Catholic Clinic, Nsesreso",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Debibi",
+    "Facility": "Namasa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Zongo (Bono)",
+    "Facility": "Namasua CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Nasana CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Nchiraa",
+    "Facility": "Nchiraa Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Yaakrom",
+    "Facility": "New Chiraa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Nsawkaw",
+    "Facility": "Njau-Tanoso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "Nkrankrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Kwabena Dwomokrom",
+    "Facility": "Nkwantaso Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Botokrom",
+    "Facility": "Nkyekyemam CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Fiapre",
+    "Facility": "Notre Dame (sunyani West) Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Jinijini",
+    "Facility": "Nsarpo CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Nsoatre Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Seketia",
+    "Facility": "Nsonsomea CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Town-bakoniaba",
+    "Facility": "Nwawasua CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi East",
+    "Facility": "Nwoase CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi East",
+    "Facility": "Nyaase Royals Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Tromeso",
+    "Facility": "Nyamponase CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Nyarko Mat Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Sabiye",
+    "Facility": "Nyire CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Obiri Yeboah CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Opoku Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Town-bakoniaba",
+    "Facility": "Owusu Memorial (sunyani) Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Berekum Central",
+    "Facility": "Palm Avenue Maternity",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Koraso",
+    "Facility": "Philomina Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Kyeremasu",
+    "Facility": "Presbyterian Clinic,  Kyeremasu",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Presbyterian Clinic, Antwirifo",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Jenjemireja",
+    "Facility": "Presbyterian Clinic,Jenjemireja",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Aboabo (Bono)",
+    "Facility": "Presbyterian Health Centre, Aboabo",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Goka",
+    "Facility": "Presbyterian Health Centre, Gyankufa",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Kwabena Dwomokrom",
+    "Facility": "Presbyterian Health Centre, KwadwoKumikrom",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Aboabo (Bono)",
+    "Facility": "Presbyterian Health Centre, Kwamesua",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Suma",
+    "Facility": "Presbyterian Health Centre, Suma Ahenkro",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Yaakrom",
+    "Facility": "Presbyterian Health Centre, Yaakrom",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Presbyterian Hospital, Dormaa-Ahenkro",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "Psychiatric Unit",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Pure heart clinic/maternity home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Wamanafo",
+    "Facility": "Rachel Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "Rafchik Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Sabiye",
+    "Facility": "Sabiye Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Sampa",
+    "Facility": "Sampa Government Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Banda Ahenkro",
+    "Facility": "Sanwa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Zezera",
+    "Facility": "Saviour (jaman South) Maternity Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Seikwa Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman North",
+    "Sub-district": "Seketia",
+    "Facility": "Seketia Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Berekum Central",
+    "Facility": "Senase CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Town-bakoniaba",
+    "Facility": "Seventh Day Adventist Hospital, Sunyani",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Sromani CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Botokrom",
+    "Facility": "St Alban's Catholic Clinic, Fetentaa",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Badu",
+    "Facility": "St Anthony Catholic Clinic, Badu",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "St James Catholic Clinic, Abesim",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Drobo",
+    "Facility": "St Mary's Catholic Hospital, Drobo",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Gonasua",
+    "Facility": "St Nicholas Hospital ",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Asuogya",
+    "Facility": "St. Joseph's Catholic Hospital, Wenchi Koasi",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Wamanafo",
+    "Facility": "St. Matthew's Catholic Hospital, Ampenkro",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Subinso",
+    "Facility": "Subinso Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Sunyani Municipal Hosp",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Sunyani Police Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Sunyani Prisons Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Abesim",
+    "Facility": "Sunyani Secondary School Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Penkwase",
+    "Facility": "Sunyani Teaching Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "Sunyani Technical University Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Adamsu",
+    "Facility": "Taiano CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Nsawkaw",
+    "Facility": "Tain District Hospital",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Tanokrom Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Chiraa",
+    "Facility": "Tanom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Jenjemireja",
+    "Facility": "Tekese Chps",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum West",
+    "Sub-district": "Koraso",
+    "Facility": "Tewbabi CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Seikwa",
+    "Facility": "Tiadenden CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Tromeso",
+    "Facility": "Tromeso Health Center",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Aboabo (Bono)",
+    "Facility": "Tronang CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Nsoatre",
+    "Facility": "Twumasikrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Twumkrom CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "Sunyani Central",
+    "Facility": "UENR Clinic",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Town-bakoniaba",
+    "Facility": "Watchman CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi West",
+    "Facility": "Wenchi Government Maternity Home",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Wenchi",
+    "Sub-district": "Wenchi East",
+    "Facility": "Wenchi Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Banda",
+    "Sub-district": "Sabiye",
+    "Facility": "Wewa CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani Municipal",
+    "Sub-district": "New Dormaa",
+    "Facility": "YAWHIMA HEALTH CENTRE",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Jenjemireja",
+    "Facility": "Yaamansa CHPs",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Tain",
+    "Sub-district": "Nsawkaw",
+    "Facility": "Yabraso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa East",
+    "Sub-district": "Wamanafo",
+    "Facility": "Yaw Berima CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa Municipal",
+    "Sub-district": "Dormaa Ahenkro",
+    "Facility": "Yawkrom/KKK CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Dormaa West",
+    "Sub-district": "Nkrankwanta",
+    "Facility": "Yawowusukrom Chps zone",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Sunyani West",
+    "Sub-district": "Odumase (Bono)",
+    "Facility": "Yoyooso CHPS",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Jaman South",
+    "Sub-district": "Zezera",
+    "Facility": "Zezera Health Centre",
+    "Zone": "Bono"
+  },
+  {
+    "Region": "Bono",
+    "District": "Berekum",
+    "Sub-district": "Zongo (Bono)",
+    "Facility": "Zongo (berekum) Health Center",
+    "Zone": "Bono"
+  }
+]

@@ -1,0 +1,1549 @@
+[
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "AFID Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "AMPFRED Station Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Amanten",
+    "Facility": "Abamba CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "Abrefi Women and Children Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Donkro Nkwanta",
+    "Facility": "Abuasu CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Abusua Community Medical Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Accra Town CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Prang",
+    "Facility": "Adjalaja CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "Africa Libera Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Agosa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "Agyenkwa Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Amoma",
+    "Facility": "Agyina CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Ahmadiyyah (Techiman) Mission Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Ahyiayem",
+    "Facility": "Ahyiayem Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Amanten",
+    "Facility": "Akokoa Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Bassa",
+    "Facility": "Akroka/Yawkra CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Ayerede",
+    "Facility": "Akropong CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Akuma",
+    "Facility": "Akuma Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kadelso",
+    "Facility": "Alhassan Akura CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "Alice Maternity Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Alnoor Islamic Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Amanten",
+    "Facility": "Amanten Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "Amoako Health Care City (NKORANZA SOUTH)",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Amoako Health City",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Amoma",
+    "Facility": "Amoma Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "Ampoma CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Prang",
+    "Facility": "Ankrakukra CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Annor Asare Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Anyima",
+    "Facility": "Anyima Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Apesika",
+    "Facility": "Apesika Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Arms Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Oforikrom",
+    "Facility": "Asanatanso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "New Longoro",
+    "Facility": "Asantekwa Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Kranka",
+    "Facility": "Asekye CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Bonsu",
+    "Facility": "Asonkwaa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Offuman",
+    "Facility": "Asubinja CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Buoyem",
+    "Facility": "Asueyi CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Bassa",
+    "Facility": "Asuoso CHPS (Bassa)",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Atebubu Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Atecoe CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Dawadawa",
+    "Facility": "Atta Akura CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Avorkope CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Aworowa",
+    "Facility": "Aworowa Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Aworowa",
+    "Facility": "Ayeasu CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Ayerede",
+    "Facility": "Ayerede Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Kajaji",
+    "Facility": "Ayestekope CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Mansie",
+    "Facility": "Ayorya CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Prang",
+    "Facility": "Baaya CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Babatorkuma Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "New Longoro",
+    "Facility": "Bablidor CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kunsu",
+    "Facility": "Badu Kura CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Kajaji",
+    "Facility": "Balla/Todzikope CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Oforikrom",
+    "Facility": "Bamiri CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Busuama",
+    "Facility": "Baniantwe CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Bantama (Bono East)",
+    "Facility": "Bantama CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Bassa",
+    "Facility": "Bassa Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Zabrama",
+    "Facility": "Benim CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Boabeng CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Boana CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Boateng Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Bassa",
+    "Facility": "Bodinka CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Bodom CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Bomini CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Kranka",
+    "Facility": "Bono Manso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Bonsu",
+    "Facility": "Bonsu Health Centre (Nkoranza South)",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Bonte CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Brekente CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Zabrama",
+    "Facility": "Bronikrom CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Buoyem",
+    "Facility": "Buoyem Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Busuama",
+    "Facility": "Busuama Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Busunya Polyclinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Bassa",
+    "Facility": "CFAO QTRS CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Kwame Danso",
+    "Facility": "Central KW Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Dumso",
+    "Facility": "Chirehin CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Chokolombo CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Abease",
+    "Facility": "DamamKwata Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Danamos Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Ayerede",
+    "Facility": "Dandwa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "Danni B Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Ahyiayem",
+    "Facility": "Dasagua CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Dawadawa",
+    "Facility": "Dawadawa Heath Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Tuobodom",
+    "Facility": "Devine Merimna Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Kwame Danso",
+    "Facility": "Do Wo Yonko Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Jato Zongo",
+    "Facility": "Dobidi Nkwanta CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Donkro Nkwanta",
+    "Facility": "Donkro Nkwanta Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Bonsu",
+    "Facility": "Dotobaa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Krobo",
+    "Facility": "Dr. Owusu Fosu Clinic & Maternity Home",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Drobe",
+    "Facility": "Drobe Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Dromankese",
+    "Facility": "Dromankese Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Dromankese",
+    "Facility": "Dromankuma CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Dumso",
+    "Facility": "Dumso Bethel CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Kranka",
+    "Facility": "Dwenewoho CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "New Longoro",
+    "Facility": "Dwere/Gomboi CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Eddyglad Family Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Kumfia",
+    "Facility": "Fakwesi CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Oforikrom",
+    "Facility": "Fiaso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Fiema CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Aworowa",
+    "Facility": "Fitri CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Garadima",
+    "Facility": "Garadima CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Gina (Techiman) Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Glory Prince Of Peace Maternity",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman North",
+    "Facility": "Grace Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Gulumpe",
+    "Facility": "Gulumpe Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "Happy Family Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Harbour Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman North",
+    "Facility": "Holy Family Catholic Hospital, Techiman",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Akuma",
+    "Facility": "Hwediem CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Jato Zongo",
+    "Facility": "Jato Zongo CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Jennyvonne Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Joefel Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kadelso",
+    "Facility": "Kadelso Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Kajai CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Kajaji",
+    "Facility": "Kajaji Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Zabrama",
+    "Facility": "Kamampa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Gulumpe",
+    "Facility": "Kawampe No 1 CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Kintampo Municipal Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "Kintampo South District Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kunsu",
+    "Facility": "Kobeda NO. 2 CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Kobre CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Kojokrom (Sene East)",
+    "Facility": "Kojokrom (Sene) Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "Kokuma CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "Koranteng Memorial Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Anyima",
+    "Facility": "Krabonso CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Kranka",
+    "Facility": "Kranka Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Zabrama",
+    "Facility": "Krobo CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Krobo",
+    "Facility": "Krobo Memorial Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Kumfia",
+    "Facility": "Kumfia CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kunsu",
+    "Facility": "Kunsu Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kadelso",
+    "Facility": "Kurawura-Akura CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Tanoso",
+    "Facility": "Kutabom CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Dromankese",
+    "Facility": "Kuuso/Dinkra CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Apesika",
+    "Facility": "Kwabia CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Kyeamekrom",
+    "Facility": "Kyeamekrom CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Donkro Nkwanta",
+    "Facility": "Kyeradeso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Kyeremankuma CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Tuobodom",
+    "Facility": "Kyiridiagya CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Parambo",
+    "Facility": "Labun Basare CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Lassi",
+    "Facility": "Lassi Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Drobe",
+    "Facility": "Lemu CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Lendo Health Care Services",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "LinMatt Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Busuama",
+    "Facility": "Manchalla CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nsuta (Techiman)",
+    "Facility": "Mangoase CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Mansie",
+    "Facility": "Mansie CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Mateso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Matthias Catholic Hospital, Yeji",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Mem CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Buoyem",
+    "Facility": "Mesidan CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Bantama (Bono East)",
+    "Facility": "Mframa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kunsu",
+    "Facility": "Miawani CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Mili Med Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman North",
+    "Facility": "Mt Olive Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Kumfia",
+    "Facility": "Murunchus CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "Nante CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Parambo",
+    "Facility": "Nchamba CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "New Leaf Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "New Longoro",
+    "Facility": "New Longoro Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "Nkoranza Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkwabeng",
+    "Facility": "Nkwabeng Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Nkwaeso Health Center",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Nkwaseneade Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Akuma",
+    "Facility": "Nsunensa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nsuta (Techiman)",
+    "Facility": "Nsuta Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkwabeng",
+    "Facility": "Ntanaaso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Apesika",
+    "Facility": "Ntankoro CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Busuama",
+    "Facility": "Ntraban CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Bassa",
+    "Facility": "Nyankontre CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Offuman",
+    "Facility": "Nyansuaka CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Nyomoase",
+    "Facility": "Nyomoase CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Odumase CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Offuman",
+    "Facility": "Offuman Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Oforikrom",
+    "Facility": "Oforikrom (Techiman) Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Oil Mills Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Opoku Agyeman Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Abease",
+    "Facility": "Our Lady of Fatima Catholic Health Centre, Abease",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Amoma",
+    "Facility": "Paninamisa CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Parambo",
+    "Facility": "Parambo Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "Patmos Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Dromankese",
+    "Facility": "Pieyiennah CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Pinihin CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Abease",
+    "Facility": "Pope Francis Catholic Clinic, Komfuorkrom",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Gulumpe",
+    "Facility": "Portor CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Amoma",
+    "Facility": "Pramposo CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Prang",
+    "Facility": "Prang Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene East",
+    "Sub-district": "Kajaji",
+    "Facility": "Premuase CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Tuobodom",
+    "Facility": "Presbyterian Clinic, Tanoboase",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Publix Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Mansie",
+    "Facility": "Sabule CHPS Cpd",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Donkro Nkwanta",
+    "Facility": "Salamkrom CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Jato Zongo",
+    "Facility": "Sanwankyi CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Kwame Danso",
+    "Facility": "Sene District Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Seneso CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Senya CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Kranka",
+    "Facility": "Sikaa CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Amanten",
+    "Facility": "St. Augustine Anglican Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Zabrama",
+    "Facility": "St. Dominic Catholic CHPS,  Cherembo",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza South",
+    "Sub-district": "Nkoranza",
+    "Facility": "St. Theresa's Catholic Hospital, Nkoranza",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman East",
+    "Facility": "Station Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Sunkwa (Kintampo North) Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Kwame Danso",
+    "Facility": "Suntah Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo South",
+    "Sub-district": "Jema",
+    "Facility": "TEK Special Medical Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "TESS Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Tanfiano CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Tankor/Domeabra CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Tuobodom",
+    "Facility": "Tanoboase CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nsuta (Techiman)",
+    "Facility": "Tanonafo CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Tanoso",
+    "Facility": "Tanoso (Techiman) Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Sene West",
+    "Sub-district": "Kyeamekrom",
+    "Facility": "Tato Bator CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "Techiman Market CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Busunya",
+    "Facility": "Timeabu/Taaho CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Kranka",
+    "Facility": "Tom/Adoe CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Nkwaeso",
+    "Facility": "Top Savior Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Tuobodom",
+    "Facility": "Tuobodom Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman Municipal",
+    "Sub-district": "Techiman West",
+    "Facility": "Valley View University Hospital, Techiman",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Atebubu-Amanten",
+    "Sub-district": "Atebubu",
+    "Facility": "Woodland Hospital",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Busuama",
+    "Facility": "Yara CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru",
+    "Sub-district": "Yeji",
+    "Facility": "Yaw Zu CHPS",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Nkoranza North",
+    "Sub-district": "Yefri",
+    "Facility": "Yefri Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Kintampo North",
+    "Sub-district": "Kintampo",
+    "Facility": "Yezura Clinic",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Pru West",
+    "Sub-district": "Zabrama",
+    "Facility": "Zabrama Health Centre",
+    "Zone": "Bono East"
+  },
+  {
+    "Region": "Bono East",
+    "District": "Techiman North",
+    "Sub-district": "Krobo",
+    "Facility": "Zunuo Healthcare Hospital",
+    "Zone": "Bono East"
+  }
+]

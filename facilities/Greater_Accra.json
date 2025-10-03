@@ -1,0 +1,3859 @@
+[
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "1 Medical Reception Station(1MRS)",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Adjei Kojo",
+    "Facility": "3 Angels Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso East",
+    "Sub-district": "Kanda",
+    "Facility": "37 Military Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "3E Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "3M&C Ghana Limited",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Ababio Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ablekuma (Accra Metro)",
+    "Facility": "Abodwe Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Abokobi",
+    "Facility": "Abokobi Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Acacia Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso North",
+    "Sub-district": "Maamobi East",
+    "Facility": "Accra Girls SHS Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso North",
+    "Sub-district": "Kwaotsuru",
+    "Facility": "Accra Newtown Islamic Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Accra Police Depo Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Accra Police Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Adabraka",
+    "Facility": "Accra Psychiatric Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "Accra West Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Acheampong Specialist Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Amasaman",
+    "Facility": "Achiaman Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "Achiato Reproductive Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "Achimota Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "Achimota School Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Acres Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "Ad-Viesta Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Ada East District Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Ada",
+    "Facility": "Ada Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Adabraka",
+    "Facility": "Adabraka Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma North",
+    "Sub-district": "South Odorkor",
+    "Facility": "Adam Family Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Ada",
+    "Facility": "Adedetsekope CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Abokobi",
+    "Facility": "Adenkrebi CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Koose",
+    "Facility": "Adenta-Amanfrom Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Tudu",
+    "Facility": "Adjabeng Skin Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Sutsurunaa",
+    "Facility": "Adjiringano Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Gbemi",
+    "Facility": "Adonai Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Mayera",
+    "Facility": "Adusa Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ablekuma (Accra Metro)",
+    "Facility": "Adwoa Boatema Memorial Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Maamomo",
+    "Facility": "Afenyo Memorial Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Sege",
+    "Facility": "Afiadenyigba CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Afienya CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Amasaman",
+    "Facility": "Afrakomah Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Sowutuom",
+    "Facility": "Agbeve Herbal Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Agbogba Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Agomeda",
+    "Facility": "Agomeda Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Ada",
+    "Facility": "Agorkpo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Osudoku",
+    "Facility": "Agortor CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Ahiabukorpe CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Airport Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Akai house Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Akpene Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Akramaman CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Akweiman CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Alajo",
+    "Facility": "Alajo Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Kpone",
+    "Facility": "All Care Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "All Faith Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Pediatorkope",
+    "Facility": "Alorkpem CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Oblogo",
+    "Facility": "Amabah Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Amanfro Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Amanfrom (Ga North)",
+    "Facility": "Amanfrom Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Anyaa",
+    "Facility": "Amat Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "American Farm Community Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Amlakpo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Koose",
+    "Facility": "Amrahia Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Aneeja Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Ankam Medicare Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Kotobabi",
+    "Facility": "Anthon Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Kotobabi",
+    "Facility": "Anthon Memorial Hospital Annex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Anyaa",
+    "Facility": "Anyaa Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Anyamam",
+    "Facility": "Anyaman Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Apenkwa CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "Aplaku Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Halcrow",
+    "Facility": "Aponche Memorial Herbal Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "Appolonia Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ablekuma (Accra Metro)",
+    "Facility": "Ar-Rahman Ghana Muslim Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Arena Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Akweteman",
+    "Facility": "Ark Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Tsinai-agber",
+    "Facility": "Ashaiman Municipal Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Tsinai-agber",
+    "Facility": "Ashaiman New Crystal Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Ashalaja CHPS/Kwame Anum HC",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Ashale Botwe Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Asigbeykope CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Agomeda",
+    "Facility": "Asutuare Junction CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Kpone",
+    "Facility": "Atlantis Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Abokobi",
+    "Facility": "Ayao Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Old Ningo",
+    "Facility": "Ayetepa CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Ayikuma",
+    "Facility": "Ayikuma CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Abelemkpe",
+    "Facility": "BIMA Ghana",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "BJ Medical Center",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Balagonno CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Baatsonaa",
+    "Facility": "Banahene Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Laterbiokorshie/TCL",
+    "Facility": "Barnor Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "Bediako CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Belah Health Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Bemuah Royal Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema South",
+    "Facility": "Bengali Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Social Welfare",
+    "Facility": "Bennette Memorial Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Baatsonaa",
+    "Facility": "Bethseda Pool Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Chantan",
+    "Facility": "Betmis Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Betmis Maternity Home and Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Laterbiokorshie/TCL",
+    "Facility": "Blandinafi Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Blessing Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Bloom Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "Bloomingdale Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Abokobi",
+    "Facility": "Boi Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Bornikope",
+    "Facility": "Bonikope Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "Bortianor Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Niiman",
+    "Facility": "Britania Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema North",
+    "Facility": "Bs Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Taifa",
+    "Facility": "Buck Specialist Hospital and Fertility Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "Bush Road Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema North",
+    "Facility": "Caiquo Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "Camp 2 Health Centre CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Social Welfare",
+    "Facility": "Care and Social Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Sege",
+    "Facility": "Ceaserkope CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Centum Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Chalton Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Abokobi",
+    "Facility": "Christian Community Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor Central",
+    "Facility": "Christian Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Christlead Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Tema Station",
+    "Facility": "Civil Service Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Roman Ridge",
+    "Facility": "Claron Health International",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Taifa",
+    "Facility": "Classic Care Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Classic Diagnostic and Medical Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor South",
+    "Facility": "Clean Town Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Accra Newtown",
+    "Facility": "Clinix Healthcare",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Cocoa Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Niiman",
+    "Facility": "Community 22 Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "Community 25 Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "Community Health Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Ashongman",
+    "Facility": "Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Crown Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Agomeda",
+    "Facility": "DMA Trinity Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "Dakal Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Dam Side Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Danfa",
+    "Facility": "Danfa Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Prampram",
+    "Facility": "Dangme Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Dodowa",
+    "Facility": "Dangme West Hospital Complex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "Dansoman Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Tsinai-agber",
+    "Facility": "Darbem Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Kpone",
+    "Facility": "Darkwa Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Nyigbenya Dawa",
+    "Facility": "Dawa CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Dawhenya Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Dawhenya Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Dawhenya North CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Sowutuom",
+    "Facility": "Dedisaf Healthcare",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Del International Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Dela Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Sowutuom",
+    "Facility": "Deseret Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Discovery Specialist Hospital and IVF Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Divine Grace Clinic &Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Divine Group International Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Mayera",
+    "Facility": "Divine Trust Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Amasaman",
+    "Facility": "Doblo Gonno Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Doc's Medical Consult",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La South",
+    "Facility": "Doctors On Duty Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Dogo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Doku Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Dom Sampaman CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Dome",
+    "Facility": "Dome Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Dome",
+    "Facility": "Dome RCH Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Doron Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Ayikuma",
+    "Facility": "Doryumu Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Dr Amoah Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Laterbiokorshie/TCL",
+    "Facility": "Dr E. Akwei Memorial Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Duffor",
+    "Facility": "Duffor Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "E&E Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Eastwing Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Edith Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Prampram",
+    "Facility": "Edusei Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor North",
+    "Facility": "Efan Victory Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Kotobabi",
+    "Facility": "Effan Victory Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Abelemkpe",
+    "Facility": "Egon German Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma North",
+    "Sub-district": "Darkuman",
+    "Facility": "El-shaddai Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Elikem Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Emells Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Emmanuel Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Baatsonaa",
+    "Facility": "Emmanuel Duah Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Emmanuel Eye Medical Centre, East Legon",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Accra Newtown",
+    "Facility": "Entrance University Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Oyibi",
+    "Facility": "Erasmus Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma North",
+    "Sub-district": "Darkuman",
+    "Facility": "Eric Heymann Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Social Welfare",
+    "Facility": "Esidem Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Expert Hands Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Extended Healthcare Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "F. Alpha and Omega Specialist Hospitral",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "FK Effah Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Faith Evangelical Mission Hospital, Bubuashie",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Kpone",
+    "Facility": "Faith Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie South",
+    "Facility": "Family Health Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Agege - Mpoase",
+    "Facility": "Family Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "Fayad Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Kokrobite",
+    "Facility": "Finney Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Fire Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Foundation Onyame Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "Frafraha Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Franbel Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Franklyn Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "GIMPA Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "GOLDEN AGE MEDICAL CENTER",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Halcrow",
+    "Facility": "GPHA Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Sowutuom",
+    "Facility": "Ga Central Municipal Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Ga East Municipal Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Ga North Municipal Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Amasaman",
+    "Facility": "Ga West Municipal Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Galilea Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Mallam",
+    "Facility": "Gbawe Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "Gbetsile Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Ghana Atomic Energy Commission Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Sutsurunaa",
+    "Facility": "Ghana Canada Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Ghana Post Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Amasaman",
+    "Facility": "Ghanaian-German Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Glady Gabbie Maternity Home/Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Global Star Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Gloria Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Prampram",
+    "Facility": "God Heals Maternity And Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Godia Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Osudoku",
+    "Facility": "Golden Exotics Limited Farm Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Gonse Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Goodcare Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Grace Anchor Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Shukura/Zamramaline",
+    "Facility": "Grace Baah Memorial Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "North Ridge",
+    "Facility": "Greater Accra Regional Hospital - Ridge",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Greater Grace Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Danfa",
+    "Facility": "Green Lawn Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Greenville Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso North",
+    "Sub-district": "Maamobi West",
+    "Facility": "Hajia Damata Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma North",
+    "Sub-district": "Odorkor",
+    "Facility": "Hanson Memorial Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Health Star Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Roman Ridge",
+    "Facility": "HealthNet Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Sutsurunaa",
+    "Facility": "Healthlink Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Healthnet Swan Medical Center",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Gbemi",
+    "Facility": "Hebrew Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Hobats Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "Hobem Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Holy Bridge Clinic and Maternity Home, New Mmai",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Holy Trinity Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Horbor CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Horni CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Amui Jor",
+    "Facility": "House of St. Francis Catholic Clinic and Rehabilitation Centre, Ashiaman",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor North",
+    "Facility": "Inkoom Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La North",
+    "Facility": "Integris Health Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "International Health Care Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Halcrow",
+    "Facility": "International Maritime Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Chantan",
+    "Facility": "Israel Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La North",
+    "Facility": "Itopeck Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "Jaggrey's Fertility and Medical Services",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Mantseman",
+    "Facility": "Jericho Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Joma Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Jordan Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Josa Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Shukura/Zamramaline",
+    "Facility": "Joy Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Sakumono",
+    "Facility": "Jubail Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso East",
+    "Sub-district": "Kanda",
+    "Facility": "Jubilee Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Judicial Service Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Oblogo",
+    "Facility": "Judith Maternity Home And Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Dodowa",
+    "Facility": "Justus Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "K. D. Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema North",
+    "Facility": "KASA Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Amanfrom (Ga North)",
+    "Facility": "Kaba Mission Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Kaneshie Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Kaneshie Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Kasseh Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Osudoku",
+    "Facility": "Kasunya CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "Katamanso Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Kemet Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Lashibi",
+    "Facility": "Klagon Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Kofi Kwei CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Kofi-Kope CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Kojo Ashong Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Kokrobite",
+    "Facility": "Kokrobite Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ablekuma (Accra Metro)",
+    "Facility": "Korle - Bu Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Kotoku Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "Kotoku Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie South",
+    "Facility": "Kpeshie Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Oyibi",
+    "Facility": "Kpone Bawaleshie Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Kpone",
+    "Facility": "Kpone Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "Kuberkro NO.2 Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Kuwait Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Taifa",
+    "Facility": "Kwabenya Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "LEKMA Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor North",
+    "Facility": "LEKMA Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La South",
+    "Facility": "La Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso East",
+    "Sub-district": "Nima East",
+    "Facility": "Lafiya Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Lakeside Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Lakeside Estate Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Nyigbenya Dawa",
+    "Facility": "Lakpleku CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Koose",
+    "Facility": "Lampsi Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Kokrobite",
+    "Facility": "Langma CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Akweteman",
+    "Facility": "Lapaz Community Hopital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "Lapaz Community Hospital Annex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Dodowa",
+    "Facility": "Lardowayo-Odumse Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Lebanon Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Lekpongunor",
+    "Facility": "Lekpongunor CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Mallam",
+    "Facility": "Lifeline Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Lighthouse Mission Hospital, North Kaneshie",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "Lister Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Ashongman",
+    "Facility": "Living Stream Church of Christ Medical Centre (LSCC Medical Centre)",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Chantan",
+    "Facility": "Lizscholl Care Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Lizzie (Ga West) Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Dodowa",
+    "Facility": "Lower Dodowa CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "LuccaHealth Medical Specialty Center",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Lucy Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Sege",
+    "Facility": "Luhuor CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Lyn-Nach Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Kotoku",
+    "Facility": "M&D Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "M&M Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma North",
+    "Sub-district": "Darkuman",
+    "Facility": "MAB International Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "MAB Medicare Annex Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "MAON Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "MAXBETH Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso North",
+    "Sub-district": "Maamobi West",
+    "Facility": "Maamobi General Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Sege",
+    "Facility": "Madavunu CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Madina Community Hospital and Specialist Services",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Madina Polyclinic (Kekele)",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Madina Polyclinic (Rawlings Circle)",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Makola Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Zongo/Zoti",
+    "Facility": "Makwa Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Accra Newtown",
+    "Facility": "Mallam Atta Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ablekuma (Accra Metro)",
+    "Facility": "Mamprobi Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Manhean",
+    "Facility": "Manhean Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Manix Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "Manna Mission Hosp, Teshie-Nungua",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Anyaa",
+    "Facility": "Mary Lucy Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Koose",
+    "Facility": "Masigan Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Bornikope",
+    "Facility": "Matsekope CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Max-Mum Care Plus Annex Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Mayera",
+    "Facility": "Mayera Faase Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "McHenlys Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Medi Moses Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La North",
+    "Facility": "MediGrace Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Westlands",
+    "Facility": "Medifem Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Abokobi",
+    "Facility": "Medilove Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Community 1",
+    "Facility": "Meridian Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "Metropolitan Medical Centre Complex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "Midway Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Nkwantanang",
+    "Facility": "Mighty Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Mini Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Amanfrom (Ga North)",
+    "Facility": "Minutes Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Accra Newtown",
+    "Facility": "Mission Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Mobole CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Modern Care Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Mother Of God Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Mother Of God-Washington",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "Mother-love Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Mount Camel Hospital and Fertility Center",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "Mount Vernon Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Kokrobite",
+    "Facility": "Mwin Tuba Hospital and Colo-Proctology Centre Ltd.",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "N&T Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "NK-SALEM Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema North",
+    "Facility": "Narh-bita Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La North",
+    "Facility": "Nativity Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Osudoku",
+    "Facility": "Natriku CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "Neocare Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso East",
+    "Sub-district": "Nima West",
+    "Facility": "New Cross Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Adjei Kojo",
+    "Facility": "New Crystal Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "New Crystal Clinic(Kakasunaka Branch)",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "New Fadama Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Anyaa",
+    "Facility": "New Jerusalem Maternity Home/Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Prampram",
+    "Facility": "New Ningo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Shukura/Zamramaline",
+    "Facility": "New Royal Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Amui Jor",
+    "Facility": "New Tulaku Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Blakpatsona",
+    "Facility": "Nhyira Medicare Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso East",
+    "Sub-district": "Nima East",
+    "Facility": "Nima Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "North Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "North Legon Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Nsakina CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Nunana Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Mantseman",
+    "Facility": "Nyame Bekyere Mat Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "North Ridge",
+    "Facility": "Nyarkoa Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Nyigbenya Dawa",
+    "Facility": "Nyigbenya CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie South",
+    "Facility": "Oak Street Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Oasis Medical Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "Obaatan Pa Women's Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Obeyeyie Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Obeyeyie Medical Center",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Oblogo",
+    "Facility": "Oblogo Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Obom",
+    "Facility": "Obom Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Adabraka",
+    "Facility": "Odorna Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Oduman Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Blakpatsona",
+    "Facility": "Official Town Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Ogbojo Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Maamomo",
+    "Facility": "Okanta Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Old Fadama Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Old Ningo",
+    "Facility": "Old Ningo Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Omari Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "Opoku Ware Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Optimum Medical Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Oduman",
+    "Facility": "Osag Medical Center",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Osler Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Osu",
+    "Facility": "Osu Klottey VRA Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Osudoku",
+    "Facility": "Osudoku Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Osudoku",
+    "Facility": "Osuwem CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Mayera",
+    "Facility": "Otsrikomfo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Oyarifa Health Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Oyibi",
+    "Facility": "Oyibi Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Anyaa",
+    "Facility": "PA Health Care Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "PML Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Anyaa",
+    "Facility": "Palas Town CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Lashibi",
+    "Facility": "Pama Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Pantang Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Paradise Maternity Home and Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Social Welfare",
+    "Facility": "Passion Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Peace Be Consultancy Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Pediatorkope",
+    "Facility": "Pediatorkope Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Social Welfare",
+    "Facility": "Pentecost Hospital, Madina",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "Perfect Hands Healthcare Services",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Akweteman",
+    "Facility": "Perfect Light International Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "Phanarosis Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Akweteman",
+    "Facility": "Philibells Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Amui Jor",
+    "Facility": "Pleasant Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "Pokuase Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Achimota",
+    "Facility": "PraiseWorthy Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Prampram",
+    "Facility": "Prampram Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Kokrobite",
+    "Facility": "Premier Care Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Prescott Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Prince of Peace Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Maamomo",
+    "Facility": "Prinel Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Roman Ridge",
+    "Facility": "Prisons Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "Prisons Headquarters Infirmry",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Providence Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Ada",
+    "Facility": "Pute CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Rabenrich Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Rabenrich Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Rabito Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Rahma Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Dodowa",
+    "Facility": "Rahmah Town Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Mataheko/Russia",
+    "Facility": "Rayan Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Shukura/Zamramaline",
+    "Facility": "Raykon Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Mallam",
+    "Facility": "Rejosh Women Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "Rejyfrans Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Baatsonaa",
+    "Facility": "Resolve Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Resurrection Power Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La North",
+    "Facility": "Rhema Rapha Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Sutsurunaa",
+    "Facility": "Rinat Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Zongo/Zoti",
+    "Facility": "Robert Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Baatsonaa",
+    "Facility": "Rophi Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Shiabu - Gbegbeyise",
+    "Facility": "Royal Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Weija",
+    "Facility": "Royal Good Shepherd Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Shiabu - Gbegbeyise",
+    "Facility": "Royal MMR Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso North",
+    "Sub-district": "Kwaotsuru",
+    "Facility": "Royal Star Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Oyibi",
+    "Facility": "SDA VALLEY VIEW HOSPITAL, Oyibi",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "SOS CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Sakumono",
+    "Facility": "Sakumono Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Sakumono",
+    "Facility": "Sakumono Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Amasaman",
+    "Facility": "Salvation Army Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Sam J Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Mallam",
+    "Facility": "Samala Maternity Home and Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga West",
+    "Sub-district": "Mayera",
+    "Facility": "Samsam Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Sanford World Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Accra Newtown",
+    "Facility": "Sape Agbo Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Seaview Healthcare Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Oyibi",
+    "Facility": "Seduase CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada West",
+    "Sub-district": "Sege",
+    "Facility": "Sege Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Selifem Women's Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Mallam",
+    "Facility": "Seventh Day Adventist Hospital, New Gbawe",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Dodowa",
+    "Facility": "Shai Osudoku Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor South",
+    "Facility": "Sharon Maternity Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Lashibi",
+    "Facility": "Shepherdcare Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Afienya Mataheko",
+    "Facility": "Shiloh Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Sight for Africa Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "Skyview Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La North",
+    "Facility": "Solice Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Gbetsile",
+    "Facility": "Speed Medical",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Tsinai-agber",
+    "Facility": "St Florence Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "St Matthew Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Mantseman",
+    "Facility": "St Mina Annex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Blakpatsona",
+    "Facility": "St Mina Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Agomeda",
+    "Facility": "St. Andrew Catholic Hospital, Kordiabe",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Roman Ridge",
+    "Facility": "St. Andrews Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Amui Jor",
+    "Facility": "St. Bernard Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Agege - Mpoase",
+    "Facility": "St. Gloria Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Koose",
+    "Facility": "St. John of God Catholic Hospital, Amrahia",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "St. Johns Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Gbemi",
+    "Facility": "St. Martin's Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma Central",
+    "Sub-district": "Shukura/Zamramaline",
+    "Facility": "St. Martins Memorial Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "St. Michaels Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Pokuase",
+    "Facility": "St. Moses Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Westlands",
+    "Facility": "St. Pauline Catholic Clinic, Shaishie",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "St. Rita Clinic and Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Niiman",
+    "Facility": "Star of Eden Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Star of Hope Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Ablekuma (Ga Central)",
+    "Facility": "Suhuyiri Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "Supreme Specialist Scan and Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Old Ningo",
+    "Facility": "Supreme Trust Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Swan Clinic (LANMA)",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "THC Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Chantan",
+    "Facility": "Tabora Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Taifa",
+    "Facility": "Taifa Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Taifa",
+    "Facility": "Taifa Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Tamatoku CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "La South",
+    "Facility": "Tees Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema South",
+    "Facility": "Tema General Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Community 1",
+    "Facility": "Tema Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Tema North",
+    "Facility": "Tema New Crystal Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Halcrow",
+    "Facility": "Tema Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Tema Station",
+    "Facility": "Tema Station Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie South",
+    "Facility": "Teshie Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Ada",
+    "Facility": "Teyekpitikope CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "The Bank Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "The Lord Is My Shepherd Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "The Rod Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso Central",
+    "Sub-district": "Accra Newtown",
+    "Facility": "The Salvation Army Anidasofi Clinic, Kokomlemle",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Gbentanaa",
+    "Facility": "The Trust Clinic - Adenta",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "The Trust Clinic - Dansoman",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Dome",
+    "Facility": "The Trust Clinic - Dome",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Sakumono",
+    "Facility": "The Trust Clinic - Sakumono",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema West",
+    "Sub-district": "Halcrow",
+    "Facility": "The Trust Clinic - Tema",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Korle-Klottey",
+    "Sub-district": "Osu",
+    "Facility": "The Trust Hospital - Osu",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Okai Koi South",
+    "Facility": "Theresa's Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ada East",
+    "Sub-district": "Kasseh",
+    "Facility": "Togbloku CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Duffor",
+    "Facility": "Tokpo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Tomefa CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Topcare Hospital Annex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ledzokuku",
+    "Sub-district": "Teshie North",
+    "Facility": "Treasure Life Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Treat Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Tree of Life Clinic, Accra",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga Central",
+    "Sub-district": "Sowutuom",
+    "Facility": "Trinity Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Mantseman",
+    "Facility": "Trinity Community Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Gbemi",
+    "Facility": "Tsuibleoo Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Kokrobite",
+    "Facility": "Tuba Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Sutsurunaa",
+    "Facility": "Twumasiwaa Memorial Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "UPSA Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ningo Prampram",
+    "Sub-district": "Dawhenya",
+    "Facility": "Ultimate Care Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Tema",
+    "Sub-district": "Manhean",
+    "Facility": "Unilever Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Ofankor",
+    "Facility": "Unimed Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Unique Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Tatanaa",
+    "Facility": "Unity Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Adentan",
+    "Sub-district": "Nii Ashale",
+    "Facility": "Universal Bethesda Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "University Hospital, Legon",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso West",
+    "Sub-district": "Legon",
+    "Facility": "University Of Ghana Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ablekuma (Accra Metro)",
+    "Facility": "University of Ghana Medical School Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ayawaso North",
+    "Sub-district": "Maamobi East",
+    "Facility": "Urban Aid Clinic, Mamobi",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Urgent Care Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Okai Koi North",
+    "Sub-district": "Abeka",
+    "Facility": "Urika Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Ussher Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Accra Metro",
+    "Sub-district": "Ashiedu Keteke",
+    "Facility": "Ussher Polyclinic Annex",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "VICASM Maternity Home",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ablekuma West",
+    "Sub-district": "Dansoman",
+    "Facility": "Vicom Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga North",
+    "Sub-district": "Trobu",
+    "Facility": "Vino Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Taifa",
+    "Facility": "Violet Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Nkwantanang-Madina",
+    "Sub-district": "Pantang",
+    "Facility": "Vision Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Amanfro",
+    "Facility": "Vital Assurance Health Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ashaiman",
+    "Sub-district": "Tsinai-agber",
+    "Facility": "Voice Of The Lord Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Shai-Osudoku",
+    "Sub-district": "Duffor",
+    "Facility": "Volivo CHPS",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "La-Dade-Kotopon",
+    "Sub-district": "Tenashie",
+    "Facility": "WARA Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Weija-Gbawe",
+    "Sub-district": "Weija",
+    "Facility": "Weija-Gbawe Municipal Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga South",
+    "Sub-district": "Bortianor",
+    "Facility": "Well Wish Medical Centre",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Wellmark Specialist Hospital",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "Wisconsin International University Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Zenu",
+    "Facility": "Zenu Polyclinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Krowor",
+    "Sub-district": "Krowor South",
+    "Facility": "Zimmerman Presbyterian Health Centre, Nungua",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Kpone-Katamanso",
+    "Sub-district": "Appolonia",
+    "Facility": "Zion City Community Clinic",
+    "Zone": "Greater Accra"
+  },
+  {
+    "Region": "Greater Accra",
+    "District": "Ga East",
+    "Sub-district": "Haatso",
+    "Facility": "e-Clinic Africa",
+    "Zone": "Greater Accra"
+  }
+]
