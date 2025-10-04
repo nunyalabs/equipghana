@@ -176,6 +176,27 @@ const app = {
         );
 
         if (user) {
+            // Check if password change is required
+            if (user.mustChangePassword) {
+                const newPassword = prompt(`Welcome ${user.username}!\n\nYou must change your password before continuing.\n\nEnter your new password:`);
+                if (!newPassword || newPassword.length < 6) {
+                    alert('Password must be at least 6 characters long.');
+                    return;
+                }
+                
+                const confirmPassword = prompt('Confirm your new password:');
+                if (newPassword !== confirmPassword) {
+                    alert('Passwords do not match. Please try again.');
+                    return;
+                }
+                
+                // Update password
+                user.password = newPassword;
+                user.mustChangePassword = false;
+                this.saveToStorage();
+                alert('Password changed successfully!');
+            }
+            
             this.currentUser = user;
             localStorage.setItem('currentUser', JSON.stringify(user));
             this.showScreen('registersScreen');
@@ -437,6 +458,11 @@ const app = {
     // Encrypted backup / restore (delegates to DataPortability)
     exportEncryptedBackup() { if (typeof DataPortability !== 'undefined') return DataPortability.exportEncrypted(); },
     importEncryptedBackup() { if (typeof DataPortability !== 'undefined') return DataPortability.importEncryptedAndMerge(); },
+    
+    // Admin: Share user setup package
+    shareUserSetup(userId) {
+        if (typeof DataPortability !== 'undefined') return DataPortability.exportUserSetup(userId);
+    },
 
     importData() {
         const input = document.createElement('input');

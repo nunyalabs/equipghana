@@ -128,6 +128,9 @@ const UserManagement = {
                         <button class="btn btn-primary btn-sm" onclick="app.showEditUserModal(${user.id})">
                             <i class="bi bi-pencil"></i> Edit
                         </button>
+                        <button class="btn btn-secondary btn-sm" onclick="app.shareUserSetup(${user.id}); event.stopPropagation();" title="Export encrypted setup package for this user">
+                            <i class="bi bi-share"></i> Share Setup
+                        </button>
                         <button class="btn btn-outline btn-sm" onclick="app.deleteUser(${user.id})">
                             <i class="bi bi-trash"></i>
                         </button>

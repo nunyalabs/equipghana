@@ -436,10 +436,9 @@ const FormsModule = {
       case 'time': input = `<input type="time" class="form-input" id="field_${field.id}" ${field.required?'required':''}>`; break;
       case 'datetime': input = `<input type="datetime-local" class="form-input" id="field_${field.id}" ${field.required?'required':''}>`; break;
       case 'textarea': input = `<textarea class="form-input" id="field_${field.id}" rows="4" ${field.required?'required':''}></textarea>`; break;
-      case 'yesno':
+      case 'yes_no':
         input = `<select class="form-input" id="field_${field.id}" ${field.required?'required':''}><option value="">-- Select --</option><option value="Yes">Yes</option><option value="No">No</option></select>`; break;
       case 'select_one':
-      case 'yes_no':
         input = `<select class="form-input" id="field_${field.id}" ${field.required?'required':''}><option value="">-- Select --</option>${(field.choices||[]).map(c=>`<option value="${c}">${c}</option>`).join('')}</select>`; break;
       case 'select_multiple':
         input = `<div style="background: rgba(255,255,255,0.9); padding:12px; border-radius:12px;">${(field.choices||[]).map(c=>`<label style="display:block; margin-bottom:8px;"><input type="checkbox" name="field_${field.id}" value="${c}"> ${c}</label>`).join('')}</div>`; break;

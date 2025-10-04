@@ -57,14 +57,18 @@ const DataPortability = {
     if (!this.app.currentUser) { alert('Login required.'); return; }
     const input = document.createElement('input');
     input.type = 'file';
-    input.accept = '.json,.equipbak';
+    input.accept = '.json,.equipbak,.equipsetup';
     input.onchange = async () => {
       const file = input.files[0]; if (!file) return;
       try {
         const text = await file.text();
         const envelope = JSON.parse(text);
         if (!envelope.crypto || !envelope.crypto.ciphertext) { alert('File is not a valid encrypted backup.'); return; }
-        const pass = prompt('Enter passphrase to decrypt backup:');
+        
+        // Check if this is a user setup package
+        const isSetupPackage = envelope.meta?.module === 'EQUIP_USER_SETUP';
+        
+        const pass = prompt(isSetupPackage ? 'Enter the passphrase provided by your administrator:' : 'Enter passphrase to decrypt backup:');
         if (!pass) { alert('Import cancelled.'); return; }
   const salt = this._fromBase64(envelope.crypto.salt);
   const iv = this._fromBase64(envelope.crypto.iv);
@@ -77,6 +81,13 @@ const DataPortability = {
           alert('Decryption failed (wrong passphrase or corrupt file).'); return;
         }
         const decoded = JSON.parse(new TextDecoder().decode(plaintext));
+        
+        // Handle user setup package differently
+        if (isSetupPackage && decoded.userCredentials) {
+          await this.handleUserSetupImport(decoded);
+          return;
+        }
+        
         const summary = this.mergeData(decoded);
         this.app.saveToStorage();
         alert(`Merge complete. Added: Users ${summary.usersAdded}, Forms ${summary.formsAdded}, Records ${summary.recordsAdded}. Skipped duplicates: ${summary.usersSkipped} users, ${summary.formsSkipped} forms, ${summary.recordsSkipped} records.`);
@@ -85,6 +96,193 @@ const DataPortability = {
       }
     };
     input.click();
+  },
+
+  // =============================
+  // ADMIN USER SETUP EXPORT
+  // =============================
+  async exportUserSetup(userId) {
+    if (!this.app.hasPermission('canManageUsers')) {
+      alert('Only administrators can export user setup packages.');
+      return;
+    }
+    
+    const user = this.app.data.users.find(u => u.id === userId);
+    if (!user) {
+      alert('User not found.');
+      return;
+    }
+    
+    const tempPassword = this._generateTempPassword();
+    const pass = prompt(`Enter a passphrase to encrypt the setup package for ${user.username}:\n\n(Share this passphrase separately with the user)`);
+    if (!pass) {
+      alert('Export cancelled - no passphrase.');
+      return;
+    }
+    
+    try {
+      // Build user setup payload
+      const payload = {
+        userCredentials: {
+          username: user.username,
+          temporaryPassword: tempPassword,
+          mustChangePassword: true
+        },
+        userProfile: {
+          id: user.id,
+          username: user.username,
+          roleId: user.roleId,
+          scope: user.scope,
+          permissions: user.permissions,
+          assignedRegisters: user.assignedRegisters || [],
+          assignedCSOs: user.assignedCSOs || []
+        },
+        roles: this.app.data.roles.filter(r => r.id === user.roleId),
+        forms: this.app.data.forms.filter(f => 
+          !user.assignedRegisters || 
+          user.assignedRegisters.length === 0 || 
+          user.assignedRegisters.includes(f.id)
+        ),
+        setupInstructions: {
+          step1: 'Import this file using the "Import Encrypted Backup" button',
+          step2: 'Login with the temporary password',
+          step3: 'You will be prompted to change your password',
+          step4: 'After changing password, you can start using the system'
+        }
+      };
+      
+      const plaintext = new TextEncoder().encode(JSON.stringify(payload));
+      const salt = crypto.getRandomValues(new Uint8Array(16));
+      const key = await this._deriveKey(pass, salt);
+      const iv = crypto.getRandomValues(new Uint8Array(12));
+      const ciphertext = new Uint8Array(await crypto.subtle.encrypt({ name: 'AES-GCM', iv }, key, plaintext));
+      
+      const envelope = {
+        meta: {
+          module: 'EQUIP_USER_SETUP',
+          version: this.version,
+          exportedAt: new Date().toISOString(),
+          exporter: this.app.currentUser.username,
+          targetUser: user.username,
+          includes: ['credentials', 'profile', 'roles', 'forms']
+        },
+        crypto: {
+          alg: 'AES-GCM',
+          kdf: 'PBKDF2',
+          iterations: 120000,
+          salt: this._toBase64(salt),
+          iv: this._toBase64(iv),
+          ciphertext: this._toBase64(ciphertext)
+        }
+      };
+      
+      const blob = new Blob([JSON.stringify(envelope, null, 2)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = `equip_user_setup_${user.username}_${new Date().toISOString().split('T')[0]}.equipsetup.json`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(a.href);
+      
+      // Show the temp password to admin
+      alert(`User setup package exported successfully!\n\nTemporary Password: ${tempPassword}\n\nIMPORTANT:\n1. Share the .equipsetup.json file with ${user.username}\n2. Share the passphrase separately (securely)\n3. Share the temporary password: ${tempPassword}\n4. User must change password on first login`);
+      
+    } catch (e) {
+      console.error(e);
+      alert('Export failed: ' + e.message);
+    }
+  },
+
+  async handleUserSetupImport(setupData) {
+    // Check if user already exists
+    const existingUser = this.app.data.users.find(u => u.username === setupData.userCredentials.username);
+    
+    if (existingUser) {
+      // User exists - this is an update package
+      const shouldUpdate = confirm(`User ${setupData.userCredentials.username} already exists. Do you want to merge the updated setup?\n\nThis will:\n- Update your permissions and assigned registers\n- Keep your current password\n- Preserve all your existing data`);
+      
+      if (!shouldUpdate) return;
+      
+      // Merge updates
+      existingUser.roleId = setupData.userProfile.roleId;
+      existingUser.scope = setupData.userProfile.scope;
+      existingUser.permissions = setupData.userProfile.permissions;
+      existingUser.assignedRegisters = setupData.userProfile.assignedRegisters;
+      existingUser.assignedCSOs = setupData.userProfile.assignedCSOs;
+      
+      // Merge forms without duplicates
+      let formsAdded = 0;
+      if (setupData.forms) {
+        setupData.forms.forEach(f => {
+          if (!this.app.data.forms.find(existing => existing.id === f.id)) {
+            this.app.data.forms.push(f);
+            formsAdded++;
+          }
+        });
+      }
+      
+      this.app.saveToStorage();
+      alert(`Setup updated successfully!\n\n- Profile updated\n- ${formsAdded} new forms added\n- All your data preserved`);
+      
+      // Reload if current user
+      if (this.app.currentUser && this.app.currentUser.username === setupData.userCredentials.username) {
+        this.app.currentUser = existingUser;
+        localStorage.setItem('currentUser', JSON.stringify(existingUser));
+        this.app.updateUserInfo();
+        this.app.loadDashboard();
+      }
+      
+    } else {
+      // New user - first time setup
+      alert(`Welcome ${setupData.userCredentials.username}!\n\nYour account has been set up. You will now login with your temporary password and must change it.`);
+      
+      // Add user profile with temporary password
+      const newUser = {
+        ...setupData.userProfile,
+        password: setupData.userCredentials.temporaryPassword,
+        mustChangePassword: true
+      };
+      
+      this.app.data.users.push(newUser);
+      
+      // Add roles if not exist
+      if (setupData.roles) {
+        setupData.roles.forEach(r => {
+          if (!this.app.data.roles.find(existing => existing.id === r.id)) {
+            this.app.data.roles.push(r);
+          }
+        });
+      }
+      
+      // Add forms
+      if (setupData.forms) {
+        setupData.forms.forEach(f => {
+          if (!this.app.data.forms.find(existing => existing.id === f.id)) {
+            this.app.data.forms.push(f);
+          }
+        });
+      }
+      
+      this.app.saveToStorage();
+      
+      // Prompt for login
+      const shouldLogin = confirm('Setup complete! Would you like to login now?');
+      if (shouldLogin) {
+        this.app.showScreen('loginScreen');
+        document.getElementById('loginUsername').value = setupData.userCredentials.username;
+        document.getElementById('loginPassword').focus();
+      }
+    }
+  },
+
+  _generateTempPassword() {
+    const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZabcdefghjkmnpqrstuvwxyz23456789';
+    let password = '';
+    for (let i = 0; i < 12; i++) {
+      password += chars.charAt(Math.floor(Math.random() * chars.length));
+    }
+    return password;
   },
 
   // =============================
