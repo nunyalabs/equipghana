@@ -34,13 +34,13 @@ const app = {
         } else {
             console.warn('DataPortability module not found. Ensure data-portability.js is loaded before app.js');
         }
-        // Initialize Reports module
-        if (typeof ReportsModule !== 'undefined') {
-            ReportsModule.init(this);
-            // Prepare default UI state
-            ReportsModule.showReportUI();
+        // Initialize Analytics module
+        if (typeof AnalyticsModule !== 'undefined') {
+            AnalyticsModule.init(this);
+            // Show indicator library
+            AnalyticsModule.renderLibrary();
         } else {
-            console.warn('ReportsModule not found. Ensure report.js is loaded before app.js');
+            console.warn('AnalyticsModule not found. Ensure analytics.js is loaded before app.js');
         }
         
         this.checkAuth();

@@ -2,7 +2,7 @@
 // Offline-first shell, runtime caching for data, update notifications.
 // Increment CACHE_VERSION to trigger an update prompt for users.
 
-const CACHE_VERSION = 'equip-v1.0.0';
+const CACHE_VERSION = 'equip-v1.1.0';
 const APP_SHELL_CACHE = CACHE_VERSION + '-shell';
 const RUNTIME_CACHE = CACHE_VERSION + '-runtime';
 
@@ -12,7 +12,7 @@ const APP_SHELL_ASSETS = [
   'app.js',
   'forms.js',
   'users.js',
-  'report.js',
+  'analytics.js',
   'data-portability.js',
   'manifest.json',
   'sw.js',
