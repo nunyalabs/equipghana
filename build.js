@@ -85,7 +85,7 @@ async function main() {
   }
 
   // Copy icons
-  const icons = ['icon-192.png','icon-512.png'];
+  const icons = ['icon-192.png','icon-512.png', 'equip.png'];
   for (const ic of icons) {
     const src = path.join(root, ic);
     if (fs.existsSync(src)) {
