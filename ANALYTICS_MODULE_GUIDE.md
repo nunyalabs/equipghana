@@ -3,6 +3,35 @@
 ## Overview
 The new Analytics Module provides DHIS2-style data visualization and indicator creation for EQUIP registers. Users can create custom indicators with data elements, disaggregation, and filtering, then visualize results with charts and tables.
 
+## Pre-loaded Example Indicators
+
+The system comes with **4 pre-configured PrEP indicators** to help you get started:
+
+### PrEP_New Group (New Enrollments)
+1. **PrEP_New: Pregnant Women**
+   - Number of pregnant women newly enrolled on PrEP in the reporting period
+   - Disaggregated by age groups (15-19, 20-24, 25-29, 30+)
+
+2. **PrEP_New: Breastfeeding Women**
+   - Number of breastfeeding women newly enrolled on PrEP in the reporting period
+   - Disaggregated by age groups (15-19, 20-24, 25-29, 30+)
+
+### PrEP_CT Group (Continuation/Follow-up)
+3. **PrEP_CT: Pregnant Women**
+   - Number of pregnant women who returned for follow-up/re-initiation visits
+   - Disaggregated by age groups (15-19, 20-24, 25-29, 30+)
+
+4. **PrEP_CT: Breastfeeding Women**
+   - Number of breastfeeding women who returned for follow-up/re-initiation visits
+   - Disaggregated by age groups (15-19, 20-24, 25-29, 30+)
+
+**To use these examples:**
+1. Navigate to the **Analytics** tab
+2. You'll see all 4 indicators in your library
+3. Click **Run** on any indicator to generate results
+4. Click **Edit** to see how they're configured
+5. Use them as templates to create similar indicators
+
 ## Features
 
 ### 1. Indicator Builder

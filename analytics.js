@@ -497,7 +497,154 @@ const AnalyticsModule = {
 
 	loadIndicators() {
 		const stored = localStorage.getItem('equipIndicators');
-		this.indicators = stored ? JSON.parse(stored) : [];
+		if (stored) {
+			this.indicators = JSON.parse(stored);
+		} else {
+			// Load example indicators on first run
+			this.indicators = this.getExampleIndicators();
+			this.saveIndicators();
+		}
+	},
+
+	getExampleIndicators() {
+		return [
+			{
+				id: 1001,
+				name: 'PrEP_New: Pregnant Women',
+				description: 'Number of pregnant women who were newly enrolled on pre-exposure prophylaxis (PrEP) to prevent HIV infection in the reporting period',
+				register: 'PrEP Register',
+				dataElements: [
+					{
+						id: 1,
+						name: 'New PrEP Enrollments - Pregnant',
+						type: 'count',
+						formula: null,
+						condition: 'Initiation Date is not empty AND Pregnancy Status = "Pregnant"'
+					}
+				],
+				disaggregations: [
+					{
+						field: 'Age Group',
+						groups: [
+							{ name: '15-19 years', condition: 'Age >= 15 AND Age <= 19' },
+							{ name: '20-24 years', condition: 'Age >= 20 AND Age <= 24' },
+							{ name: '25-29 years', condition: 'Age >= 25 AND Age <= 29' },
+							{ name: '30+ years', condition: 'Age >= 30' }
+						]
+					}
+				],
+				filters: {
+					dateField: 'Initiation Date',
+					startDate: null,
+					endDate: null,
+					location: { region: null, zone: null, district: null, facility: null }
+				},
+				createdAt: new Date('2024-10-01').toISOString(),
+				updatedAt: new Date('2024-10-01').toISOString()
+			},
+			{
+				id: 1002,
+				name: 'PrEP_New: Breastfeeding Women',
+				description: 'Number of breastfeeding women who were newly enrolled on pre-exposure prophylaxis (PrEP) to prevent HIV infection in the reporting period',
+				register: 'PrEP Register',
+				dataElements: [
+					{
+						id: 1,
+						name: 'New PrEP Enrollments - Breastfeeding',
+						type: 'count',
+						formula: null,
+						condition: 'Initiation Date is not empty AND Pregnancy Status = "Breastfeeding"'
+					}
+				],
+				disaggregations: [
+					{
+						field: 'Age Group',
+						groups: [
+							{ name: '15-19 years', condition: 'Age >= 15 AND Age <= 19' },
+							{ name: '20-24 years', condition: 'Age >= 20 AND Age <= 24' },
+							{ name: '25-29 years', condition: 'Age >= 25 AND Age <= 29' },
+							{ name: '30+ years', condition: 'Age >= 30' }
+						]
+					}
+				],
+				filters: {
+					dateField: 'Initiation Date',
+					startDate: null,
+					endDate: null,
+					location: { region: null, zone: null, district: null, facility: null }
+				},
+				createdAt: new Date('2024-10-01').toISOString(),
+				updatedAt: new Date('2024-10-01').toISOString()
+			},
+			{
+				id: 1003,
+				name: 'PrEP_CT: Pregnant Women',
+				description: 'Number of pregnant women that returned for a follow-up or re-initiation visit to receive PrEP during the reporting period',
+				register: 'PrEP Register',
+				dataElements: [
+					{
+						id: 1,
+						name: 'PrEP Follow-up Visits - Pregnant',
+						type: 'count',
+						formula: null,
+						condition: 'Last Refill Date is not empty AND Pregnancy Status = "Pregnant"'
+					}
+				],
+				disaggregations: [
+					{
+						field: 'Age Group',
+						groups: [
+							{ name: '15-19 years', condition: 'Age >= 15 AND Age <= 19' },
+							{ name: '20-24 years', condition: 'Age >= 20 AND Age <= 24' },
+							{ name: '25-29 years', condition: 'Age >= 25 AND Age <= 29' },
+							{ name: '30+ years', condition: 'Age >= 30' }
+						]
+					}
+				],
+				filters: {
+					dateField: 'Last Refill Date',
+					startDate: null,
+					endDate: null,
+					location: { region: null, zone: null, district: null, facility: null }
+				},
+				createdAt: new Date('2024-10-01').toISOString(),
+				updatedAt: new Date('2024-10-01').toISOString()
+			},
+			{
+				id: 1004,
+				name: 'PrEP_CT: Breastfeeding Women',
+				description: 'Number of breastfeeding women that returned for a follow-up or re-initiation visit to receive PrEP during the reporting period',
+				register: 'PrEP Register',
+				dataElements: [
+					{
+						id: 1,
+						name: 'PrEP Follow-up Visits - Breastfeeding',
+						type: 'count',
+						formula: null,
+						condition: 'Last Refill Date is not empty AND Pregnancy Status = "Breastfeeding"'
+					}
+				],
+				disaggregations: [
+					{
+						field: 'Age Group',
+						groups: [
+							{ name: '15-19 years', condition: 'Age >= 15 AND Age <= 19' },
+							{ name: '20-24 years', condition: 'Age >= 20 AND Age <= 24' },
+							{ name: '25-29 years', condition: 'Age >= 25 AND Age <= 29' },
+							{ name: '30+ years', condition: 'Age >= 30' }
+						]
+					}
+				],
+				filters: {
+					dateField: 'Last Refill Date',
+					startDate: null,
+					endDate: null,
+					location: { region: null, zone: null, district: null, facility: null }
+				},
+				createdAt: new Date('2024-10-01').toISOString(),
+				updatedAt: new Date('2024-10-01').toISOString()
+			}
+		];
 	},
 
 	saveIndicators() {

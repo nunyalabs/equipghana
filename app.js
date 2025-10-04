@@ -37,8 +37,7 @@ const app = {
         // Initialize Analytics module
         if (typeof AnalyticsModule !== 'undefined') {
             AnalyticsModule.init(this);
-            // Show indicator library
-            AnalyticsModule.renderLibrary();
+            // Show indicator library (already called in init)
         } else {
             console.warn('AnalyticsModule not found. Ensure analytics.js is loaded before app.js');
         }
