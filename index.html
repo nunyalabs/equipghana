@@ -977,7 +977,6 @@
     <div class="navbar">
         <div style="display: flex; align-items: center; gap: 12px;">
             <img src="equip.png" alt="EQUIP Logo" class="app-logo">
-            <h1 id="navTitle">EQUIP HEALTH Ghana</h1>
         </div>
         <div class="user-info">
             <span id="currentUser">Guest</span>
@@ -1017,7 +1016,6 @@
         <div class="tabs">
             <button class="tab active" onclick="app.showScreen('registersScreen', event)">Registers</button>
             <button class="tab" id="usersRolesTab" onclick="app.showScreen('usersAndRolesScreen', event)" style="display: none;">Users & Roles</button>
-            <button class="tab" id="reportsTab" onclick="app.showScreen('reportsScreen', event)">Reports</button>
         </div>
 
         <!-- Registers Screen (replaces Dashboard) -->
@@ -1137,16 +1135,6 @@
                 <div id="recordsEmptyState" style="display: none;"></div>
             </div>
         </div>
-
-        <!-- Reports Screen -->
-        <!-- Reports Screen -->
-        <div id="reportsScreen" class="screen">
-            <div class="glass" style="padding:24px;">
-                <h3 style="margin:0 0 16px;">Reports</h3>
-                <p>Basic reporting functionality will be available here.</p>
-            </div>
-        </div>
-
 
         <!-- Record Detail/Edit Screen -->
         <div id="recordDetailScreen" class="screen">

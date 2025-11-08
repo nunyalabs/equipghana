@@ -95,8 +95,7 @@ const app = {
         ],
         forms: [],
         records: [],
-    cso_data: [], // Legacy, will be replaced by loading cso.json
-    reports: [] // Saved report definitions
+    cso_data: [] // Legacy, will be replaced by loading cso.json
     },
 
     // Load data from localStorage
@@ -107,7 +106,6 @@ const app = {
             // Ensure new data structures exist if loading old data
             this.data = { ...this.data, ...parsedData };
             if (!this.data.roles) this.data.roles = [{ id: 1, name: 'Admin', isDefault: true }, { id: 2, name: 'User', isDefault: true }];
-            if (!this.data.reports) this.data.reports = [];
         }
     },
 
@@ -275,11 +273,6 @@ const app = {
         const usersRolesTab = document.getElementById('usersRolesTab');
         if (usersRolesTab) {
             usersRolesTab.style.display = this.hasPermission('canManageUsers') ? 'block' : 'none';
-        }
-        // Reports tab currently always visible when logged in
-        const reportsTab = document.getElementById('reportsTab');
-        if (reportsTab) {
-            reportsTab.style.display = this.currentUser ? 'block' : 'none';
         }
         // Do not forcibly hide the screen container here; navigation logic will guard access.
     },
