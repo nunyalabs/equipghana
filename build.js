@@ -61,7 +61,7 @@ async function main() {
   await minifyHTMLFile(path.join(root, 'index.html'), path.join(dist, 'index.html'));
 
   // Minify core JS files if present
-  const jsFiles = ['app.js','forms.js','analytics.js','users.js','data-portability.js','sw.js']; // analytics.js replaces report.js
+  const jsFiles = ['app.js','forms.js','users.js','data-portability.js','sw.js'];
   for (const jf of jsFiles) {
     const src = path.join(root, jf);
     if (fs.existsSync(src)) {

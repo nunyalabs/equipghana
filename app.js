@@ -34,13 +34,6 @@ const app = {
         } else {
             console.warn('DataPortability module not found. Ensure data-portability.js is loaded before app.js');
         }
-        // Initialize Analytics module
-        if (typeof AnalyticsModule !== 'undefined') {
-            AnalyticsModule.init(this);
-            // Show indicator library (already called in init)
-        } else {
-            console.warn('AnalyticsModule not found. Ensure analytics.js is loaded before app.js');
-        }
         
         this.checkAuth();
         

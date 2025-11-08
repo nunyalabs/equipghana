@@ -13,8 +13,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
-    <!-- Chart.js for Analytics -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     
     <style>
         /* Base Reset and Variables */
@@ -643,27 +641,9 @@
                 max-height: 85vh;
             }
         }
+    </style>
 
-        /* ================================
-           ANALYTICS MODULE STYLES
-           ================================ */
-        
-        /* Indicator Library Grid */
-        .indicator-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 16px;
-            margin-top: 16px;
-        }
 
-        .indicator-card {
-            background: white;
-            border: 1px solid #E5E7EB;
-            border-radius: 8px;
-            padding: 16px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
 
         .indicator-card:hover {
             border-color: var(--brand-red);
@@ -1037,7 +1017,7 @@
         <div class="tabs">
             <button class="tab active" onclick="app.showScreen('registersScreen', event)">Registers</button>
             <button class="tab" id="usersRolesTab" onclick="app.showScreen('usersAndRolesScreen', event)" style="display: none;">Users & Roles</button>
-            <button class="tab" id="reportsTab" onclick="app.showScreen('reportsScreen', event)">Analytics</button>
+            <button class="tab" id="reportsTab" onclick="app.showScreen('reportsScreen', event)">Reports</button>
         </div>
 
         <!-- Registers Screen (replaces Dashboard) -->
@@ -1159,37 +1139,11 @@
         </div>
 
         <!-- Reports Screen -->
-        <!-- Analytics & Reports Screen (New Design) -->
+        <!-- Reports Screen -->
         <div id="reportsScreen" class="screen">
             <div class="glass" style="padding:24px;">
-                
-                <!-- Analytics Home View -->
-                <div id="analyticsHomeView">
-                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
-                        <div>
-                            <h3 style="margin:0;">Analytics & Indicators</h3>
-                            <p style="margin:4px 0 0; font-size:14px; color:#6B7280;">Create and run custom indicators with disaggregation</p>
-                        </div>
-                        <button class="btn btn-primary" onclick="AnalyticsModule.startNewIndicator()">
-                            <i class="bi bi-plus-circle"></i> New Indicator
-                        </button>
-                    </div>
-                    <div id="analyticsIndicatorLibrary"></div>
-                </div>
-
-                <!-- Indicator Builder View -->
-                <div id="analyticsBuilderView" style="display:none;">
-                    <button class="btn btn-outline" style="margin-bottom:16px;" onclick="AnalyticsModule.goHome()">
-                        <i class="bi bi-arrow-left"></i> Back to Library
-                    </button>
-                    <div id="indicatorBuilderContainer"></div>
-                </div>
-
-                <!-- Results View -->
-                <div id="analyticsResultsView" style="display:none;">
-                    <div id="analyticsResultsContainer"></div>
-                </div>
-
+                <h3 style="margin:0 0 16px;">Reports</h3>
+                <p>Basic reporting functionality will be available here.</p>
             </div>
         </div>
 
@@ -1617,12 +1571,8 @@
     <script src="forms.js"></script>
     <!-- Data Portability Module -->
     <script src="data-portability.js"></script>
-    <!-- Analytics Module (New - replaces report.js) -->
-    <script src="analytics.js"></script>
     
     <!-- Custom JS -->
     <script src="app.js"></script>
-</body>
-</html>
 </body>
 </html>

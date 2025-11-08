@@ -12,7 +12,6 @@ const APP_SHELL_ASSETS = [
   'app.js',
   'forms.js',
   'users.js',
-  'analytics.js',
   'data-portability.js',
   'manifest.json',
   'sw.js',
